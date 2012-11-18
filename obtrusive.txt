@@ -1,32 +1,38 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 18 Nov 2012 19:00 UTC
+! Last modified: 18 Nov 2012 21:00 GMT
 ! Expires: 7 days (update frequency)
-! Homepage: https://github.com/liamja/Prebake/
-! Licence: https://github.com/liamja/Prebake/LICENSE.md
+! Homepage: https://liamja.github.com/Prebake/
+! Licence: https://raw.github.com/liamja/Prebake/master/README.md
 !
 ! Please post any details regarding unblocked notices or problems
 ! to the GitHub issue tracker (https://github.com/liamja/Prebake/issues)
 ! or via e-mail (liam.anderson.91+prebake@gmail.com).
 
 !--- News
-guardian.co.uk##DIV[class="identity-noticebar-content"]
-gizmodo.co.uk##DIV[id="fp_cookieMessageContainer"]
+guardian.co.uk##.identity-noticebar-content
+gizmodo.co.uk###fp_cookieMessageContainer
+newstatesman.com###cookiesdirective
+edp24.co.uk###cookielaw
 
 !--- Streaming
-bbc.co.uk##DIV[id="bbccookies"]
-channel4.com##DIV[id="cookieNotification"][class="alert-wrapper cf"]
+bbc.co.uk###bbccookies
+channel4.com###cookieNotification
+channel5.com###cookie-notification
 
 !--- Banking
-barclays.co.uk##P[class="otm"]
+barclays.co.uk##P.otm
+nationwide.co.uk###cn
+
+!--- Tech
+cnet.co.uk###cookiePolicy
 
 !--- Food
-allrecipes.co.uk##DIV[id="cookiePopupContainer"]
-bbcgoodfood.com##DIV[id="cookie-policy-container"]
+allrecipes.co.uk###cookiePopupContainer
+bbcgoodfood.com###cookie-policy-container
 
 !--- TV
-uktv.co.uk##DIV[id="cookies-panel"]
+uktv.co.uk###cookies-panel
 
 !--- Other
-gearslutz.com##DIV[id="navbar_notice_60"][class="navbar_notice"]
-soundonsound.com##DIV[id="cccwr"]
+soundonsound.com###cccwr
