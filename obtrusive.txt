@@ -29,6 +29,9 @@ nationwide.co.uk###cn
 cnet.co.uk###cookiePolicy
 h-online.com###cookie_warning
 
+!--- Shopping
+furniturevillage.co.uk###SiteMasterPage_updCookieDisclaimer
+
 !--- Food
 allrecipes.co.uk###cookiePopupContainer
 bbcgoodfood.com###cookie-policy-container
