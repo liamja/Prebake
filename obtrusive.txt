@@ -17,6 +17,7 @@ edp24.co.uk###cookielaw
 newscientist.com###rbiCookiePolicy_pushDownBoxWrapper
 fhm.com###bauerCookiePolicy
 eurogamer.net###cookie-bar
+empireonline.com###bauerCookiePolicy
 
 !--- Streaming
 bbc.co.uk###bbccookies
