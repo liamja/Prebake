@@ -18,6 +18,7 @@ newscientist.com###rbiCookiePolicy_pushDownBoxWrapper
 fhm.com###bauerCookiePolicy
 eurogamer.net###cookie-bar
 empireonline.com###bauerCookiePolicy
+thesun.co.uk###sun-cookieMessage
 
 !--- Streaming
 bbc.co.uk###bbccookies
