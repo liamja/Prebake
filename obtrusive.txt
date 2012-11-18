@@ -1,0 +1,32 @@
+[Adblock Plus 1.1]
+! Title: Prebake - Filter Obtrusive Cookie Notices
+! Last modified: 18 Nov 2012 19:00 UTC
+! Expires: 7 days (update frequency)
+! Homepage: https://github.com/liamja/Prebake/
+! Licence: https://github.com/liamja/Prebake/LICENSE.md
+!
+! Please post any details regarding unblocked notices or problems
+! to the GitHub issue tracker (https://github.com/liamja/Prebake/issues)
+! or via e-mail (liam.anderson.91+prebake@gmail.com).
+
+!--- News
+guardian.co.uk##DIV[class="identity-noticebar-content"]
+gizmodo.co.uk##DIV[id="fp_cookieMessageContainer"]
+
+!--- Streaming
+bbc.co.uk##DIV[id="bbccookies"]
+channel4.com##DIV[id="cookieNotification"][class="alert-wrapper cf"]
+
+!--- Banking
+barclays.co.uk##P[class="otm"]
+
+!--- Food
+allrecipes.co.uk##DIV[id="cookiePopupContainer"]
+bbcgoodfood.com##DIV[id="cookie-policy-container"]
+
+!--- TV
+uktv.co.uk##DIV[id="cookies-panel"]
+
+!--- Other
+gearslutz.com##DIV[id="navbar_notice_60"][class="navbar_notice"]
+soundonsound.com##DIV[id="cccwr"]

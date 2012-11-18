@@ -1,0 +1,13 @@
+[Adblock Plus 1.1]
+! Title: Prebake - Filter Quiet Cookie Notices
+! Last modified: 18 Nov 2012 19:00 UTC
+! Expires: 7 days (update frequency)
+! Homepage: https://github.com/liamja/Prebake/
+! Licence: https://github.com/liamja/Prebake/LICENSE.md
+!
+! Please post any details regarding unblocked notices or problems
+! to the GitHub issue tracker (https://github.com/liamja/Prebake/issues)
+! or via e-mail (liam.anderson.91+prebake@gmail.com).
+
+!--- Other
+gearslutz.com##DIV[id="navbar_notice_60"][class="navbar_notice"]
