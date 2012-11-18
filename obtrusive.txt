@@ -31,6 +31,7 @@ nationwide.co.uk###cn
 !--- Tech
 cnet.co.uk###cookiePolicy
 h-online.com###cookie_warning
+allthingsd.com###cookie_notice
 
 !--- Shopping
 furniturevillage.co.uk###SiteMasterPage_updCookieDisclaimer
