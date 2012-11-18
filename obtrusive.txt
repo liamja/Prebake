@@ -19,6 +19,7 @@ fhm.com###bauerCookiePolicy
 eurogamer.net###cookie-bar
 empireonline.com###bauerCookiePolicy
 thesun.co.uk###sun-cookieMessage
+out-law.com###cookie
 
 !--- Streaming
 bbc.co.uk###bbccookies
