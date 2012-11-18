@@ -32,6 +32,7 @@ nationwide.co.uk###cn
 !--- Tech
 cnet.co.uk###cookiePolicy
 techradar.com###fp_cookieMessageContainer
+t3.com###fp_cookieMessageContainer
 h-online.com###cookie_warning
 allthingsd.com###cookie_notice
 
