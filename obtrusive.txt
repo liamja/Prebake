@@ -27,6 +27,7 @@ nationwide.co.uk###cn
 
 !--- Tech
 cnet.co.uk###cookiePolicy
+h-online.com###cookie_warning
 
 !--- Food
 allrecipes.co.uk###cookiePopupContainer
