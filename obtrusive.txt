@@ -35,5 +35,8 @@ bbcgoodfood.com###cookie-policy-container
 !--- TV
 uktv.co.uk###cookies-panel
 
+!--- Academic
+www.mdx.ac.uk###cookie
+
 !--- Other
 soundonsound.com###cccwr
