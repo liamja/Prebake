@@ -15,6 +15,7 @@ gizmodo.co.uk###fp_cookieMessageContainer
 newstatesman.com###cookiesdirective
 edp24.co.uk###cookielaw
 newscientist.com###rbiCookiePolicy_pushDownBoxWrapper
+fhm.com###bauerCookiePolicy
 
 !--- Streaming
 bbc.co.uk###bbccookies
