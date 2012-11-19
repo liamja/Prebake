@@ -9,6 +9,9 @@
 ! to the GitHub issue tracker (https://github.com/liamja/Prebake/issues)
 ! or via e-mail (liam.anderson.91+prebake@gmail.com).
 
+!--- Shopping
+asda.com###P.cookiesWarning
+
 !--- Other
 gearslutz.com###navbar_notice_60.navbar_notice
 autotrader.co.uk##.cookieinfo
