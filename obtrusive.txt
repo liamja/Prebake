@@ -46,6 +46,7 @@ allthingsd.com###cookie_notice
 
 !--- Shopping
 furniturevillage.co.uk###SiteMasterPage_updCookieDisclaimer
+johnlewis.com###opnotification
 
 !--- Food
 allrecipes.co.uk###cookiePopupContainer
