@@ -34,6 +34,7 @@ channel5.com###cookie-notification
 barclays.co.uk##P.otm
 nationwide.co.uk###cn
 hsbc.co.uk###disclaimer_banner.eucookie_disclaimer
+natwest.com###EUDirectiveCookiePanel
 
 !--- Tech
 cnet.co.uk###cookiePolicy
