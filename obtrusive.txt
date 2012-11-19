@@ -57,6 +57,9 @@ uktv.co.uk###cookies-panel
 !--- Academic
 www.mdx.ac.uk###cookie
 
+!--- Government
+gov.uk###global-cookie-message
+
 !--- Other
 soundonsound.com###cccwr
 rightmove.co.uk###cookiemodalbar
