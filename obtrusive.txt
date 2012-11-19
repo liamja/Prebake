@@ -55,6 +55,9 @@ bbcgoodfood.com###cookie-policy-container
 !--- TV
 uktv.co.uk###cookies-panel
 
+!--- Sport
+premierleague.com###cookies-verify
+
 !--- Academic
 www.mdx.ac.uk###cookie
 
