@@ -25,6 +25,9 @@ out-law.com###cookie
 bbc.co.uk###bbccookies
 channel4.com###cookieNotification
 film4.com###cookieNotification
+more4.com###cookieNotification
+e4.com###cookieNotification
+4music.com###cookieNotification
 channel5.com###cookie-notification
 
 !--- Banking
