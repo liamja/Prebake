@@ -66,3 +66,4 @@ soundonsound.com###cccwr
 rightmove.co.uk###cookiemodalbar
 bt.com###cookieNotification
 moneysavingexpert.com###alertBar
+royalmail.com###block-cookie_policy-0
