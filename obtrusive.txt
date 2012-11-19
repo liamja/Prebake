@@ -71,3 +71,4 @@ rightmove.co.uk###cookiemodalbar
 bt.com###cookieNotification
 moneysavingexpert.com###alertBar
 royalmail.com###block-cookie_policy-0
+betfair.com##.footer-cookies-policy
