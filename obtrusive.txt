@@ -33,6 +33,7 @@ channel5.com###cookie-notification
 !--- Banking
 barclays.co.uk##P.otm
 nationwide.co.uk###cn
+hsbc.co.uk###disclaimer_banner.eucookie_disclaimer
 
 !--- Tech
 cnet.co.uk###cookiePolicy
