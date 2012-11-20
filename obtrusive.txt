@@ -10,6 +10,7 @@
 ! or via e-mail (liam.anderson.91+prebake@gmail.com).
 
 !--- News
+bbc.com###bbccookies
 guardian.co.uk##.identity-noticebar-content
 gizmodo.co.uk###fp_cookieMessageContainer
 newstatesman.com###cookiesdirective
