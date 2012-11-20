@@ -52,6 +52,9 @@ johnlewis.com###opnotification
 allrecipes.co.uk###cookiePopupContainer
 bbcgoodfood.com###cookie-policy-container
 
+!--- Music
+last.fm###cookie-law-bar
+
 !--- TV
 uktv.co.uk###cookies-panel
 
