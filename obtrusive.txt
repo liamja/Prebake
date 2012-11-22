@@ -21,6 +21,7 @@ eurogamer.net###cookie-bar
 empireonline.com###bauerCookiePolicy
 thesun.co.uk###sun-cookieMessage
 out-law.com###cookie
+mirror.co.uk###cookieNotification
 
 !--- Streaming
 bbc.co.uk###bbccookies
