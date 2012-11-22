@@ -55,6 +55,7 @@ bbcgoodfood.com###cookie-policy-container
 
 !--- Music
 last.fm###cookie-law-bar
+classicrockmagazine.com###fp_cookieMessageContainer
 
 !--- TV
 uktv.co.uk###cookies-panel
