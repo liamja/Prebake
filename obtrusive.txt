@@ -22,6 +22,7 @@ empireonline.com###bauerCookiePolicy
 thesun.co.uk###sun-cookieMessage
 out-law.com###cookie
 mirror.co.uk###cookieNotification
+archant.co.uk###cookielaw
 whtimes.co.uk###cookielaw
 
 !--- Streaming
