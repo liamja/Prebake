@@ -70,6 +70,7 @@ uktv.co.uk###cookies-panel
 !--- Sport
 premierleague.com###cookies-verify
 fantasyfootballscout.co.uk###cookie-bar
+mclaren.com###block-cookie-info
 
 !--- Academic
 www.mdx.ac.uk###cookie
