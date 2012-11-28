@@ -71,6 +71,7 @@ uktv.co.uk###cookies-panel
 premierleague.com###cookies-verify
 fantasyfootballscout.co.uk###cookie-bar
 mclaren.com###block-cookie-info
+mclarenstore.com##.widget-notifyBar
 
 !--- Academic
 www.mdx.ac.uk###cookie
