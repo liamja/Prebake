@@ -10,82 +10,82 @@
 ! or via e-mail (liam.anderson.91+prebake@gmail.com).
 
 !--- News
-||bbc.com###bbccookies
-||guardian.co.uk##.identity-noticebar-content
-||gizmodo.co.uk###fp_cookieMessageContainer
-||newstatesman.com###cookiesdirective
-||edp24.co.uk###cookielaw
-||newscientist.com###rbiCookiePolicy_pushDownBoxWrapper
-||fhm.com###bauerCookiePolicy
-||eurogamer.net###cookie-bar
-||empireonline.com###bauerCookiePolicy
-||thesun.co.uk###sun-cookieMessage
-||out-law.com###cookie
-||mirror.co.uk###cookieNotification
-||archant.co.uk###cookielaw
-||greatbritishlife.co.uk###cookielaw
-||whtimes.co.uk###cookielaw
+bbc.com###bbccookies
+guardian.co.uk##.identity-noticebar-content
+gizmodo.co.uk###fp_cookieMessageContainer
+newstatesman.com###cookiesdirective
+edp24.co.uk###cookielaw
+newscientist.com###rbiCookiePolicy_pushDownBoxWrapper
+fhm.com###bauerCookiePolicy
+eurogamer.net###cookie-bar
+empireonline.com###bauerCookiePolicy
+thesun.co.uk###sun-cookieMessage
+out-law.com###cookie
+mirror.co.uk###cookieNotification
+archant.co.uk###cookielaw
+greatbritishlife.co.uk###cookielaw
+whtimes.co.uk###cookielaw
 
 !--- Streaming
-||bbc.co.uk###bbccookies
-||channel4.com###cookieNotification
-||film4.com###cookieNotification
-||more4.com###cookieNotification
-||e4.com###cookieNotification
-||4music.com###cookieNotification
-||channel5.com###cookie-notification
-||spotify.com##.notification-bar.uk-cookies
+bbc.co.uk###bbccookies
+channel4.com###cookieNotification
+film4.com###cookieNotification
+more4.com###cookieNotification
+e4.com###cookieNotification
+4music.com###cookieNotification
+channel5.com###cookie-notification
+spotify.com##.notification-bar.uk-cookies
 
 !--- Banking
-||barclays.co.uk##P.otm
-||nationwide.co.uk###cn
-||hsbc.co.uk###disclaimer_banner.eucookie_disclaimer
-||natwest.com###EUDirectiveCookiePanel
+barclays.co.uk##P.otm
+nationwide.co.uk###cn
+hsbc.co.uk###disclaimer_banner.eucookie_disclaimer
+natwest.com###EUDirectiveCookiePanel
 
 !--- Tech
-||cnet.co.uk###cookiePolicy
-||techradar.com###fp_cookieMessageContainer
-||t3.com###fp_cookieMessageContainer
-||pcgamer.com###fp_cookieMessageContainer
-||h-online.com###cookie_warning
-||allthingsd.com###cookie_notice
+cnet.co.uk###cookiePolicy
+techradar.com###fp_cookieMessageContainer
+t3.com###fp_cookieMessageContainer
+pcgamer.com###fp_cookieMessageContainer
+h-online.com###cookie_warning
+allthingsd.com###cookie_notice
 
 !--- Shopping
-||furniturevillage.co.uk###SiteMasterPage_updCookieDisclaimer
-||johnlewis.com###opnotification
-||drive24.co.uk###cookieHeader
+furniturevillage.co.uk###SiteMasterPage_updCookieDisclaimer
+johnlewis.com###opnotification
+drive24.co.uk###cookieHeader
 
 !--- Food
-||allrecipes.co.uk###cookiePopupContainer
-||bbcgoodfood.com###cookie-policy-container
+allrecipes.co.uk###cookiePopupContainer
+bbcgoodfood.com###cookie-policy-container
 videojug.com##.cp-alert-message
 
 !--- Music
-||last.fm###cookie-law-bar
-||classicrockmagazine.com###fp_cookieMessageContainer
+last.fm###cookie-law-bar
+classicrockmagazine.com###fp_cookieMessageContainer
 
 !--- TV
-||uktv.co.uk###cookies-panel
+uktv.co.uk###cookies-panel
 
 !--- Sport
-||premierleague.com###cookies-verify
-||fantasyfootballscout.co.uk###cookie-bar
-||mclaren.com###block-cookie-info
-||mclarenstore.com##.widget-notifyBar
+premierleague.com###cookies-verify
+fantasyfootballscout.co.uk###cookie-bar
+mclaren.com###block-cookie-info
+mclarenstore.com##.widget-notifyBar
 
 !--- Academic
-||www.mdx.ac.uk###cookie
+www.mdx.ac.uk###cookie
 
 !--- Government
-||gov.uk###global-cookie-message
-||tfl.gov.uk###tfl-cookies
+gov.uk###global-cookie-message
+tfl.gov.uk###tfl-cookies
 
 !--- Other
-||soundonsound.com###cccwr
-||rightmove.co.uk###cookiemodalbar
-||bt.com###cookieNotification
-||moneysavingexpert.com###alertBar
-||royalmail.com###block-cookie_policy-0
-||betfair.com##.footer-cookies-policy
-||which.co.uk###eprivacy-holder
-||wolframalpha.com###EUCookie
+soundonsound.com###cccwr
+rightmove.co.uk###cookiemodalbar
+bt.com###cookieNotification
+moneysavingexpert.com###alertBar
+royalmail.com###block-cookie_policy-0
+betfair.com##.footer-cookies-policy
+which.co.uk###eprivacy-holder
+wolframalpha.com###EUCookie
