@@ -63,6 +63,7 @@ videojug.com##.cp-alert-message
 !--- Music
 last.fm###cookie-law-bar
 classicrockmagazine.com###fp_cookieMessageContainer
+concertolive.co.uk##.divCookieWarning
 
 !--- TV
 uktv.co.uk###cookies-panel
