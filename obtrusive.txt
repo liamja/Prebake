@@ -49,6 +49,7 @@ t3.com###fp_cookieMessageContainer
 pcgamer.com###fp_cookieMessageContainer
 h-online.com###cookie_warning
 allthingsd.com###cookie_notice
+theregister.co.uk###RegCCO
 
 !--- Shopping
 furniturevillage.co.uk###SiteMasterPage_updCookieDisclaimer
