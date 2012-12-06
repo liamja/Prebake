@@ -66,6 +66,7 @@ last.fm###cookie-law-bar
 classicrockmagazine.com###fp_cookieMessageContainer
 concertolive.co.uk##.divCookieWarning
 ukflive.com##.cc-cookies
+ppluk.com###wsjpecrga
 
 !--- TV
 uktv.co.uk###cookies-panel
