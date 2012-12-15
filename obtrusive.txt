@@ -79,6 +79,7 @@ mclarenstore.com##.widget-notifyBar
 
 !--- Academic
 www.mdx.ac.uk###cookie
+www.kingston.ac.uk###site-wide-cookie-message
 
 !--- Government
 gov.uk###global-cookie-message
