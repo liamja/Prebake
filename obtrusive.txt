@@ -60,6 +60,7 @@ drive24.co.uk###cookieHeader
 allrecipes.co.uk###cookiePopupContainer
 bbcgoodfood.com###cookie-policy-container
 videojug.com##.cp-alert-message
+thehappyegg.co.uk###cccwr
 
 !--- Music
 last.fm###cookie-law-bar
