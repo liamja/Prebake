@@ -15,6 +15,7 @@ guardian.co.uk##.identity-noticebar-content
 gizmodo.co.uk###fp_cookieMessageContainer
 newstatesman.com###cookiesdirective
 edp24.co.uk###cookielaw
+eveningnews24.co.uk###cookielaw
 newscientist.com###rbiCookiePolicy_pushDownBoxWrapper
 fhm.com###bauerCookiePolicy
 eurogamer.net###cookie-bar
