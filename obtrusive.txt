@@ -69,6 +69,7 @@ classicrockmagazine.com###fp_cookieMessageContainer
 concertolive.co.uk##.divCookieWarning
 ukflive.com##.cc-cookies
 ppluk.com###wsjpecrga
+www.ministryofsound.com###ctl00_ctl00_Cookies1_UpdatePanel1
 
 !--- TV
 uktv.co.uk###cookies-panel
