@@ -96,3 +96,4 @@ royalmail.com###block-cookie_policy-0
 betfair.com##.footer-cookies-policy
 which.co.uk###eprivacy-holder
 wolframalpha.com###EUCookie
+www.tbicardiffairport.com###cookielightbox
