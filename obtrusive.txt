@@ -61,6 +61,7 @@ allrecipes.co.uk###cookiePopupContainer
 bbcgoodfood.com###cookie-policy-container
 videojug.com##.cp-alert-message
 thehappyegg.co.uk###cccwr
+www.wagamama.com##div.cookie-box
 
 !--- Music
 last.fm###cookie-law-bar
