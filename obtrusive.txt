@@ -26,6 +26,7 @@ mirror.co.uk###cookieNotification
 archant.co.uk###cookielaw
 greatbritishlife.co.uk###cookielaw
 whtimes.co.uk###cookielaw
+www.peterboroughtoday.co.uk###euCookiesQuestion
 
 !--- Streaming
 bbc.co.uk###bbccookies
