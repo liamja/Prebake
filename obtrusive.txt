@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 18 Nov 2012 21:00 GMT
+! Last modified: 12 Jan 2013 19:40 GMT
 ! Expires: 7 days (update frequency)
 ! Homepage: https://liamja.github.com/Prebake/
 ! Licence: https://raw.github.com/liamja/Prebake/master/README.md
@@ -65,6 +65,7 @@ allrecipes.co.uk###cookiePopupContainer
 bbcgoodfood.com###cookie-policy-container
 videojug.com##.cp-alert-message
 thehappyegg.co.uk###cccwr
+www.wagamama.com##div.cookie-box
 
 !--- Music
 last.fm###cookie-law-bar
@@ -100,5 +101,6 @@ royalmail.com###block-cookie_policy-0
 betfair.com##.footer-cookies-policy
 which.co.uk###eprivacy-holder
 wolframalpha.com###EUCookie
+<<<<<<< HEAD
 www.tbicardiffairport.com###cookielightbox
 road.cc###sliding-popup
