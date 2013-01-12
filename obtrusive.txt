@@ -53,6 +53,7 @@ h-online.com###cookie_warning
 allthingsd.com###cookie_notice
 theregister.co.uk###RegCCO
 www.gamesindustry.biz###cookie-policy
+gigaom.com##.privacy-policy
 
 !--- Shopping
 furniturevillage.co.uk###SiteMasterPage_updCookieDisclaimer
