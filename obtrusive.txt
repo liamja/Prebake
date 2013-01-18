@@ -54,6 +54,7 @@ allthingsd.com###cookie_notice
 theregister.co.uk###RegCCO
 www.gamesindustry.biz###cookie-policy
 gigaom.com##.privacy-policy
+orange.co.uk###cookieBannerD
 
 !--- Shopping
 furniturevillage.co.uk###SiteMasterPage_updCookieDisclaimer
