@@ -75,6 +75,7 @@ concertolive.co.uk##.divCookieWarning
 ukflive.com##.cc-cookies
 ppluk.com###wsjpecrga
 www.ministryofsound.com###ctl00_ctl00_Cookies1_UpdatePanel1
+www.metalhammer.co.uk###fp_cookieMessageContainer
 
 !--- TV
 uktv.co.uk###cookies-panel
