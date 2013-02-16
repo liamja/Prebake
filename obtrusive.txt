@@ -56,6 +56,7 @@ www.gamesindustry.biz###cookie-policy
 gigaom.com##.privacy-policy
 orange.co.uk###cookieBannerD
 www.seoconsult.com###cookieBar
+www.rockpapershotgun.com###ecd_opt_in_banner
 
 !--- Shopping
 furniturevillage.co.uk###SiteMasterPage_updCookieDisclaimer
