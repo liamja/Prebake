@@ -92,7 +92,6 @@ mclarenstore.com##.widget-notifyBar
 !--- Academic
 www.mdx.ac.uk###cookie
 www.kingston.ac.uk###site-wide-cookie-message
-<<<<<<< Updated upstream
 www.theeuropeanlibrary.org##.cc-cookies
 
 !--- Government
