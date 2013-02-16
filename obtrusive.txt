@@ -55,6 +55,7 @@ theregister.co.uk###RegCCO
 www.gamesindustry.biz###cookie-policy
 gigaom.com##.privacy-policy
 orange.co.uk###cookieBannerD
+www.seoconsult.com###cookieBar
 
 !--- Shopping
 furniturevillage.co.uk###SiteMasterPage_updCookieDisclaimer
