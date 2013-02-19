@@ -97,6 +97,7 @@ www.theeuropeanlibrary.org##.cc-cookies
 !--- Government
 gov.uk###global-cookie-message
 tfl.gov.uk###tfl-cookies
+pirateparty.org.uk###confirmCookiePolicy
 
 !--- Other
 soundonsound.com###cccwr
