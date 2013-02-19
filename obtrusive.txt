@@ -57,6 +57,7 @@ gigaom.com##.privacy-policy
 orange.co.uk###cookieBannerD
 www.seoconsult.com###cookieBar
 www.rockpapershotgun.com###ecd_opt_in_banner
+nvidia.co.uk###cookiePolicyBar
 
 !--- Shopping
 furniturevillage.co.uk###SiteMasterPage_updCookieDisclaimer
