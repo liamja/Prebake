@@ -93,6 +93,7 @@ mclarenstore.com##.widget-notifyBar
 www.mdx.ac.uk###cookie
 www.kingston.ac.uk###site-wide-cookie-message
 www.theeuropeanlibrary.org##.cc-cookies
+www.dawsonera.com##.cc-cookies-container
 
 !--- Government
 gov.uk###global-cookie-message
