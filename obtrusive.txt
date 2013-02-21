@@ -64,6 +64,7 @@ www.computerandvideogames.com###fp_cookieMessageContainer
 furniturevillage.co.uk###SiteMasterPage_updCookieDisclaimer
 johnlewis.com###opnotification
 drive24.co.uk###cookieHeader
+www.tesco.com###cp
 
 !--- Food
 allrecipes.co.uk###cookiePopupContainer
