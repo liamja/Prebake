@@ -108,6 +108,7 @@ www.lufbra.net##.cwcookielaw
 gov.uk###global-cookie-message
 tfl.gov.uk###tfl-cookies
 pirateparty.org.uk###confirmCookiePolicy
+www.gamblingcommission.gov.uk##.cookiedOuter
 
 !--- Other
 soundonsound.com###cccwr
