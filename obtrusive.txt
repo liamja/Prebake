@@ -30,6 +30,7 @@ www.peterboroughtoday.co.uk###euCookiesQuestion
 www.express.co.uk###cookielaw
 www.star-magazine.co.uk###cookielaw
 www.dailystar.co.uk###cookielaw
+www.ok.co.uk###cookielaw
 
 !--- Streaming
 bbc.co.uk###bbccookies
