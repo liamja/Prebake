@@ -28,6 +28,7 @@ greatbritishlife.co.uk###cookielaw
 whtimes.co.uk###cookielaw
 www.peterboroughtoday.co.uk###euCookiesQuestion
 www.express.co.uk###cookielaw
+www.star-magazine.co.uk###cookielaw
 
 !--- Streaming
 bbc.co.uk###bbccookies
