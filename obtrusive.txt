@@ -103,6 +103,8 @@ www.kingston.ac.uk###site-wide-cookie-message
 www.theeuropeanlibrary.org##.cc-cookies
 www.dawsonera.com##.cc-cookies-container
 www.lufbra.net##.cwcookielaw
+informahealthcare.com##.overlay
+informahealthcare.com##.popupContainer
 
 !--- Government
 gov.uk###global-cookie-message
