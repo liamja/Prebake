@@ -105,6 +105,7 @@ www.dawsonera.com##.cc-cookies-container
 www.lufbra.net##.cwcookielaw
 informahealthcare.com##.overlay
 informahealthcare.com##.popupContainer
+iopscience.iop.org##.cookies-banner-wrap
 
 !--- Government
 gov.uk###global-cookie-message
