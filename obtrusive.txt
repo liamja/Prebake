@@ -63,6 +63,7 @@ www.seoconsult.com###cookieBar
 www.rockpapershotgun.com###ecd_opt_in_banner
 nvidia.co.uk###cookiePolicyBar
 www.computerandvideogames.com###fp_cookieMessageContainer
+zdnet.com###cookiePolicy
 
 !--- Shopping
 furniturevillage.co.uk###SiteMasterPage_updCookieDisclaimer
