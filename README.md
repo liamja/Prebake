@@ -32,15 +32,15 @@ set cookies.
 Only use these filters if you understand the implications of
 allowing cookies.
 
-Released Under GPL
+Released Under WTFPL
 ------------------
-Prebake is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License Version 3, as
-published by the Free Software Foundation.
+DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+Version 2, December 2004
+Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
+Everyone is permitted to copy and distribute verbatim or modifiedcopies of this license document, and changing it is allowed as longas the name is changed.
 
-Prebake is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-[GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.txt) for more details.
+DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+0. You just DO WHAT THE FUCK YOU WANT TO.
 
 :)
