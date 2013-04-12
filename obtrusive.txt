@@ -128,3 +128,5 @@ road.cc###sliding-popup
 www.gambleaware.co.uk###ccWrappery
 www.metoffice.gov.uk###EUCookie
 styx-tattoos.co.uk###cookieWrapper
+www.redbull.co.uk##.EUCookiePolicyContainer
+www.redbull.com##.site-message.cookies
