@@ -11,6 +11,7 @@
 
 !--- Web
 www.google.co.uk###epbar
+wolframalpha.com###EUCookie
 
 !--- News
 bbc.com###bbccookies
@@ -125,7 +126,6 @@ moneysavingexpert.com###alertBar
 royalmail.com###block-cookie_policy-0
 betfair.com##.footer-cookies-policy
 which.co.uk###eprivacy-holder
-wolframalpha.com###EUCookie
 www.tbicardiffairport.com###cookielightbox
 road.cc###sliding-popup
 www.gambleaware.co.uk###ccWrappery
