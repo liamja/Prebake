@@ -9,6 +9,9 @@
 ! to the GitHub issue tracker (https://github.com/liamja/Prebake/issues)
 ! or via e-mail (liam.anderson.91+prebake@gmail.com).
 
+!--- Web
+www.google.co.uk###epbar
+
 !--- News
 bbc.com###bbccookies
 guardian.co.uk##.identity-noticebar-content
