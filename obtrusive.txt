@@ -12,6 +12,7 @@
 !--- Web
 www.google.co.uk###epbar
 wolframalpha.com###EUCookie
+uk.yahoo.com###y-shade
 
 !--- News
 bbc.com###bbccookies
