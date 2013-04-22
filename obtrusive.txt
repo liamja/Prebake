@@ -102,6 +102,7 @@ premierleague.com###cookies-verify
 fantasyfootballscout.co.uk###cookie-bar
 mclaren.com###block-cookie-info
 mclarenstore.com##.widget-notifyBar
+www.thefa.com###cookiebar
 
 !--- Academic
 www.mdx.ac.uk###cookie
