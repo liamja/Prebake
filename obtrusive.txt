@@ -107,6 +107,7 @@ www.thefa.com###cookiebar
 !--- Academic
 www.mdx.ac.uk###cookie
 www.kingston.ac.uk###site-wide-cookie-message
+www.nerc.ac.uk###cookieConsent
 www.theeuropeanlibrary.org##.cc-cookies
 www.dawsonera.com##.cc-cookies-container
 www.lufbra.net##.cwcookielaw
