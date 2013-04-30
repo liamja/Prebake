@@ -93,6 +93,7 @@ fantasyfootballscout.co.uk###cookie-bar
 mclaren.com###block-cookie-info
 mclarenstore.com##.widget-notifyBar
 www.thefa.com###cookiebar
+redbull.com##.cookies
 
 !--- Academic
 www.mdx.ac.uk###cookie
