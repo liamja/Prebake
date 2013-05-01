@@ -95,6 +95,7 @@ mclaren.com###block-cookie-info
 mclarenstore.com##.widget-notifyBar
 www.thefa.com###cookiebar
 redbull.com##.cookies
+www.bikeradar.com###fp_cookieMessageContainer
 
 !--- Academic
 www.mdx.ac.uk###cookie
