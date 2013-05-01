@@ -65,6 +65,7 @@ johnlewis.com###opnotification
 drive24.co.uk###cookieHeader
 www.tesco.com###cp
 www.three.co.uk###cookie-message
+www.t-mobile.co.uk##.cookies-message-container
 
 !--- Food
 allrecipes.co.uk###cookiePopupContainer
