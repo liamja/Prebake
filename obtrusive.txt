@@ -87,6 +87,7 @@ beatsbydre.com###brand_drawer
 
 !--- TV
 uktv.co.uk###cookies-panel
+www.freeview.co.uk###cookie-panel
 
 !--- Sport
 premierleague.com###cookies-verify
