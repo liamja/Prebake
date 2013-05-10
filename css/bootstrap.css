@@ -5996,7 +5996,7 @@ a.badge:hover {
   font-weight: 200;
   line-height: 30px;
   color: inherit;
-  background: url("../images/hero.jpg") center no-repeat;
+  background: url("../images/hero.jpg") center bottom no-repeat;
   background-size: cover;
 }
 
