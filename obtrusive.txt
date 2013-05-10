@@ -9,18 +9,19 @@
 ! to the GitHub issue tracker (https://github.com/liamja/Prebake/issues)
 ! or via e-mail (liam.anderson.91+prebake@gmail.com).
 
+!--- Catch-Alls
+###cookielaw
+
 !--- Web
 www.google.co.uk###epbar
 wolframalpha.com###EUCookie
 uk.yahoo.com###y-shade
 
 !--- News
-bbc.com###bbccookies
+bbc.com,bbc.co.uk###bbccookies
 guardian.co.uk##.identity-noticebar-content
 gizmodo.co.uk###fp_cookieMessageContainer
 newstatesman.com###cookiesdirective
-edp24.co.uk###cookielaw
-eveningnews24.co.uk###cookielaw
 newscientist.com###rbiCookiePolicy_pushDownBoxWrapper
 fhm.com###bauerCookiePolicy
 eurogamer.net###cookie-bar
@@ -28,22 +29,10 @@ empireonline.com###bauerCookiePolicy
 thesun.co.uk###sun-cookieMessage
 out-law.com###cookie
 mirror.co.uk###cookieNotification
-archant.co.uk###cookielaw
-greatbritishlife.co.uk###cookielaw
-whtimes.co.uk###cookielaw
 www.peterboroughtoday.co.uk###euCookiesQuestion
-www.express.co.uk###cookielaw
-www.star-magazine.co.uk###cookielaw
-www.dailystar.co.uk###cookielaw
-www.ok.co.uk###cookielaw
 
 !--- Streaming
-bbc.co.uk###bbccookies
-channel4.com###cookieNotification
-film4.com###cookieNotification
-more4.com###cookieNotification
-e4.com###cookieNotification
-4music.com###cookieNotification
+channel4.com,film4.com,more4.com,e4.com,4music.com###cookieNotification
 channel5.com###cookie-notification
 spotify.com##.notification-bar.uk-cookies
 
@@ -55,7 +44,7 @@ natwest.com###EUDirectiveCookiePanel
 
 !--- Tech
 cnet.co.uk###cookiePolicy
-techradar.com###fp_cookieMessageContainer
+techradar.com,t3.com###fp_cookieMessageContainer
 t3.com###fp_cookieMessageContainer
 pcgamer.com###fp_cookieMessageContainer
 h-online.com###cookie_warning
@@ -107,6 +96,8 @@ fantasyfootballscout.co.uk###cookie-bar
 mclaren.com###block-cookie-info
 mclarenstore.com##.widget-notifyBar
 www.thefa.com###cookiebar
+redbull.com##.cookies
+www.bikeradar.com###fp_cookieMessageContainer
 
 !--- Academic
 www.mdx.ac.uk###cookie
@@ -143,3 +134,4 @@ www.redbull.com##.site-message.cookies
 www.bikeradar.com###fp_cookieMessageContainer
 norml-uk.org###cccwr
 www.picturehouses.co.uk###cookie_message
+gov.uk###global-cookie-message
