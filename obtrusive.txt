@@ -10,7 +10,7 @@
 ! or via e-mail (liam.anderson.91+prebake@gmail.com).
 
 !--- Web
-www.google.co.uk###epbar
+google.co.uk###epbar
 wolframalpha.com###EUCookie
 uk.yahoo.com###y-shade
 
@@ -31,11 +31,11 @@ mirror.co.uk###cookieNotification
 archant.co.uk###cookielaw
 greatbritishlife.co.uk###cookielaw
 whtimes.co.uk###cookielaw
-www.peterboroughtoday.co.uk###euCookiesQuestion
-www.express.co.uk###cookielaw
-www.star-magazine.co.uk###cookielaw
-www.dailystar.co.uk###cookielaw
-www.ok.co.uk###cookielaw
+peterboroughtoday.co.uk###euCookiesQuestion
+express.co.uk###cookielaw
+star-magazine.co.uk###cookielaw
+dailystar.co.uk###cookielaw
+ok.co.uk###cookielaw
 
 !--- Streaming
 bbc.co.uk###bbccookies
@@ -61,31 +61,31 @@ pcgamer.com###fp_cookieMessageContainer
 h-online.com###cookie_warning
 allthingsd.com###cookie_notice
 theregister.co.uk###RegCCO
-www.gamesindustry.biz###cookie-policy
+gamesindustry.biz###cookie-policy
 gigaom.com##.privacy-policy
 orange.co.uk###cookieBannerD
-www.seoconsult.com###cookieBar
-www.rockpapershotgun.com###ecd_opt_in_banner
+seoconsult.com###cookieBar
+rockpapershotgun.com###ecd_opt_in_banner
 nvidia.co.uk###cookiePolicyBar
-www.computerandvideogames.com###fp_cookieMessageContainer
+computerandvideogames.com###fp_cookieMessageContainer
 zdnet.com###cookiePolicy
-www.agynamix.de###cookie
+agynamix.de###cookie
 
 !--- Shopping
 furniturevillage.co.uk###SiteMasterPage_updCookieDisclaimer
 johnlewis.com###opnotification
 drive24.co.uk###cookieHeader
-www.tesco.com###cp
-www.three.co.uk###cookie-message
-www.t-mobile.co.uk##.cookies-message-container
+tesco.com###cp
+three.co.uk###cookie-message
+t-mobile.co.uk##.cookies-message-container
 
 !--- Food
 allrecipes.co.uk###cookiePopupContainer
 bbcgoodfood.com###cookie-policy-container
 videojug.com##.cp-alert-message
 thehappyegg.co.uk###cccwr
-www.wagamama.com##div.cookie-box
-www.just-eat.co.uk###cookieBanner
+wagamama.com##div.cookie-box
+just-eat.co.uk###cookieBanner
 
 !--- Music
 last.fm###cookie-law-bar
@@ -93,38 +93,38 @@ classicrockmagazine.com###fp_cookieMessageContainer
 concertolive.co.uk##.divCookieWarning
 ukflive.com##.cc-cookies
 ppluk.com###wsjpecrga
-www.ministryofsound.com###ctl00_ctl00_Cookies1_UpdatePanel1
-www.metalhammer.co.uk###fp_cookieMessageContainer
+ministryofsound.com###ctl00_ctl00_Cookies1_UpdatePanel1
+metalhammer.co.uk###fp_cookieMessageContainer
 beatsbydre.com###brand_drawer
 
 !--- TV
 uktv.co.uk###cookies-panel
-www.freeview.co.uk###cookie-panel
+freeview.co.uk###cookie-panel
 
 !--- Sport
 premierleague.com###cookies-verify
 fantasyfootballscout.co.uk###cookie-bar
 mclaren.com###block-cookie-info
 mclarenstore.com##.widget-notifyBar
-www.thefa.com###cookiebar
+thefa.com###cookiebar
 
 !--- Academic
-www.mdx.ac.uk###cookie
-www.kingston.ac.uk###site-wide-cookie-message
-www.nerc.ac.uk###cookieConsent
-www.theeuropeanlibrary.org##.cc-cookies
-www.dawsonera.com##.cc-cookies-container
-www.lufbra.net##.cwcookielaw
+mdx.ac.uk###cookie
+kingston.ac.uk###site-wide-cookie-message
+nerc.ac.uk###cookieConsent
+theeuropeanlibrary.org##.cc-cookies
+dawsonera.com##.cc-cookies-container
+lufbra.net##.cwcookielaw
 informahealthcare.com##.overlay
 informahealthcare.com##.popupContainer
 iopscience.iop.org##.cookies-banner-wrap
-www.theiet.org###ietCookiePanel
+theiet.org###ietCookiePanel
 
 !--- Government
 gov.uk###global-cookie-message
 tfl.gov.uk###tfl-cookies
 pirateparty.org.uk###confirmCookiePolicy
-www.gamblingcommission.gov.uk##.cookiedOuter
+gamblingcommission.gov.uk##.cookiedOuter
 
 !--- Other
 soundonsound.com###cccwr
@@ -134,13 +134,13 @@ moneysavingexpert.com###alertBar
 royalmail.com###block-cookie_policy-0
 betfair.com##.footer-cookies-policy
 which.co.uk###eprivacy-holder
-www.tbicardiffairport.com###cookielightbox
+tbicardiffairport.com###cookielightbox
 road.cc###sliding-popup
-www.gambleaware.co.uk###ccWrappery
-www.metoffice.gov.uk###EUCookie
+gambleaware.co.uk###ccWrappery
+metoffice.gov.uk###EUCookie
 styx-tattoos.co.uk###cookieWrapper
-www.redbull.co.uk##.EUCookiePolicyContainer
-www.redbull.com##.site-message.cookies
-www.bikeradar.com###fp_cookieMessageContainer
+redbull.co.uk##.EUCookiePolicyContainer
+redbull.com##.site-message.cookies
+bikeradar.com###fp_cookieMessageContainer
 norml-uk.org###cccwr
-www.picturehouses.co.uk###cookie_message
+picturehouses.co.uk###cookie_message
