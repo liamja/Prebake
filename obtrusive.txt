@@ -11,136 +11,136 @@
 
 !--- Web
 google.co.uk###epbar
-wolframalpha.com###EUCookie
 uk.yahoo.com###y-shade
+wolframalpha.com###EUCookie
 
 !--- News
-bbc.com###bbccookies
-guardian.co.uk##.identity-noticebar-content
-gizmodo.co.uk###fp_cookieMessageContainer
-newstatesman.com###cookiesdirective
-edp24.co.uk###cookielaw
-eveningnews24.co.uk###cookielaw
-newscientist.com###rbiCookiePolicy_pushDownBoxWrapper
-fhm.com###bauerCookiePolicy
-eurogamer.net###cookie-bar
-empireonline.com###bauerCookiePolicy
-thesun.co.uk###sun-cookieMessage
-out-law.com###cookie
-mirror.co.uk###cookieNotification
 archant.co.uk###cookielaw
-greatbritishlife.co.uk###cookielaw
-whtimes.co.uk###cookielaw
-peterboroughtoday.co.uk###euCookiesQuestion
-express.co.uk###cookielaw
-star-magazine.co.uk###cookielaw
+bbc.com###bbccookies
 dailystar.co.uk###cookielaw
+edp24.co.uk###cookielaw
+empireonline.com###bauerCookiePolicy
+eurogamer.net###cookie-bar
+eveningnews24.co.uk###cookielaw
+express.co.uk###cookielaw
+fhm.com###bauerCookiePolicy
+gizmodo.co.uk###fp_cookieMessageContainer
+greatbritishlife.co.uk###cookielaw
+guardian.co.uk##.identity-noticebar-content
+mirror.co.uk###cookieNotification
+newscientist.com###rbiCookiePolicy_pushDownBoxWrapper
+newstatesman.com###cookiesdirective
 ok.co.uk###cookielaw
+out-law.com###cookie
+peterboroughtoday.co.uk###euCookiesQuestion
+star-magazine.co.uk###cookielaw
+thesun.co.uk###sun-cookieMessage
+whtimes.co.uk###cookielaw
 
 !--- Streaming
+4music.com###cookieNotification
 bbc.co.uk###bbccookies
 channel4.com###cookieNotification
+channel5.com###cookie-notification
+e4.com###cookieNotification
 film4.com###cookieNotification
 more4.com###cookieNotification
-e4.com###cookieNotification
-4music.com###cookieNotification
-channel5.com###cookie-notification
 spotify.com##.notification-bar.uk-cookies
 
 !--- Banking
 barclays.co.uk##P.otm
-nationwide.co.uk###cn
 hsbc.co.uk###disclaimer_banner.eucookie_disclaimer
+nationwide.co.uk###cn
 natwest.com###EUDirectiveCookiePanel
 
 !--- Tech
-cnet.co.uk###cookiePolicy
-techradar.com###fp_cookieMessageContainer
-t3.com###fp_cookieMessageContainer
-pcgamer.com###fp_cookieMessageContainer
-h-online.com###cookie_warning
+agynamix.de###cookie
 allthingsd.com###cookie_notice
-theregister.co.uk###RegCCO
+cnet.co.uk###cookiePolicy
+computerandvideogames.com###fp_cookieMessageContainer
 gamesindustry.biz###cookie-policy
 gigaom.com##.privacy-policy
-orange.co.uk###cookieBannerD
-seoconsult.com###cookieBar
-rockpapershotgun.com###ecd_opt_in_banner
+h-online.com###cookie_warning
 nvidia.co.uk###cookiePolicyBar
-computerandvideogames.com###fp_cookieMessageContainer
+orange.co.uk###cookieBannerD
+pcgamer.com###fp_cookieMessageContainer
+rockpapershotgun.com###ecd_opt_in_banner
+seoconsult.com###cookieBar
+t3.com###fp_cookieMessageContainer
+techradar.com###fp_cookieMessageContainer
+theregister.co.uk###RegCCO
 zdnet.com###cookiePolicy
-agynamix.de###cookie
 
 !--- Shopping
+drive24.co.uk###cookieHeader
 furniturevillage.co.uk###SiteMasterPage_updCookieDisclaimer
 johnlewis.com###opnotification
-drive24.co.uk###cookieHeader
+t-mobile.co.uk##.cookies-message-container
 tesco.com###cp
 three.co.uk###cookie-message
-t-mobile.co.uk##.cookies-message-container
 
 !--- Food
 allrecipes.co.uk###cookiePopupContainer
 bbcgoodfood.com###cookie-policy-container
-videojug.com##.cp-alert-message
-thehappyegg.co.uk###cccwr
-wagamama.com##div.cookie-box
 just-eat.co.uk###cookieBanner
+thehappyegg.co.uk###cccwr
+videojug.com##.cp-alert-message
+wagamama.com##div.cookie-box
 
 !--- Music
-last.fm###cookie-law-bar
+beatsbydre.com###brand_drawer
 classicrockmagazine.com###fp_cookieMessageContainer
 concertolive.co.uk##.divCookieWarning
-ukflive.com##.cc-cookies
-ppluk.com###wsjpecrga
-ministryofsound.com###ctl00_ctl00_Cookies1_UpdatePanel1
+last.fm###cookie-law-bar
 metalhammer.co.uk###fp_cookieMessageContainer
-beatsbydre.com###brand_drawer
+ministryofsound.com###ctl00_ctl00_Cookies1_UpdatePanel1
+ppluk.com###wsjpecrga
+ukflive.com##.cc-cookies
 
 !--- TV
-uktv.co.uk###cookies-panel
 freeview.co.uk###cookie-panel
+uktv.co.uk###cookies-panel
 
 !--- Sport
-premierleague.com###cookies-verify
 fantasyfootballscout.co.uk###cookie-bar
 mclaren.com###block-cookie-info
 mclarenstore.com##.widget-notifyBar
+premierleague.com###cookies-verify
 thefa.com###cookiebar
 
 !--- Academic
-mdx.ac.uk###cookie
-kingston.ac.uk###site-wide-cookie-message
-nerc.ac.uk###cookieConsent
-theeuropeanlibrary.org##.cc-cookies
 dawsonera.com##.cc-cookies-container
-lufbra.net##.cwcookielaw
 informahealthcare.com##.overlay
 informahealthcare.com##.popupContainer
 iopscience.iop.org##.cookies-banner-wrap
+kingston.ac.uk###site-wide-cookie-message
+lufbra.net##.cwcookielaw
+mdx.ac.uk###cookie
+nerc.ac.uk###cookieConsent
+theeuropeanlibrary.org##.cc-cookies
 theiet.org###ietCookiePanel
 
 !--- Government
-gov.uk###global-cookie-message
-tfl.gov.uk###tfl-cookies
-pirateparty.org.uk###confirmCookiePolicy
 gamblingcommission.gov.uk##.cookiedOuter
+gov.uk###global-cookie-message
+pirateparty.org.uk###confirmCookiePolicy
+tfl.gov.uk###tfl-cookies
 
 !--- Other
-soundonsound.com###cccwr
-rightmove.co.uk###cookiemodalbar
-bt.com###cookieNotification
-moneysavingexpert.com###alertBar
-royalmail.com###block-cookie_policy-0
 betfair.com##.footer-cookies-policy
-which.co.uk###eprivacy-holder
-tbicardiffairport.com###cookielightbox
-road.cc###sliding-popup
+bikeradar.com###fp_cookieMessageContainer
+bt.com###cookieNotification
 gambleaware.co.uk###ccWrappery
 metoffice.gov.uk###EUCookie
-styx-tattoos.co.uk###cookieWrapper
-redbull.co.uk##.EUCookiePolicyContainer
-redbull.com##.site-message.cookies
-bikeradar.com###fp_cookieMessageContainer
+moneysavingexpert.com###alertBar
 norml-uk.org###cccwr
 picturehouses.co.uk###cookie_message
+redbull.co.uk##.EUCookiePolicyContainer
+redbull.com##.site-message.cookies
+rightmove.co.uk###cookiemodalbar
+road.cc###sliding-popup
+royalmail.com###block-cookie_policy-0
+soundonsound.com###cccwr
+styx-tattoos.co.uk###cookieWrapper
+tbicardiffairport.com###cookielightbox
+which.co.uk###eprivacy-holder
