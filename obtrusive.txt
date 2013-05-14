@@ -11,6 +11,8 @@
 
 !--- Web
 google.co.uk###epbar
+google.de###epbar
+google.nl###epbar
 uk.yahoo.com###y-shade
 wolframalpha.com###EUCookie
 
@@ -87,6 +89,10 @@ just-eat.co.uk###cookieBanner
 thehappyegg.co.uk###cccwr
 videojug.com##.cp-alert-message
 wagamama.com##div.cookie-box
+
+!--- Mail/Post
+postnl.nl###coverlay
+postnl.nl###cwrapper
 
 !--- Music
 beatsbydre.com###brand_drawer
