@@ -74,6 +74,7 @@ zdnet.com###cookiePolicy
 
 !--- Shopping
 drive24.co.uk###cookieHeader
+focusrite.com###sliding-popup
 furniturevillage.co.uk###SiteMasterPage_updCookieDisclaimer
 johnlewis.com###opnotification
 t-mobile.co.uk##.cookies-message-container
