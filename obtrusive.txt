@@ -71,6 +71,7 @@ seoconsult.com###cookieBar
 t3.com###fp_cookieMessageContainer
 techradar.com###fp_cookieMessageContainer
 theregister.co.uk###RegCCO
+tweakers.net###cookieBar
 ubuntu.com##div.cookie-policy
 zdnet.com###cookiePolicy
 
