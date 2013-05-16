@@ -106,6 +106,7 @@ concertolive.co.uk##.divCookieWarning
 last.fm###cookie-law-bar
 metalhammer.co.uk###fp_cookieMessageContainer
 ministryofsound.com###ctl00_ctl00_Cookies1_UpdatePanel1
+musicradar.com###fp_cookieMessageContainer
 ppluk.com###wsjpecrga
 ukflive.com##.cc-cookies
 
