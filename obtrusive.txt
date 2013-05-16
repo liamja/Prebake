@@ -2,7 +2,7 @@
 ! Title: Prebake - Filter Obtrusive Cookie Notices
 ! Last modified: 16 May 2013 09:58 BST
 ! Expires: 7 days (update frequency)
-! Homepage: https://liamja.github.io/Prebake/
+! Homepage: http://liamja.github.io/Prebake/
 ! Licence: https://raw.github.com/liamja/Prebake/master/README.md
 !
 ! Please post any details regarding unblocked notices or problems
