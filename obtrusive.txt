@@ -98,6 +98,12 @@ thehappyegg.co.uk###cccwr
 videojug.com##.cp-alert-message
 wagamama.com##div.cookie-box
 
+!--- Hotels
+parkinn.com##div.cookieControl
+parkinn.de##div.cookieControl
+parkinn.co.uk##div.cookieControl
+radissonblu.de/##div.cookieControl
+
 !--- Mail/Post
 postnl.nl###coverlay
 postnl.nl###cwrapper
