@@ -60,6 +60,7 @@ barclays.co.uk##P.otm
 hsbc.co.uk###disclaimer_banner.eucookie_disclaimer
 nationwide.co.uk###cn
 natwest.com###EUDirectiveCookiePanel
+totalmoney.pl###right_widget
 
 !--- Tech
 agynamix.de###cookie
