@@ -60,6 +60,9 @@ barclays.co.uk##P.otm
 hsbc.co.uk###disclaimer_banner.eucookie_disclaimer
 nationwide.co.uk###cn
 natwest.com###EUDirectiveCookiePanel
+pekao.com.pl###box-close
+pekao.com.pl###box-div
+pekao.com.pl###box-layer
 totalmoney.pl###right_widget
 
 !--- Tech
