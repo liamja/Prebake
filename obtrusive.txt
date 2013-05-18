@@ -79,6 +79,7 @@ techradar.com###fp_cookieMessageContainer
 theregister.co.uk###RegCCO
 tweakers.net###cookieBar
 ubuntu.com##div.cookie-policy
+ubuntu.pl###cookie-warning
 zdnet.com###cookiePolicy
 
 !--- Shopping
