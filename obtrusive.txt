@@ -75,6 +75,7 @@ h-online.com###cookie_warning
 nvidia.co.uk###cookiePolicyBar
 orange.co.uk###cookieBannerD
 pcgamer.com###fp_cookieMessageContainer
+penguingamers.eu##.RACKWrapper
 perforce.com##span.optanon-link-text-left.optanon-white
 perforce.com##ul.optanon-menu.optanon-menu-allow
 rockpapershotgun.com###ecd_opt_in_banner
