@@ -64,6 +64,8 @@ natwest.com###EUDirectiveCookiePanel
 !--- Tech
 agynamix.de###cookie
 allthingsd.com###cookie_notice
+atman.pl###gbpl_oba
+atman.pl##.polityka-cookie
 cnet.co.uk###cookiePolicy
 computerandvideogames.com###fp_cookieMessageContainer
 gamesindustry.biz###cookie-policy
