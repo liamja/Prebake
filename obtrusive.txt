@@ -129,6 +129,9 @@ mclarenstore.com##.widget-notifyBar
 premierleague.com###cookies-verify
 thefa.com###cookiebar
 
+!--- Travel
+||wkd.com.pl/cookies/cookies.js$script
+
 !--- Academic
 dawsonera.com##.cc-cookies-container
 informahealthcare.com##.overlay
