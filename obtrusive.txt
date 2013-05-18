@@ -181,6 +181,20 @@ styx-tattoos.co.uk###cookieWrapper
 tbicardiffairport.com###cookielightbox
 which.co.uk###eprivacy-holder
 
+!--- Global Filters / Scripts & Libraries
+!-- https://github.com/Scott-Herbert/CookieWarning
+/cookiewarning.js$script
+/cookiewarning2.js$script
+/cookiewarning3.js$script
+/cookiewarning4.js$script
+!-- https://github.com/creativeaura/eu-cookie-opt-in
+/cookie.debug.min.js
+/cookie.debug.js
+!-- http://www.civicuk.com/cookie-law
+/cookieControl-*.js
+!-- http://cookiedrop.co.uk
+||m1mjd9in5z2.cloudfront.net/widget.js
+
 !--- block-the-eu-cookie-shit-list
 !--- https://github.com/r4vi/block-the-eu-cookie-shit-list
 1and1.co.uk###cookies-info
