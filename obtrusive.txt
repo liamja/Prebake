@@ -147,6 +147,7 @@ premierleague.com###cookies-verify
 thefa.com###cookiebar
 
 !--- Travel
+lonelyplanet.com##.row--cookie-compliance
 ||wkd.com.pl/cookies/cookies.js$script
 
 !--- Academic
