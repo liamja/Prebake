@@ -76,6 +76,7 @@ gamesindustry.biz###cookie-policy
 gamespot.com###cookiePolicy
 gigaom.com##.privacy-policy
 h-online.com###cookie_warning
+ign.com###policyNotice
 nvidia.co.uk###cookiePolicyBar
 orange.co.uk###cookieBannerD
 pcgamer.com###fp_cookieMessageContainer
