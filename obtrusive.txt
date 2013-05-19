@@ -79,6 +79,7 @@ gamespot.com###cookiePolicy
 gamespy.com###policy
 gigaom.com##.privacy-policy
 h-online.com###cookie_warning
+hp.com###cookie_privacy_holder
 ign.com###policyNotice
 nvidia.co.uk###cookiePolicyBar
 orange.co.uk###cookieBannerD
