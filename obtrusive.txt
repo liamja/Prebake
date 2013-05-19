@@ -73,6 +73,7 @@ atman.pl##.polityka-cookie
 cnet.co.uk###cookiePolicy
 computerandvideogames.com###fp_cookieMessageContainer
 gamesindustry.biz###cookie-policy
+gamespot.com###cookiePolicy
 gigaom.com##.privacy-policy
 h-online.com###cookie_warning
 nvidia.co.uk###cookiePolicyBar
