@@ -102,6 +102,7 @@ drive24.co.uk###cookieHeader
 focusrite.com###sliding-popup
 furniturevillage.co.uk###SiteMasterPage_updCookieDisclaimer
 johnlewis.com###opnotification
+suzuki.co.uk###privacypopup
 t-mobile.co.uk##.cookies-message-container
 tesco.com###cp
 three.co.uk###cookie-message
