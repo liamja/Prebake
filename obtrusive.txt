@@ -108,6 +108,7 @@ tesco.com###cp
 three.co.uk###cookie-message
 
 !--- Products & Services
+fasthosts.co.uk###cookie
 stormcreative.co.uk###storm-cookie
 
 !--- Food
