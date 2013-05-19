@@ -107,6 +107,9 @@ t-mobile.co.uk##.cookies-message-container
 tesco.com###cp
 three.co.uk###cookie-message
 
+!--- Products & Services
+stormcreative.co.uk###storm-cookie
+
 !--- Food
 allrecipes.co.uk###cookiePopupContainer
 bbcgoodfood.com###cookie-policy-container
