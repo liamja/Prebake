@@ -166,6 +166,7 @@ pirateparty.org.uk###confirmCookiePolicy
 tfl.gov.uk###tfl-cookies
 
 !--- Other
+barbican.org.uk###cookies
 betfair.com##.footer-cookies-policy
 bikeradar.com###fp_cookieMessageContainer
 bt.com###cookieNotification
