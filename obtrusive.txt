@@ -40,6 +40,7 @@ thesun.co.uk###sun-cookieMessage
 whtimes.co.uk###cookielaw
 
 !--- Magazine / Blog
+askmen.com###policyNotice
 ! Future Publishing
 ||assets.futurecdn.net/js/fp_cookie.js$script
 ||assets.futurecdn.net/js/fp_cookie.min.js$script
