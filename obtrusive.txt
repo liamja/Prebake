@@ -131,6 +131,7 @@ postnl.nl###cwrapper
 
 !--- Music
 beatsbydre.com###brand_drawer
+breakbeat.co.uk###CookieInformation
 classicrockmagazine.com###fp_cookieMessageContainer
 concertolive.co.uk##.divCookieWarning
 last.fm###cookie-law-bar
