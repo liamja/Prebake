@@ -169,6 +169,7 @@ tfl.gov.uk###tfl-cookies
 betfair.com##.footer-cookies-policy
 bikeradar.com###fp_cookieMessageContainer
 bt.com###cookieNotification
+clarkewillmott.com###cookiestext
 gambleaware.co.uk###ccWrappery
 metoffice.gov.uk###EUCookie
 moneysavingexpert.com###alertBar
