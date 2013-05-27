@@ -20,6 +20,7 @@ wolframalpha.com###EUCookie
 archant.co.uk###cookielaw
 bbc.com###bbccookies
 dailystar.co.uk###cookielaw
+economist.com###ec-message-3
 edp24.co.uk###cookielaw
 empireonline.com###bauerCookiePolicy
 eurogamer.net###cookie-bar
@@ -40,6 +41,7 @@ thesun.co.uk###sun-cookieMessage
 whtimes.co.uk###cookielaw
 
 !--- Magazine / Blog
+askmen.com###policyNotice
 ! Future Publishing
 ||assets.futurecdn.net/js/fp_cookie.js$script
 ||assets.futurecdn.net/js/fp_cookie.min.js$script
@@ -60,18 +62,31 @@ barclays.co.uk##P.otm
 hsbc.co.uk###disclaimer_banner.eucookie_disclaimer
 nationwide.co.uk###cn
 natwest.com###EUDirectiveCookiePanel
+pekao.com.pl###box-close
+pekao.com.pl###box-div
+pekao.com.pl###box-layer
+totalmoney.pl###right_widget
 
 !--- Tech
 agynamix.de###cookie
 allthingsd.com###cookie_notice
+atman.pl###gbpl_oba
+atman.pl##.polityka-cookie
 cnet.co.uk###cookiePolicy
 computerandvideogames.com###fp_cookieMessageContainer
 gamesindustry.biz###cookie-policy
+gamespot.com###cookiePolicy
+gamespy.com###policy
 gigaom.com##.privacy-policy
 h-online.com###cookie_warning
+hp.com###cookie_privacy_holder
+ign.com###policyNotice
 nvidia.co.uk###cookiePolicyBar
 orange.co.uk###cookieBannerD
 pcgamer.com###fp_cookieMessageContainer
+penguingamers.eu##.RACKWrapper
+perforce.com##span.optanon-link-text-left.optanon-white
+perforce.com##ul.optanon-menu.optanon-menu-allow
 rockpapershotgun.com###ecd_opt_in_banner
 seoconsult.com###cookieBar
 t3.com###fp_cookieMessageContainer
@@ -79,6 +94,7 @@ techradar.com###fp_cookieMessageContainer
 theregister.co.uk###RegCCO
 tweakers.net###cookieBar
 ubuntu.com##div.cookie-policy
+ubuntu.pl###cookie-warning
 zdnet.com###cookiePolicy
 
 !--- Shopping
@@ -86,9 +102,14 @@ drive24.co.uk###cookieHeader
 focusrite.com###sliding-popup
 furniturevillage.co.uk###SiteMasterPage_updCookieDisclaimer
 johnlewis.com###opnotification
+suzuki.co.uk###privacypopup
 t-mobile.co.uk##.cookies-message-container
 tesco.com###cp
 three.co.uk###cookie-message
+
+!--- Products & Services
+fasthosts.co.uk###cookie
+stormcreative.co.uk###storm-cookie
 
 !--- Food
 allrecipes.co.uk###cookiePopupContainer
@@ -99,10 +120,10 @@ videojug.com##.cp-alert-message
 wagamama.com##div.cookie-box
 
 !--- Hotels
-parkinn.com##div.cookieControl
-parkinn.de##div.cookieControl
-parkinn.co.uk##div.cookieControl
-radissonblu.de/##div.cookieControl
+parkinn.com###.cookieControl
+parkinn.co.uk###.cookieControl
+parkinn.de###.cookieControl
+radissonblu.de###.cookieControl
 
 !--- Mail/Post
 postnl.nl###coverlay
@@ -110,6 +131,7 @@ postnl.nl###cwrapper
 
 !--- Music
 beatsbydre.com###brand_drawer
+breakbeat.co.uk###CookieInformation
 classicrockmagazine.com###fp_cookieMessageContainer
 concertolive.co.uk##.divCookieWarning
 last.fm###cookie-law-bar
@@ -130,6 +152,10 @@ mclarenstore.com##.widget-notifyBar
 premierleague.com###cookies-verify
 thefa.com###cookiebar
 
+!--- Travel
+lonelyplanet.com##.row--cookie-compliance
+||wkd.com.pl/cookies/cookies.js$script
+
 !--- Academic
 dawsonera.com##.cc-cookies-container
 informahealthcare.com##.overlay
@@ -149,9 +175,12 @@ pirateparty.org.uk###confirmCookiePolicy
 tfl.gov.uk###tfl-cookies
 
 !--- Other
+baesystems.com###cookie-bar
+barbican.org.uk###cookies
 betfair.com##.footer-cookies-policy
 bikeradar.com###fp_cookieMessageContainer
 bt.com###cookieNotification
+clarkewillmott.com###cookiestext
 gambleaware.co.uk###ccWrappery
 metoffice.gov.uk###EUCookie
 moneysavingexpert.com###alertBar
