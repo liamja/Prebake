@@ -20,8 +20,10 @@ wolframalpha.com###EUCookie
 archant.co.uk###cookielaw
 bbc.com###bbccookies
 dailystar.co.uk###cookielaw
+eadt.co.uk###cookielaw2
 economist.com###ec-message-3
 edp24.co.uk###cookielaw
+edp24.co.uk###cookielaw2
 empireonline.com###bauerCookiePolicy
 eurogamer.net###cookie-bar
 eveningnews24.co.uk###cookielaw
