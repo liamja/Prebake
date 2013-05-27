@@ -186,6 +186,8 @@ metoffice.gov.uk###EUCookie
 moneysavingexpert.com###alertBar
 norml-uk.org###cccwr
 onlive.co.uk##.top_message
+pathe.nl###cookieContainer
+pathe.nl###cookieOverlay
 picturehouses.co.uk###cookie_message
 redbull.co.uk##.EUCookiePolicyContainer
 redbull.com##.site-message.cookies
