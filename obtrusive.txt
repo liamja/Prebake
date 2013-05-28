@@ -189,6 +189,8 @@ indiegogo.com###fancybox-overlay
 indiegogo.com###fancybox-wrap
 metoffice.gov.uk###EUCookie
 moneysavingexpert.com###alertBar
+netapp.com###cboxOverlay
+netapp.com###colorbox
 norml-uk.org###cccwr
 onlive.co.uk##.top_message
 pathe.nl###cookieContainer
