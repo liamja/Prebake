@@ -184,6 +184,8 @@ clarkewillmott.com###cookiestext
 gambleaware.co.uk###ccWrappery
 metoffice.gov.uk###EUCookie
 moneysavingexpert.com###alertBar
+netapp.com###cboxOverlay
+netapp.com###colorbox
 norml-uk.org###cccwr
 onlive.co.uk##.top_message
 pathe.nl###cookieContainer
