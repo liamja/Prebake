@@ -201,6 +201,7 @@ soundonsound.com###cccwr
 styx-tattoos.co.uk###cookieWrapper
 tbicardiffairport.com###cookielightbox
 which.co.uk###eprivacy-holder
+witlr.com###cookiewarning
 
 !--- block-the-eu-cookie-shit-list
 !--- https://github.com/r4vi/block-the-eu-cookie-shit-list
