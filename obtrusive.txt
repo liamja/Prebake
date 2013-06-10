@@ -188,7 +188,7 @@ betfair.com##.footer-cookies-policy
 bikeradar.com###fp_cookieMessageContainer
 bt.com###cookieNotification
 clarkewillmott.com###cookiestext
-||consent.truste.org
+||consent.truste.com
 gambleaware.co.uk###ccWrappery
 indiegogo.com###fancybox-overlay
 indiegogo.com###fancybox-wrap
