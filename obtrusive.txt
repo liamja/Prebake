@@ -20,6 +20,7 @@ wolframalpha.com###EUCookie
 archant.co.uk###cookielaw
 bbc.com###bbccookies
 dailystar.co.uk###cookielaw
+dutchnews.nl##div.cookiepolicy
 eadt.co.uk###cookielaw2
 economist.com###ec-message-3
 edp24.co.uk###cookielaw
@@ -103,6 +104,7 @@ ubuntu.pl###cookie-warning
 zdnet.com###cookiePolicy
 
 !--- Shopping
+ben.nl##div.cookieAccept
 drive24.co.uk###cookieHeader
 focusrite.com###sliding-popup
 furniturevillage.co.uk###SiteMasterPage_updCookieDisclaimer
@@ -131,6 +133,7 @@ parkinn.com##div.cookieControl
 parkinn.de##div.cookieControl
 parkinn.co.uk##div.cookieControl
 radissonblu.de##div.cookieControl
+radissonblu.ie##div.cookieControl
 
 !--- Mail/Post
 postnl.nl###coverlay
@@ -160,6 +163,7 @@ premierleague.com###cookies-verify
 thefa.com###cookiebar
 
 !--- Travel
+car2go.com##div#c2g_cookie_dialog
 lonelyplanet.com##.row--cookie-compliance
 ||wkd.com.pl/cookies/cookies.js$script
 
@@ -188,7 +192,7 @@ betfair.com##.footer-cookies-policy
 bikeradar.com###fp_cookieMessageContainer
 bt.com###cookieNotification
 clarkewillmott.com###cookiestext
-||consent.truste.org/notice
+||consent.truste.com
 gambleaware.co.uk###ccWrappery
 indiegogo.com###fancybox-overlay
 indiegogo.com###fancybox-wrap
