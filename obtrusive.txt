@@ -133,6 +133,7 @@ parkinn.com##div.cookieControl
 parkinn.de##div.cookieControl
 parkinn.co.uk##div.cookieControl
 radissonblu.de##div.cookieControl
+radissonblu.ie##div.cookieControl
 
 !--- Mail/Post
 postnl.nl###coverlay
