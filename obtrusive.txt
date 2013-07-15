@@ -10,7 +10,7 @@
 ! or via e-mail (liam.anderson.91+prebake@gmail.com).
 
 !--- Web
-fatbeehive.com##div[style^="background-color: #000; padding: 10px 15px; text-align: center;"]
+fatbeehive.com##div[style^="background-color: #000;"]
 google.co.uk###epbar
 google.de###epbar
 google.nl###epbar
