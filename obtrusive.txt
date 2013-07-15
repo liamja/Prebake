@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 28 May 2013 00:35 BST
+! Last modified: 15 July 2013 11:40 BST
 ! Expires: 7 days (update frequency)
 ! Homepage: http://liamja.github.io/Prebake/
 ! Licence: https://raw.github.com/liamja/Prebake/master/README.md
@@ -10,6 +10,7 @@
 ! or via e-mail (liam.anderson.91+prebake@gmail.com).
 
 !--- Web
+fatbeehive.com##div[style^="background-color: #000; padding: 10px 15px; text-align: center;"]
 google.co.uk###epbar
 google.de###epbar
 google.nl###epbar
@@ -20,6 +21,8 @@ wolframalpha.com###EUCookie
 archant.co.uk###cookielaw
 bbc.com###bbccookies
 dailystar.co.uk###cookielaw
+delo.si/assets/delo_v3/notice/js/script.js$script
+digitalspy.co.uk###cookie-policy
 dutchnews.nl##div.cookiepolicy
 eadt.co.uk###cookielaw2
 economist.com###ec-message-3
@@ -83,6 +86,7 @@ gamespy.com###policy
 geforce.co.uk###cookiePolicyBar
 gigaom.com##.privacy-policy
 h-online.com###cookie_warning
+hardware.info###cookiebar
 hp.com###cookie_privacy_holder
 ign.com###policyNotice
 netapp.com###cboxOverlay
@@ -104,10 +108,13 @@ ubuntu.pl###cookie-warning
 zdnet.com###cookiePolicy
 
 !--- Shopping
+beatsbydre.com##.brand_drawer
 ben.nl##div.cookieAccept
 drive24.co.uk###cookieHeader
+originalpenguin.co.uk###epd
 focusrite.com###sliding-popup
 furniturevillage.co.uk###SiteMasterPage_updCookieDisclaimer
+yatescycles.co.uk###cookiesdirective
 johnlewis.com###opnotification
 suzuki.co.uk###privacypopup
 t-mobile.co.uk##.cookies-message-container
@@ -117,6 +124,7 @@ tesco.com###cp
 three.co.uk###cookie-message
 
 !--- Products & Services
+crownpaint.co.uk/scripts/crown/cookiesPopup.js$script
 fasthosts.co.uk###cookie
 stormcreative.co.uk###storm-cookie
 
@@ -140,11 +148,14 @@ postnl.nl###coverlay
 postnl.nl###cwrapper
 
 !--- Music
+abbeyroad.com###cookie-overlay-footer
 beatsbydre.com###brand_drawer
 breakbeat.co.uk###CookieInformation
 classicrockmagazine.com###fp_cookieMessageContainer
 concertolive.co.uk##.divCookieWarning
+||fabriclondon.com/include/javascript/cookiedirective1.5.js$script
 last.fm###cookie-law-bar
+lastfm.de###cookie-law-bar
 metalhammer.co.uk###fp_cookieMessageContainer
 ministryofsound.com###ctl00_ctl00_Cookies1_UpdatePanel1
 musicradar.com###fp_cookieMessageContainer
@@ -165,6 +176,7 @@ thefa.com###cookiebar
 !--- Travel
 car2go.com##div#c2g_cookie_dialog
 lonelyplanet.com##.row--cookie-compliance
+||myinterrail.co.uk/shared_files/clientscripts/cms/cookie_alert1.js$script
 ||wkd.com.pl/cookies/cookies.js$script
 
 !--- Academic
@@ -180,12 +192,14 @@ theeuropeanlibrary.org##.cc-cookies
 theiet.org###ietCookiePanel
 
 !--- Government
+data.gov.uk###sliding-popup
 gamblingcommission.gov.uk##.cookiedOuter
 gov.uk###global-cookie-message
 pirateparty.org.uk###confirmCookiePolicy
 tfl.gov.uk###tfl-cookies
 
 !--- Other
+area-codes.org.uk###wsjconsent
 baesystems.com###cookie-bar
 barbican.org.uk###cookies
 betfair.com##.footer-cookies-policy
@@ -200,6 +214,7 @@ metoffice.gov.uk###EUCookie
 moneysavingexpert.com###alertBar
 norml-uk.org###cccwr
 onlive.co.uk##.top_message
+opendatacommons.org###catapult-cookie-bar
 pathe.nl###cookieContainer
 pathe.nl###cookieOverlay
 picturehouses.co.uk###cookie_message
@@ -213,6 +228,8 @@ styx-tattoos.co.uk###cookieWrapper
 tbicardiffairport.com###cookielightbox
 which.co.uk###eprivacy-holder
 witlr.com###cookiewarning
+
+/wp-content/plugins/eu-cookie-law/$script
 
 !--- block-the-eu-cookie-shit-list
 !--- https://github.com/r4vi/block-the-eu-cookie-shit-list
