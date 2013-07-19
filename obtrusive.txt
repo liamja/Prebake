@@ -111,17 +111,18 @@ zdnet.com###cookiePolicy
 beatsbydre.com##.brand_drawer
 ben.nl##div.cookieAccept
 drive24.co.uk###cookieHeader
-originalpenguin.co.uk###epd
 focusrite.com###sliding-popup
 furniturevillage.co.uk###SiteMasterPage_updCookieDisclaimer
-yatescycles.co.uk###cookiesdirective
 johnlewis.com###opnotification
+originalpenguin.co.uk###epd
+rs-online.com##.cookieMessageDiv
 suzuki.co.uk###privacypopup
 t-mobile.co.uk##.cookies-message-container
 t-mobile.nl##div#exposeMask
 t-mobile.nl##div#TMobile_nl_WebPortals_UI_PageComponents_CookieSettingsOverlay_CookieSettingsOverlayController_OverlayRootDiv
 tesco.com###cp
 three.co.uk###cookie-message
+yatescycles.co.uk###cookiesdirective
 
 !--- Products & Services
 crownpaint.co.uk/scripts/crown/cookiesPopup.js$script
