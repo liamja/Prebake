@@ -71,6 +71,7 @@ natwest.com###EUDirectiveCookiePanel
 pekao.com.pl###box-close
 pekao.com.pl###box-div
 pekao.com.pl###box-layer
+rsagroup.com###cookies
 totalmoney.pl###right_widget
 
 !--- Tech
