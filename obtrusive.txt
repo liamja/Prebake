@@ -48,10 +48,13 @@ whtimes.co.uk###cookielaw
 
 !--- Magazine / Blog
 askmen.com###policyNotice
+claireperry.org.uk###blanket
+claireperry.org.uk###message
 ! Future Publishing
 ||assets.futurecdn.net/js/fp_cookie.js$script
 ||assets.futurecdn.net/js/fp_cookie.min.js$script
 vice.com###cookies_msg
+
 
 !--- Streaming
 4music.com###cookieNotification
