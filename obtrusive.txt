@@ -44,8 +44,8 @@ out-law.com###cookie
 peterboroughtoday.co.uk###euCookiesQuestion
 star-magazine.co.uk###cookielaw
 thesun.co.uk###sun-cookieMessage
-whtimes.co.uk###cookielaw
 thesundaytimes.co.uk###tto-cookieMessage
+whtimes.co.uk###cookielaw
 
 !--- Magazine / Blog
 askmen.com###policyNotice
@@ -55,7 +55,6 @@ claireperry.org.uk###message
 ||assets.futurecdn.net/js/fp_cookie.js$script
 ||assets.futurecdn.net/js/fp_cookie.min.js$script
 vice.com###cookies_msg
-
 
 !--- Streaming
 4music.com###cookieNotification
