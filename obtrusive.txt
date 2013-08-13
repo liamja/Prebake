@@ -227,6 +227,7 @@ opendatacommons.org###catapult-cookie-bar
 pathe.nl###cookieContainer
 pathe.nl###cookieOverlay
 picturehouses.co.uk###cookie_message
+qype.co.uk##.js-cookie-info
 redbull.co.uk##.EUCookiePolicyContainer
 redbull.com##.site-message.cookies
 rightmove.co.uk###cookiemodalbar
