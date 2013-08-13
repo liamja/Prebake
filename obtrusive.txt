@@ -149,6 +149,9 @@ parkinn.co.uk##div.cookieControl
 radissonblu.de##div.cookieControl
 radissonblu.ie##div.cookieControl
 
+!--- Gaming
+miniclip.com###eu-cookie
+
 !--- Mail/Post
 postnl.nl###coverlay
 postnl.nl###cwrapper
