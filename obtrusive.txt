@@ -201,10 +201,12 @@ theeuropeanlibrary.org##.cc-cookies
 theiet.org###ietCookiePanel
 
 !--- Government
+army.mod.uk###cookieWrapper
 data.gov.uk###sliding-popup
 gamblingcommission.gov.uk##.cookiedOuter
 gov.uk###global-cookie-message
 pirateparty.org.uk###confirmCookiePolicy
+royalnavy.mod.uk###cookies-notice
 tfl.gov.uk###tfl-cookies
 
 !--- Other
