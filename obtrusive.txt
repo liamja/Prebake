@@ -44,6 +44,7 @@ ok.co.uk###cookielaw
 out-law.com###cookie
 peterboroughtoday.co.uk###euCookiesQuestion
 star-magazine.co.uk###cookielaw
+theguardian.com##.identity-noticebar
 thesun.co.uk###sun-cookieMessage
 thesundaytimes.co.uk###tto-cookieMessage
 whtimes.co.uk###cookielaw
