@@ -36,6 +36,7 @@ fhm.com###bauerCookiePolicy
 gizmodo.co.uk###fp_cookieMessageContainer
 greatbritishlife.co.uk###cookielaw
 guardian.co.uk##.identity-noticebar-content
+infosecurity-magazine.com###_cookienotice
 mirror.co.uk###cookieNotification
 newscientist.com###rbiCookiePolicy_pushDownBoxWrapper
 newstatesman.com###cookiesdirective
