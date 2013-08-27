@@ -122,6 +122,7 @@ newstatesman.com###cookiesdirective
 norml-uk.org###cccwr
 nvidia.co.uk###cookiePolicyBar
 ok.co.uk###cookielaw
+olvg.nl###cc
 onlive.co.uk##.top_message
 opendatacommons.org###catapult-cookie-bar
 orange.co.uk###cookieBannerD
