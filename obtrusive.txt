@@ -112,6 +112,7 @@ tweakers.net###cookieBar
 ubuntu.com##div.cookie-policy
 ubuntu.pl###cookie-warning
 zdnet.com###cookiePolicy
+vpspecialists.co.uk###CookieConsentDiv
 
 !--- Shopping
 beatsbydre.com##.brand_drawer
