@@ -206,6 +206,7 @@ zdnet.com###cookiePolicy
 ||wkd.com.pl/cookies/cookies.js$script
 
 !--- Cookie Law Scripts
+/jqueryCookieGuard.1.0.min.js$script
 /wp-content/plugins/eu-cookie-law/$script
 
 !--- Block The EU Cookie Shit List
