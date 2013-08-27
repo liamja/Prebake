@@ -1,30 +1,60 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 30 July 2013 20:35 BST
+! Last modified: 27 August 2013 19:48 BST
 ! Expires: 7 days (update frequency)
 ! Homepage: http://liamja.github.io/Prebake/
-! Licence: https://raw.github.com/liamja/Prebake/master/README.md
+! License: https://raw.github.com/liamja/Prebake/master/README.md
 !
 ! Please post any details regarding unblocked notices or problems
 ! to the GitHub issue tracker (https://github.com/liamja/Prebake/issues)
 ! or via e-mail (liam.anderson.91+prebake@gmail.com).
 
-!--- Web
-fatbeehive.com##div[style^="background-color: #000;"]
-google.co.uk###epbar
-google.de###epbar
-google.nl###epbar
-uk.yahoo.com###y-shade
-wolframalpha.com###EUCookie
-
-!--- News
+!--- Site-Specific Selectors
+4music.com###cookieNotification
+abbeyroad.com###cookie-overlay-footer
+agynamix.de###cookie
+allrecipes.co.uk###cookiePopupContainer
+allthingsd.com###cookie_notice
 archant.co.uk###cookielaw
+area-codes.org.uk###wsjconsent
+army.mod.uk###cookieWrapper
+askmen.com###policyNotice
+atman.pl###gbpl_oba
+atman.pl##.polityka-cookie
+baesystems.com###cookie-bar
+barbican.org.uk###cookies
+barclays.co.uk##P.otm
+bbc.co.uk###bbccookies
 bbc.com###bbccookies
+bbcgoodfood.com###cookie-policy-container
+beatsbydre.com###brand_drawer
+beatsbydre.com##.brand_drawer
+ben.nl##div.cookieAccept
+betfair.com##.footer-cookies-policy
+bikeradar.com###fp_cookieMessageContainer
+breakbeat.co.uk###CookieInformation
+bt.com###cookieNotification
+car2go.com##div#c2g_cookie_dialog
+channel4.com###cookieNotification
+channel5.com###cookie-notification
+claireperry.org.uk###blanket
+claireperry.org.uk###message
+clarkewillmott.com###cookiestext
+classicrockmagazine.com###fp_cookieMessageContainer
+cnet.co.uk###cookiePolicy
+computerandvideogames.com###fp_cookieMessageContainer
+concertolive.co.uk##.divCookieWarning
+crownpaint.co.uk/scripts/crown/cookiesPopup.js$script
 dailystar.co.uk###cookielaw
+data.gov.uk###sliding-popup
+dawsonera.com##.cc-cookies-container
 delo.si/assets/delo_v3/notice/js/script.js$script
 digitalspy.co.uk###cookie-policy
+drive24.co.uk###cookieHeader
 dutchnews.nl##div.cookiepolicy
+e4.com###cookieNotification
 eadt.co.uk###cookielaw2
+ebuyer.com###cookieContainer
 economist.com###ec-message-3
 edp24.co.uk###cookielaw
 edp24.co.uk###cookielaw2
@@ -32,221 +62,153 @@ empireonline.com###bauerCookiePolicy
 eurogamer.net###cookie-bar
 eveningnews24.co.uk###cookielaw
 express.co.uk###cookielaw
+fantasyfootballscout.co.uk###cookie-bar
+fasthosts.co.uk###cookie
+fatbeehive.com##div[style^="background-color: #000;"]
 fhm.com###bauerCookiePolicy
-gizmodo.co.uk###fp_cookieMessageContainer
-greatbritishlife.co.uk###cookielaw
-guardian.co.uk##.identity-noticebar-content
-infosecurity-magazine.com###_cookienotice
-mirror.co.uk###cookieNotification
-newscientist.com###rbiCookiePolicy_pushDownBoxWrapper
-newstatesman.com###cookiesdirective
-ok.co.uk###cookielaw
-out-law.com###cookie
-peterboroughtoday.co.uk###euCookiesQuestion
-star-magazine.co.uk###cookielaw
-theguardian.com##.identity-noticebar
-thesun.co.uk###sun-cookieMessage
-thesundaytimes.co.uk###tto-cookieMessage
-whtimes.co.uk###cookielaw
-
-!--- Magazine / Blog
-askmen.com###policyNotice
-claireperry.org.uk###blanket
-claireperry.org.uk###message
-! Future Publishing
-||assets.futurecdn.net/js/fp_cookie.js$script
-||assets.futurecdn.net/js/fp_cookie.min.js$script
-vice.com###cookies_msg
-
-!--- Streaming
-4music.com###cookieNotification
-bbc.co.uk###bbccookies
-channel4.com###cookieNotification
-channel5.com###cookie-notification
-e4.com###cookieNotification
 film4.com###cookieNotification
-more4.com###cookieNotification
-spotify.com##.notification-bar.uk-cookies
-
-!--- Banking
-barclays.co.uk##P.otm
-hsbc.co.uk###disclaimer_banner.eucookie_disclaimer
-nationwide.co.uk###cn
-natwest.com###EUDirectiveCookiePanel
-pekao.com.pl###box-close
-pekao.com.pl###box-div
-pekao.com.pl###box-layer
-rsagroup.com###cookies
-totalmoney.pl###right_widget
-
-!--- Tech
-agynamix.de###cookie
-allthingsd.com###cookie_notice
-atman.pl###gbpl_oba
-atman.pl##.polityka-cookie
-cnet.co.uk###cookiePolicy
-computerandvideogames.com###fp_cookieMessageContainer
+focusrite.com###sliding-popup
+freeview.co.uk###cookie-panel
+furniturevillage.co.uk###SiteMasterPage_updCookieDisclaimer
+gambleaware.co.uk###ccWrappery
+gamblingcommission.gov.uk##.cookiedOuter
 gamesindustry.biz###cookie-policy
 gamespot.com###cookiePolicy
 gamespy.com###policy
 geforce.co.uk###cookiePolicyBar
 gigaom.com##.privacy-policy
+gizmodo.co.uk###fp_cookieMessageContainer
+google.co.uk###epbar
+google.de###epbar
+google.nl###epbar
+gov.uk###global-cookie-message
+greatbritishlife.co.uk###cookielaw
+guardian.co.uk##.identity-noticebar-content
 h-online.com###cookie_warning
 hardware.info###cookiebar
 hp.com###cookie_privacy_holder
+hsbc.co.uk###disclaimer_banner.eucookie_disclaimer
 ign.com###policyNotice
-netapp.com###cboxOverlay
-netapp.com###colorbox
-nvidia.co.uk###cookiePolicyBar
-orange.co.uk###cookieBannerD
-pcgamer.com###fp_cookieMessageContainer
-penguingamers.eu##.RACKWrapper
-perforce.com##span.optanon-link-text-left.optanon-white
-perforce.com##ul.optanon-menu.optanon-menu-allow
-rockpapershotgun.com###ecd_opt_in_banner
-seoconsult.com###cookieBar
-t3.com###fp_cookieMessageContainer
-techradar.com###fp_cookieMessageContainer
-theregister.co.uk###RegCCO
-tweakers.net###cookieBar
-ubuntu.com##div.cookie-policy
-ubuntu.pl###cookie-warning
-zdnet.com###cookiePolicy
-vpspecialists.co.uk###CookieConsentDiv
-
-!--- Shopping
-beatsbydre.com##.brand_drawer
-ben.nl##div.cookieAccept
-drive24.co.uk###cookieHeader
-ebuyer.com###cookieContainer
-focusrite.com###sliding-popup
-furniturevillage.co.uk###SiteMasterPage_updCookieDisclaimer
-johnlewis.com###opnotification
-originalpenguin.co.uk###epd
-rs-online.com##.cookieMessageDiv
-suzuki.co.uk###privacypopup
-t-mobile.co.uk##.cookies-message-container
-t-mobile.nl##div#exposeMask
-t-mobile.nl##div#TMobile_nl_WebPortals_UI_PageComponents_CookieSettingsOverlay_CookieSettingsOverlayController_OverlayRootDiv
-tesco.com###cp
-three.co.uk###cookie-message
-yatescycles.co.uk###cookiesdirective
-
-!--- Products & Services
-crownpaint.co.uk/scripts/crown/cookiesPopup.js$script
-fasthosts.co.uk###cookie
-stormcreative.co.uk###storm-cookie
-
-!--- Food
-allrecipes.co.uk###cookiePopupContainer
-bbcgoodfood.com###cookie-policy-container
-just-eat.co.uk###cookieBanner
-thehappyegg.co.uk###cccwr
-videojug.com##.cp-alert-message
-wagamama.com##div.cookie-box
-
-!--- Hotels
-parkinn.com##div.cookieControl
-parkinn.de##div.cookieControl
-parkinn.co.uk##div.cookieControl
-radissonblu.de##div.cookieControl
-radissonblu.ie##div.cookieControl
-
-!--- Gaming
-miniclip.com###eu-cookie
-
-!--- Mail/Post
-postnl.nl###coverlay
-postnl.nl###cwrapper
-
-!--- Music
-abbeyroad.com###cookie-overlay-footer
-beatsbydre.com###brand_drawer
-breakbeat.co.uk###CookieInformation
-classicrockmagazine.com###fp_cookieMessageContainer
-concertolive.co.uk##.divCookieWarning
-||fabriclondon.com/include/javascript/cookiedirective1.5.js$script
-last.fm###cookie-law-bar
-lastfm.de###cookie-law-bar
-metalhammer.co.uk###fp_cookieMessageContainer
-ministryofsound.com###ctl00_ctl00_Cookies1_UpdatePanel1
-musicradar.com###fp_cookieMessageContainer
-ppluk.com###wsjpecrga
-ukflive.com##.cc-cookies
-
-!--- TV
-freeview.co.uk###cookie-panel
-uktv.co.uk###cookies-panel
-
-!--- Sport
-fantasyfootballscout.co.uk###cookie-bar
-mclaren.com###block-cookie-info
-mclarenstore.com##.widget-notifyBar
-premierleague.com###cookies-verify
-thefa.com###cookiebar
-
-!--- Travel
-car2go.com##div#c2g_cookie_dialog
-lonelyplanet.com##.row--cookie-compliance
-||myinterrail.co.uk/shared_files/clientscripts/cms/cookie_alert1.js$script
-||wkd.com.pl/cookies/cookies.js$script
-
-!--- Academic
-dawsonera.com##.cc-cookies-container
+indiegogo.com###fancybox-overlay
+indiegogo.com###fancybox-wrap
 informahealthcare.com##.overlay
 informahealthcare.com##.popupContainer
 iopscience.iop.org##.cookies-banner-wrap
+johnlewis.com###opnotification
+just-eat.co.uk###cookieBanner
 kingston.ac.uk###site-wide-cookie-message
+last.fm###cookie-law-bar
+lastfm.de###cookie-law-bar
+lonelyplanet.com##.row--cookie-compliance
 lufbra.net##.cwcookielaw
+mclaren.com###block-cookie-info
+mclarenstore.com##.widget-notifyBar
 mdx.ac.uk###cookie
-nerc.ac.uk###cookieConsent
-theeuropeanlibrary.org##.cc-cookies
-theiet.org###ietCookiePanel
-
-!--- Government
-army.mod.uk###cookieWrapper
-data.gov.uk###sliding-popup
-gamblingcommission.gov.uk##.cookiedOuter
-gov.uk###global-cookie-message
-pirateparty.org.uk###confirmCookiePolicy
-royalnavy.mod.uk###cookies-notice
-tfl.gov.uk###tfl-cookies
-
-!--- Other
-area-codes.org.uk###wsjconsent
-baesystems.com###cookie-bar
-barbican.org.uk###cookies
-betfair.com##.footer-cookies-policy
-bikeradar.com###fp_cookieMessageContainer
-bt.com###cookieNotification
-clarkewillmott.com###cookiestext
-||consent.truste.com
-gambleaware.co.uk###ccWrappery
-indiegogo.com###fancybox-overlay
-indiegogo.com###fancybox-wrap
+metalhammer.co.uk###fp_cookieMessageContainer
 metoffice.gov.uk###EUCookie
+miniclip.com###eu-cookie
+ministryofsound.com###ctl00_ctl00_Cookies1_UpdatePanel1
+mirror.co.uk###cookieNotification
 moneysavingexpert.com###alertBar
+more4.com###cookieNotification
+musicradar.com###fp_cookieMessageContainer
+nationwide.co.uk###cn
+natwest.com###EUDirectiveCookiePanel
+nerc.ac.uk###cookieConsent
+netapp.com###cboxOverlay
+netapp.com###colorbox
+newscientist.com###rbiCookiePolicy_pushDownBoxWrapper
+newstatesman.com###cookiesdirective
 norml-uk.org###cccwr
+nvidia.co.uk###cookiePolicyBar
+ok.co.uk###cookielaw
 onlive.co.uk##.top_message
 opendatacommons.org###catapult-cookie-bar
+orange.co.uk###cookieBannerD
+originalpenguin.co.uk###epd
+out-law.com###cookie
+parkinn.co.uk##div.cookieControl
+parkinn.com##div.cookieControl
+parkinn.de##div.cookieControl
 pathe.nl###cookieContainer
 pathe.nl###cookieOverlay
+pcgamer.com###fp_cookieMessageContainer
+pekao.com.pl###box-close
+pekao.com.pl###box-div
+pekao.com.pl###box-layer
+penguingamers.eu##.RACKWrapper
+perforce.com##span.optanon-link-text-left.optanon-white
+perforce.com##ul.optanon-menu.optanon-menu-allow
+peterboroughtoday.co.uk###euCookiesQuestion
 picturehouses.co.uk###cookie_message
+pirateparty.org.uk###confirmCookiePolicy
+postnl.nl###coverlay
+postnl.nl###cwrapper
+ppluk.com###wsjpecrga
+premierleague.com###cookies-verify
 qype.co.uk##.js-cookie-info
+radissonblu.de##div.cookieControl
+radissonblu.ie##div.cookieControl
 redbull.co.uk##.EUCookiePolicyContainer
 redbull.com##.site-message.cookies
 rightmove.co.uk###cookiemodalbar
 road.cc###sliding-popup
+rockpapershotgun.com###ecd_opt_in_banner
 royalmail.com###block-cookie_policy-0
+royalnavy.mod.uk###cookies-notice
+rs-online.com##.cookieMessageDiv
+rsagroup.com###cookies
+seoconsult.com###cookieBar
 soundonsound.com###cccwr
+spotify.com##.notification-bar.uk-cookies
+star-magazine.co.uk###cookielaw
+stormcreative.co.uk###storm-cookie
 styx-tattoos.co.uk###cookieWrapper
+suzuki.co.uk###privacypopup
+t-mobile.co.uk##.cookies-message-container
+t-mobile.nl##div#exposeMask
+t-mobile.nl##div#TMobile_nl_WebPortals_UI_PageComponents_CookieSettingsOverlay_CookieSettingsOverlayController_OverlayRootDiv
+t3.com###fp_cookieMessageContainer
 tbicardiffairport.com###cookielightbox
+techradar.com###fp_cookieMessageContainer
+tesco.com###cp
+tfl.gov.uk###tfl-cookies
+theeuropeanlibrary.org##.cc-cookies
+thefa.com###cookiebar
+thehappyegg.co.uk###cccwr
+theiet.org###ietCookiePanel
+theregister.co.uk###RegCCO
+thesun.co.uk###sun-cookieMessage
+thesundaytimes.co.uk###tto-cookieMessage
+three.co.uk###cookie-message
+totalmoney.pl###right_widget
+tweakers.net###cookieBar
+ubuntu.com##div.cookie-policy
+ubuntu.pl###cookie-warning
+uk.yahoo.com###y-shade
+ukflive.com##.cc-cookies
+uktv.co.uk###cookies-panel
+vice.com###cookies_msg
+videojug.com##.cp-alert-message
+vpspecialists.co.uk###CookieConsentDiv
+wagamama.com##div.cookie-box
 which.co.uk###eprivacy-holder
+whtimes.co.uk###cookielaw
 witlr.com###cookiewarning
+wolframalpha.com###EUCookie
+yatescycles.co.uk###cookiesdirective
+zdnet.com###cookiePolicy
+||assets.futurecdn.net/js/fp_cookie.js$script
+||assets.futurecdn.net/js/fp_cookie.min.js$script
+||consent.truste.com
+||fabriclondon.com/include/javascript/cookiedirective1.5.js$script
+||myinterrail.co.uk/shared_files/clientscripts/cms/cookie_alert1.js$script
+||wkd.com.pl/cookies/cookies.js$script
 
+!--- Cookie Law Scripts
 /wp-content/plugins/eu-cookie-law/$script
 
-!--- block-the-eu-cookie-shit-list
+!--- Block The EU Cookie Shit List
 !--- https://github.com/r4vi/block-the-eu-cookie-shit-list
 1and1.co.uk###cookies-info
 android.com.pl##div[class^="pea_cook_wrapper"]
