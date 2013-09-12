@@ -70,6 +70,7 @@ film4.com###cookieNotification
 focusrite.com###sliding-popup
 freeview.co.uk###cookie-panel
 furniturevillage.co.uk###SiteMasterPage_updCookieDisclaimer
+g-star.com###cookie-notice
 gambleaware.co.uk###ccWrappery
 gamblingcommission.gov.uk##.cookiedOuter
 gamesindustry.biz###cookie-policy
