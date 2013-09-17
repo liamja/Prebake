@@ -194,6 +194,13 @@ which.co.uk###eprivacy-holder
 /cookieControl-*.js
 !-- http://cookiedrop.co.uk
 ||m1mjd9in5z2.cloudfront.net/widget.js
+!-- http://cookiecuttr.com
+/cookiecuttr.css$script
+/jquery.cookiecuttr.js$script
+!-- http://cookieguard.eu
+/jqueryCookieGuard.1.0.min.js$script
+!-- Other
+/wp-content/plugins/eu-cookie-law/$script
 
 !--- block-the-eu-cookie-shit-list
 !--- https://github.com/r4vi/block-the-eu-cookie-shit-list
