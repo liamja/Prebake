@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 17 September 2013 14:48 BST
+! Last modified: 28 September 2013 23:31 BST
 ! Expires: 7 days (update frequency)
 ! Homepage: http://liamja.github.io/Prebake/
 ! License: https://raw.github.com/liamja/Prebake/master/README.md
@@ -237,6 +237,18 @@ zdnet.com###cookiePolicy
 
 !--- block-the-eu-cookie-shit-list
 !--- https://github.com/r4vi/block-the-eu-cookie-shit-list
+##div[class^="cookie-info"]
+##div[id="catapult-cookie-bar"]
+##div[id="cookie-bar"]
+##div[id="cookie-warning"]
+##div[id="cookiePolicyBar"]
+##div[id="cookies-agreement-box"]
+##div[id="cookies_in"]
+##div[id="cookies_information"]
+##div[id="cookies_policy"]
+##div[id="cookiesBar"]
+##div[id="cookiesPolicy"]
+##div[id="pl_cookies"]
 1and1.co.uk###cookies-info
 android.com.pl##div[class^="pea_cook_wrapper"]
 b3ta.com###cookiewarn
@@ -249,6 +261,7 @@ brandwatch.com###catapult-cookie-bar
 caterersearch.com###rbiCookiePolicy_mainInformation
 cavendishonline.co.uk###cookie-compliance
 ceneo.pl###js_cookie-monster
+channelregister.co.uk,reghardware.com###RegCCO
 checkmyfile.com###cookieBar
 cineworld.co.uk##.notification.cookie
 cineworld.co.uk##.notification.cookie.box
@@ -256,6 +269,8 @@ codehousegroup.com/js/libs/cookie-check.js$script
 cookieControl-*.js.js$script
 cookieControl-*.js?ver=*$script
 cookielawinfo.js?ver=*$script
+cookiewarning.css?ver=*
+cookiewarning.js?ver=*$script
 crossrail.co.uk###cookielaw
 crucial.com##.cookieInfo
 demotywatory.pl##DIV[style^="position: fixed; left:0; right:0; bottom:0"]
@@ -280,7 +295,9 @@ eu_cookie_compliance.js*$script
 fidelity.co.uk###cookieMgn
 filmweb.pl##DIV[class="topBarCont"]
 findanyfilm.com##.cc-cookies
+ford.co.uk###cookieAlertBoxID
 giffgaff.com###cookies-modal
+gocompare.com##.CookiePolicyContainer
 gocompare.com##.globalcookiepolicycontainer
 goldenline.pl##div[id="topReminder"]
 group.barclays.com###cookiesInitialDialog
@@ -303,6 +320,7 @@ jrf.org.uk###cookieconsent
 landregistry.gov.uk###cookieBar
 lifeboatmarketing.co.uk###id_cookieconsent
 lmax.com###cookieDisclaimer
+mazowieckie.com.pl###cookie
 merlin.pl##.cookies_policy
 misco.co.uk##.CookieDirectiveHeight
 netia.pl##DIV[id="cookie_div"]
@@ -319,6 +337,7 @@ panoramafirm.pl###cookiesInfo
 pb.pl##DIV[id="cookies-agreement-box"]
 play.pl##DIV[id="cookies"]
 plejada.pl###cookieInfo
+plus.net###cookieBanner
 policy.cookiereports.com
 postcodeanywhere.co.uk###cookie-info-bar
 postoffice.co.uk###cookiereports-badge
@@ -334,8 +353,10 @@ sciaga.pl##.cookiespolicy
 seetickets.com##.cookieslaw
 siepisze.pl##div[class^="pea_cook_wrapper"]
 skapiec.pl###uclaInfo
+sky.com###skycom-cookie-wrapper
 spotify.com##.notification-bar uk-cookies
 store.lboro.ac.uk##.cc-cookies
+superfast-openreach.co.uk###cc-notification
 suttonguardian.co.uk###cookiewarning
 t-mobile.pl###cookieInfoWrapper
 taylorwessing.com###twCookieConsent
@@ -344,7 +365,6 @@ techrepublic.com###cookieCont
 telepolis.pl##DIV[id="div-cookie-komunikat"][class="komunikat cookies"]
 tfa.net##cccwr
 theepinal.co.uk##.pea_cook_wrapper
-channelregister.co.uk,reghardware.com###RegCCO
 theviewfromtheshard.com###cookie_alert
 thewolseley.com###cookie_policy_banner
 thisislocallondon.co.uk###cookiewarningiframe
@@ -362,6 +382,7 @@ waitrose.com###topEuCookieAlert
 walkit.com###cookie-notice
 wizaz.pl###cookiesdirective
 wrzucacz.pl##P[class="info"]
+www.workingmums.co.uk##div.cookie-box
 your-move.co.uk###Footer_cookieLawBox
 zumi.pl###cookieView
 ||allegrostatic.pl/js/scripts/cookie-policy-banner$script
