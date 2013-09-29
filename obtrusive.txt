@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 28 September 2013 23:31 BST
+! Last modified: 29 September 2013 10:43 BST
 ! Expires: 7 days (update frequency)
 ! Homepage: http://liamja.github.io/Prebake/
 ! License: https://raw.github.com/liamja/Prebake/master/README.md
@@ -169,6 +169,7 @@ rs-online.com##.cookieMessageDiv
 rsagroup.com###cookies
 seoconsult.com###cookieBar
 soundonsound.com###cccwr
+spotify.com###js-message-notice[data-name="cookieNotice"]
 spotify.com##.notification-bar.uk-cookies
 star-magazine.co.uk###cookielaw
 stormcreative.co.uk###storm-cookie
