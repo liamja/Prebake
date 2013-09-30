@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 29 September 2013 10:43 BST
+! Last modified: 30 September 2013 14:59 UTC
 ! Expires: 7 days (update frequency)
 ! Homepage: http://liamja.github.io/Prebake/
 ! License: https://raw.github.com/liamja/Prebake/master/README.md
@@ -8,7 +8,7 @@
 ! Please post any details regarding unblocked notices or problems
 ! to the GitHub issue tracker (https://github.com/liamja/Prebake/issues)
 ! or via e-mail (liam.anderson.91+prebake@gmail.com).
-
+!
 !--- Site-Specific Selectors
 4music.com###cookieNotification
 4music.com###gn-cookie-accept
@@ -219,7 +219,7 @@ zdnet.com###cookiePolicy
 ||fabriclondon.com/include/javascript/cookiedirective1.5.js$script
 ||myinterrail.co.uk/shared_files/clientscripts/cms/cookie_alert1.js$script
 ||wkd.com.pl/cookies/cookies.js$script
-
+!
 !--- Global Filters / Scripts & Libraries
 !-- https://github.com/Scott-Herbert/CookieWarning
 /cookiewarning.js$script
@@ -240,7 +240,7 @@ zdnet.com###cookiePolicy
 /jqueryCookieGuard.1.0.min.js$script
 !-- http://3doordigital.com/wordpress/plugins/eu-cookie-law
 /wp-content/plugins/eu-cookie-law/$script
-
+!
 !--- block-the-eu-cookie-shit-list
 !--- https://github.com/r4vi/block-the-eu-cookie-shit-list
 ##div[class^="cookie-info"]
