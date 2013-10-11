@@ -195,6 +195,7 @@ tesco.com###cp
 tfl.gov.uk###tfl-cookies
 theeuropeanlibrary.org##.cc-cookies
 thefa.com###cookiebar
+theguardian.com##.identity-noticebar
 thehappyegg.co.uk###cccwr
 theiet.org###ietCookiePanel
 theregister.co.uk###RegCCO
