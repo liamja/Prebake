@@ -2,7 +2,7 @@
 require "FileUtils"
 
 pretext = "! Last modified: "
-timestamp = Time.new.gmtime.strftime("%e %B %Y %R %Z")
+timestamp = Time.new.gmtime.strftime("%d %B %Y %R %Z")
 original_file = "obtrusive.txt"
 temp_file = original_file + ".tmp"
 
