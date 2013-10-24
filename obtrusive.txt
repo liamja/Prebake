@@ -190,6 +190,7 @@ soundonsound.com###cccwr
 spotify.com###js-message-notice[data-name="cookieNotice"]
 spotify.com##.notification-bar.uk-cookies
 star-magazine.co.uk###cookielaw
+stargreen.com/##div[style^="color: rgb(238, 238, 238); background-color: rgb(102, 102, 51);"]
 stormcreative.co.uk###storm-cookie
 styx-tattoos.co.uk###cookieWrapper
 suzuki.co.uk###privacypopup
