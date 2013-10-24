@@ -114,6 +114,7 @@ informahealthcare.com##.popupContainer
 iopscience.iop.org##.cookies-banner-wrap
 iwf.org.uk###cookie-bar
 johnlewis.com###opnotification
+juce.com###sliding-popup
 just-eat.co.uk###cookieBanner
 kingston.ac.uk###site-wide-cookie-message
 last.fm###cookie-law-bar
