@@ -102,6 +102,7 @@ guardian.co.uk##.identity-noticebar-content
 h-online.com###cookie_warning
 halfords.com###cookieBar
 hardware.info###cookiebar
+heart.co.uk###cookie_bar
 herts.ac.uk###cookieBar
 hp.com###cookie_privacy_holder
 hsbc.co.uk###disclaimer_banner.eucookie_disclaimer
