@@ -68,6 +68,7 @@ edp24.co.uk###cookielaw
 edp24.co.uk###cookielaw2
 elasticsearch.org###cookie
 empireonline.com###bauerCookiePolicy
+eudict.com##.cookieNotice
 eurogamer.net###cookie-bar
 eveningnews24.co.uk###cookielaw
 examiner.co.uk###cookieNotification
