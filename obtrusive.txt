@@ -125,6 +125,7 @@ just-eat.co.uk###cookieBanner
 kingston.ac.uk###site-wide-cookie-message
 last.fm###cookie-law-bar
 lastfm.de###cookie-law-bar
+linkedin.com###notice-cookie-policy
 lonelyplanet.com##.row--cookie-compliance
 lufbra.net##.cwcookielaw
 masterofmalt.com###cookiePopup
