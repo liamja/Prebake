@@ -36,6 +36,7 @@ beatsbydre.com##.brand_drawer
 ben.nl##div.cookieAccept
 betfair.com##.footer-cookies-policy
 bikeradar.com###fp_cookieMessageContainer
+bol.com###top_header_cookie_message
 breakbeat.co.uk###CookieInformation
 britishmuseum.org###cookiePromptWrapper
 bt.com###cookieNotification
