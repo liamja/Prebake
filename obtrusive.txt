@@ -101,6 +101,7 @@ google.de###epbar
 google.nl###epbar
 gosc.pl##div[style^="border: 10px solid rgb(138, 138, 138);"]
 gov.uk###global-cookie-message
+gov.uk##.js-cookies-banner
 greatbritishlife.co.uk###cookielaw
 greenpeace.nl##div.cookiebar
 greenpeace.org##div.cookie-alert
