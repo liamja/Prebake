@@ -213,6 +213,7 @@ tbicardiffairport.com###cookielightbox
 techradar.com###fp_cookieMessageContainer
 techrepublic.com###cookie-policy
 tesco.com###cp
+tesco.com###tesco_cookie_widget
 tfl.gov.uk###tfl-cookies
 theeuropeanlibrary.org##.cc-cookies
 thefa.com###cookiebar
