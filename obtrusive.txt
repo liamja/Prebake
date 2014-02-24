@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 28 January 2014 17:28 UTC
+! Last modified: 24 February 2014 10:14 UTC
 ! Expires: 7 days (update frequency)
 ! Homepage: http://liamja.github.io/Prebake/
 ! License: https://raw.github.com/liamja/Prebake/master/README.md
@@ -19,7 +19,6 @@ allrecipes.co.uk###cookiePopupContainer
 allthingsd.com###cookie_notice
 archant.co.uk###cookielaw
 area-codes.org.uk###wsjconsent
-army.mod.uk###cookieWrapper
 asda.com###FT_Cookies
 askmen.com###policyNotice
 astrazeneca.com###cookie-disclaimer
@@ -98,6 +97,7 @@ gigaom.com##.privacy-policy
 gizmodo.co.uk###fp_cookieMessageContainer
 google.co.uk###epbar
 google.de###epbar
+google.fr###epbar
 google.nl###epbar
 gosc.pl##div[style^="border: 10px solid rgb(138, 138, 138);"]
 gov.uk###global-cookie-message
@@ -129,6 +129,7 @@ just-eat.co.uk###cookieBanner
 kingston.ac.uk###site-wide-cookie-message
 last.fm###cookie-law-bar
 lastfm.de###cookie-law-bar
+lemonde.fr###alerte_tracking
 linkedin.com###notice-cookie-policy
 lonelyplanet.com##.row--cookie-compliance
 lufbra.net##.cwcookielaw
@@ -201,9 +202,8 @@ soundonsound.com###cccwr
 spotify.com###js-message-notice[data-name="cookieNotice"]
 spotify.com##.notification-bar.uk-cookies
 star-magazine.co.uk###cookielaw
-stargreen.com/##div[style^="color: rgb(238, 238, 238); background-color: rgb(102, 102, 51);"]
+stargreen.com##div[style^="color: rgb(238, 238, 238); background-color: rgb(102, 102, 51);"]
 stormcreative.co.uk###storm-cookie
-styx-tattoos.co.uk###cookieWrapper
 submit.ac.uk###cookieAcceptPos
 suzuki.co.uk###privacypopup
 t-mobile.co.uk##.cookies-message-container
@@ -270,26 +270,25 @@ zdnet.com###cookiePolicy
 /cookiecuttr.css$script
 /jquery.cookiecuttr.js$script
 !-- http://cookieguard.eu
-/jqueryCookieGuard.1.0.min.js$script
 !-- http://3doordigital.com/wordpress/plugins/eu-cookie-law
-/wp-content/plugins/eu-cookie-law/$script
+/wp-content/plugins/eu-cookie-law/*$script
 !-- Hibu Web Design
 ###cookieWrapper
 !
 !--- block-the-eu-cookie-shit-list
 !--- https://github.com/r4vi/block-the-eu-cookie-shit-list
 ##div[class^="cookie-info"]
-##div[id="catapult-cookie-bar"]
-##div[id="cookie-bar"]
-##div[id="cookie-warning"]
-##div[id="cookiePolicyBar"]
-##div[id="cookies-agreement-box"]
-##div[id="cookies_in"]
-##div[id="cookies_information"]
-##div[id="cookies_policy"]
-##div[id="cookiesBar"]
-##div[id="cookiesPolicy"]
-##div[id="pl_cookies"]
+###catapult-cookie-bar
+###cookie-bar
+###cookie-warning
+###cookiePolicyBar
+###cookies-agreement-box
+###cookies_in
+###cookies_information
+###cookies_policy
+###cookiesBar
+###cookiesPolicy
+###pl_cookies
 1and1.co.uk###cookies-info
 android.com.pl##div[class^="pea_cook_wrapper"]
 b3ta.com###cookiewarn
@@ -305,13 +304,12 @@ ceneo.pl###js_cookie-monster
 channelregister.co.uk,reghardware.com###RegCCO
 checkmyfile.com###cookieBar
 cineworld.co.uk##.notification.cookie
-cineworld.co.uk##.notification.cookie.box
 codehousegroup.com/js/libs/cookie-check.js$script
 cookieControl-*.js.js$script
-cookieControl-*.js?ver=*$script
-cookielawinfo.js?ver=*$script
-cookiewarning.css?ver=*
-cookiewarning.js?ver=*$script
+cookieControl-*.js?ver=$script
+cookielawinfo.js?ver=$script
+cookiewarning.css?ver=
+cookiewarning.js?ver=$script
 crossrail.co.uk###cookielaw
 crucial.com##.cookieInfo
 demotywatory.pl##DIV[style^="position: fixed; left:0; right:0; bottom:0"]
@@ -340,7 +338,7 @@ ford.co.uk###cookieAlertBoxID
 giffgaff.com###cookies-modal
 gocompare.com##.CookiePolicyContainer
 gocompare.com##.globalcookiepolicycontainer
-goldenline.pl##div[id="topReminder"]
+goldenline.pl###topReminder
 group.barclays.com###cookiesInitialDialog
 group.barclays.com##.dialogMask
 gry.pl##.m-cookiebar
@@ -350,12 +348,12 @@ humansinvent.com/*/eu_rp_cookie.js$script
 iblanky.co.cc###update
 ico.gov.uk###banner
 ing.com###cookie_info
-instalki.pl##DIV[id="ciasteczka"]
-jakilinux.org##DIV[id="cookie-compliance-bottom"]
+instalki.pl###ciasteczka
+jakilinux.org###cookie-compliance-bottom
 jobs.ac.uk##.eucookies
 joemonster.org##DIV[style^="position: fixed; left:0; right:0; bottom:0;"]
 johnredwoodsdiary.com###cc-notification-wrapper
-joomla.pl##DIV[id="panel_cookie_dol"]
+joomla.pl###panel_cookie_dol
 jqueryCookieGuard*.js$script
 jrf.org.uk###cookieconsent
 landregistry.gov.uk###cookieBar
@@ -364,7 +362,7 @@ lmax.com###cookieDisclaimer
 mazowieckie.com.pl###cookie
 merlin.pl##.cookies_policy
 misco.co.uk##.CookieDirectiveHeight
-netia.pl##DIV[id="cookie_div"]
+netia.pl###cookie_div
 networkrail.co.uk##.CookieNotification
 news.o2.co.uk###cookiesdirective
 nhsbt.nhs.uk###cookie-warning
@@ -375,8 +373,7 @@ orange.pl###cookiesArticle
 otomoto.pl##.om-cookie-agreement
 ourwatch.org.uk###cookie-policy
 panoramafirm.pl###cookiesInfo
-pb.pl##DIV[id="cookies-agreement-box"]
-play.pl##DIV[id="cookies"]
+play.pl###cookies
 plejada.pl###cookieInfo
 plus.net###cookieBanner
 policy.cookiereports.com
@@ -403,16 +400,16 @@ t-mobile.pl###cookieInfoWrapper
 taylorwessing.com###twCookieConsent
 tddirectinvesting.co.uk###cookieWindowContainer
 techrepublic.com###cookieCont
-telepolis.pl##DIV[id="div-cookie-komunikat"][class="komunikat cookies"]
+telepolis.pl###div-cookie-komunikat[class="komunikat cookies"]
 tfa.net##cccwr
 theepinal.co.uk##.pea_cook_wrapper
 theviewfromtheshard.com###cookie_alert
 thewolseley.com###cookie_policy_banner
 thisislocallondon.co.uk###cookiewarningiframe
-tnttorrent.info##DIV[id="cookie_policies"]
+tnttorrent.info###cookie_policies
 travelsupermarket.com###cookieDirective
 trustedreviews.com###cookie-warning
-tvp.pl##DIV[id="cookieControl"]
+tvp.pl###cookieControl
 uk.virginmoney.com###e-privacy-message
 uk.virginmoneygiving.com###e-privacy-message
 ukti.gov.uk###cookieBanner
@@ -429,4 +426,4 @@ zumi.pl###cookieView
 ||allegrostatic.pl/js/scripts/cookie-policy-banner$script
 ||assets.cookieconsent.silktide.com^
 ||cookie.gazeta.pl/noScriptCookie.servlet
-||login.gg.pl/cookies-policy/*/cookie-terms*
+||login.gg.pl/cookies-policy/*/cookie-terms
