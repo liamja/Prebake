@@ -277,18 +277,26 @@ zdnet.com###cookiePolicy
 !
 !--- block-the-eu-cookie-shit-list
 !--- https://github.com/r4vi/block-the-eu-cookie-shit-list
-##div[class^="cookie-info"]
 ###catapult-cookie-bar
 ###cookie-bar
-###cookie-warning
 ###cookiePolicyBar
-###cookies-agreement-box
 ###cookies_in
 ###cookies_information
 ###cookies_policy
+###cookies-agreement-box
 ###cookiesBar
 ###cookiesPolicy
+###cookie-warning
 ###pl_cookies
+##div[class^="cookie-info"]
+/cookielawinfo.js?ver=$script
+/cookiewarning.css?ver=
+/cookiewarning.js?ver=$script
+||allegrostatic.pl/js/scripts/cookie-policy-banner$script
+||assets.cookieconsent.silktide.com^
+||codehousegroup.com/js/libs/cookie-check.js$script
+||cookie.gazeta.pl/noScriptCookie.servlet
+||login.gg.pl/cookies-policy/*/cookie-terms
 1and1.co.uk###cookies-info
 android.com.pl##div[class^="pea_cook_wrapper"]
 b3ta.com###cookiewarn
@@ -304,12 +312,6 @@ ceneo.pl###js_cookie-monster
 channelregister.co.uk,reghardware.com###RegCCO
 checkmyfile.com###cookieBar
 cineworld.co.uk##.notification.cookie
-codehousegroup.com/js/libs/cookie-check.js$script
-cookieControl-*.js.js$script
-cookieControl-*.js?ver=$script
-cookielawinfo.js?ver=$script
-cookiewarning.css?ver=
-cookiewarning.js?ver=$script
 crossrail.co.uk###cookielaw
 crucial.com##.cookieInfo
 demotywatory.pl##DIV[style^="position: fixed; left:0; right:0; bottom:0"]
@@ -329,8 +331,8 @@ edexcel.com###cookiemsgbox
 ee.co.uk###cookie-banner
 ee.co.uk###ee-cookies-message
 equifax.co.uk###cookieMessageWrapper
-eu-cookie-directive/script.js$script
 eu_cookie_compliance.js*$script
+eu-cookie-directive/script.js$script
 fidelity.co.uk###cookieMgn
 filmweb.pl##DIV[class="topBarCont"]
 findanyfilm.com##.cc-cookies
@@ -382,8 +384,8 @@ postoffice.co.uk###cookiereports-badge
 prospectmagazine.co.uk###catapult-cookie-bar
 przegladsportowy.pl###cookies
 rail-reg.gov.uk###CookieQBanner
-rbicookiepolicy-14.js$script
 rbicookiepolicy.js$script
+rbicookiepolicy-14.js$script
 rncm.ac.uk###cookie_warning
 roh.org.uk##div.roh-cookies
 santanderbillpayment.co.uk###euPrivacy_control_euPrivacy_cookiesMsg
@@ -396,7 +398,6 @@ spotify.com##.notification-bar uk-cookies
 store.lboro.ac.uk##.cc-cookies
 superfast-openreach.co.uk###cc-notification
 suttonguardian.co.uk###cookiewarning
-t-mobile.pl###cookieInfoWrapper
 taylorwessing.com###twCookieConsent
 tddirectinvesting.co.uk###cookieWindowContainer
 techrepublic.com###cookieCont
@@ -406,6 +407,7 @@ theepinal.co.uk##.pea_cook_wrapper
 theviewfromtheshard.com###cookie_alert
 thewolseley.com###cookie_policy_banner
 thisislocallondon.co.uk###cookiewarningiframe
+t-mobile.pl###cookieInfoWrapper
 tnttorrent.info###cookie_policies
 travelsupermarket.com###cookieDirective
 trustedreviews.com###cookie-warning
@@ -423,7 +425,3 @@ wrzucacz.pl##P[class="info"]
 www.workingmums.co.uk##div.cookie-box
 your-move.co.uk###Footer_cookieLawBox
 zumi.pl###cookieView
-||allegrostatic.pl/js/scripts/cookie-policy-banner$script
-||assets.cookieconsent.silktide.com^
-||cookie.gazeta.pl/noScriptCookie.servlet
-||login.gg.pl/cookies-policy/*/cookie-terms
