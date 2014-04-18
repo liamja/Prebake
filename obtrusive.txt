@@ -37,6 +37,7 @@ ben.nl##div.cookieAccept
 betfair.com##.footer-cookies-policy
 bikeradar.com###fp_cookieMessageContainer
 bol.com###top_header_cookie_message
+borger.dk##.cookie-banner
 breakbeat.co.uk###CookieInformation
 britishmuseum.org###cookiePromptWrapper
 bt.com###cookieNotification
@@ -52,6 +53,7 @@ classicrockmagazine.com###fp_cookieMessageContainer
 cnet.co.uk###cookiePolicy
 cofunds.co.uk##div.idrPageRow[style^="min-height:0;height:auto;padding:0;position:relative;z-index:1;zoom:1;border:none;"]
 computerandvideogames.com###fp_cookieMessageContainer
+computerworld.dk##.cookieAccept
 concertolive.co.uk##.divCookieWarning
 crownpaint.co.uk/scripts/crown/cookiesPopup.js$script
 dailystar.co.uk###cookielaw
@@ -61,6 +63,7 @@ dawsonera.com##.cc-cookies-container
 delo.si/assets/delo_v3/notice/js/script.js$script
 diabetes.org.uk###policyPopup
 digitalspy.co.uk###cookie-policy
+dr.dk##.dr-cookie-info-box
 drive24.co.uk###cookieHeader
 dutchnews.nl##div.cookiepolicy
 e4.com###cookieNotification
@@ -110,6 +113,7 @@ h-online.com###cookie_warning
 halfords.com###cookieBar
 hardware.info###cookiebar
 heart.co.uk###cookie_bar
+heltnormalt.dk##.banner-container
 herts.ac.uk###cookieBar
 hp.com###cookie_privacy_holder
 hsbc.co.uk###disclaimer_banner.eucookie_disclaimer
@@ -120,6 +124,8 @@ indiegogo.com###fancybox-overlay
 indiegogo.com###fancybox-wrap
 informahealthcare.com##.overlay
 informahealthcare.com##.popupContainer
+information.dk##.block-cookie-disclaimer
+ing.dk##.cookie-accept-overlay
 iopscience.iop.org##.cookies-banner-wrap
 itv.com###itv-cookie-notification
 iwf.org.uk###cookie-bar
@@ -236,6 +242,7 @@ ubuntu.pl###cookie-warning
 uk.yahoo.com###y-shade
 ukflive.com##.cc-cookies
 uktv.co.uk###cookies-panel
+version2.dk##.cookie-accept-overlay
 vice.com###cookies_msg
 videojug.com##.cp-alert-message
 vpspecialists.co.uk###CookieConsentDiv
