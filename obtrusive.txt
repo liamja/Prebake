@@ -221,6 +221,7 @@ royalnavy.mod.uk###cookies-notice
 rs-online.com##.cookieMessageDiv
 rsagroup.com###cookies
 rspb.org.uk###cookie-message
+santander.co.uk###cookiebannerAH
 seoconsult.com###cookieBar
 skynet.be###cookieAlert
 soundonsound.com###cccwr
