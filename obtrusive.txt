@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified:  4 May 2014 16:16 UTC
+! Last modified:  4 May 2014 16:25 UTC
 ! Expires: 7 days (update frequency)
 ! Homepage: http://liamja.github.io/Prebake/
 ! License: https://raw.github.com/liamja/Prebake/master/README.md
@@ -23,7 +23,6 @@
 4music.com###cookieNotification
 4music.com###gn-cookie-accept
 abbeyroad.com###cookie-overlay-footer
-ad.nl###cookiestatement
 agynamix.de###cookie
 allrecipes.co.uk###cookiePopupContainer
 allthingsd.com###cookie_notice
@@ -40,8 +39,6 @@ atman.pl##.polityka-cookie
 baesystems.com###cookie-bar
 barbican.org.uk###cookies
 barclays.co.uk##P.otm
-bbc.co.uk###bbccookies
-bbc.com###bbccookies
 bbcgoodfood.com###cookie-policy-container
 bbcgoodfood.com##.cookie-law
 beatsbydre.com###brand_drawer
@@ -49,25 +46,21 @@ beatsbydre.com##.brand_drawer
 belgianrail.be###cookieWarning
 ben.nl##.cookieAccept
 betfair.com##.footer-cookies-policy
-bikeradar.com###fp_cookieMessageContainer
 bol.com###top_header_cookie_message
 breakbeat.co.uk###CookieInformation
 britishmuseum.org###cookiePromptWrapper
 bt.com###cookieNotification
 car2go.com###c2g_cookie_dialog
-channel4.com###cookieNotification
 channel4.com###gn-cookie-accept
 channel5.com###cookie-notification
 chortle.co.uk###cookie-notice
 claireperry.org.uk###blanket
 claireperry.org.uk###message
 clarkewillmott.com###cookiestext
-classicrockmagazine.com###fp_cookieMessageContainer
 clubic.com###cookieu_header
 cnet.co.uk###cookiePolicy
 cofunds.co.uk##.idrPageRow[style^="min-height:0;height:auto;padding:0;position:relative;z-index:1;zoom:1;border:none;"]
 commentcamarche.net##.ccmcss_oic
-computerandvideogames.com###fp_cookieMessageContainer
 concertolive.co.uk##.divCookieWarning
 co-operativebank.co.uk###noticePanel
 dailystar.co.uk###cookielaw
@@ -97,7 +90,6 @@ fantasyfootballscout.co.uk###cookie-bar
 fasthosts.co.uk###cookie
 fatbeehive.com##div[style^="background-color: #000;"]
 fhm.com###bauerCookiePolicy
-film4.com###cookieNotification
 film4.com###gn-cookie-accept
 focusrite.com###sliding-popup
 formula1.com###cookiebnr
@@ -111,7 +103,6 @@ gamespot.com###cookiePolicy
 gamespy.com###policy
 geforce.co.uk###cookiePolicyBar
 gigaom.com##.privacy-policy
-gizmodo.co.uk###fp_cookieMessageContainer
 gosc.pl##div[style^="border: 10px solid rgb(138, 138, 138);"]
 gov.uk###global-cookie-message
 gov.uk##.js-cookies-banner
@@ -158,7 +149,6 @@ masterofmalt.com###cookiePopup
 mclaren.com###block-cookie-info
 mclarenstore.com##.widget-notifyBar
 mdx.ac.uk###cookie
-metalhammer.co.uk###fp_cookieMessageContainer
 metoffice.gov.uk###EUCookie
 miniclip.com###eu-cookie
 ministryofsound.com###ctl00_ctl00_Cookies1_UpdatePanel1
@@ -167,7 +157,6 @@ moneysavingexpert.com###alertBar
 monster.co.uk###intMsgCookies
 more4.com###cookieNotification
 more4.com###gn-cookie-accept
-musicradar.com###fp_cookieMessageContainer
 nationwide.co.uk###cn
 natwest.com###EUDirectiveCookiePanel
 nectar.com###cc-notification
@@ -191,7 +180,6 @@ parkinn.com##.cookieControl
 parkinn.de##.cookieControl
 pathe.nl###cookieContainer
 pathe.nl###cookieOverlay
-pcgamer.com###fp_cookieMessageContainer
 pcpro.co.uk###dennis-cookie-notice
 pekao.com.pl###box-close
 pekao.com.pl###box-div
@@ -199,7 +187,6 @@ pekao.com.pl###box-layer
 penguingamers.eu##.RACKWrapper
 perforce.com##span.optanon-link-text-left.optanon-white
 perforce.com##ul.optanon-menu.optanon-menu-allow
-peterboroughtoday.co.uk###euCookiesQuestion
 picturehouses.co.uk###cookie_message
 pirateparty.org.uk###confirmCookiePolicy
 politics.co.uk###cookieConsentBar
@@ -232,9 +219,7 @@ star-magazine.co.uk###cookielaw
 stormcreative.co.uk###storm-cookie
 submit.ac.uk###cookieAcceptPos
 suzuki.co.uk###privacypopup
-t3.com###fp_cookieMessageContainer
 tbicardiffairport.com###cookielightbox
-techradar.com###fp_cookieMessageContainer
 techrepublic.com###cookie-policy
 telerama.fr###usrConsent
 tesco.com###cp
@@ -247,7 +232,6 @@ theguardian.com##.identity-noticebar
 thehappyegg.co.uk###cccwr
 theiet.org###ietCookiePanel
 theodi.org###cookie-notification
-theregister.co.uk###RegCCO
 thesun.co.uk###sun-cookieMessage
 thesundaytimes.co.uk###tto-cookieMessage
 three.co.uk###cookie-message
