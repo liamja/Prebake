@@ -332,7 +332,8 @@ zdnet.com###cookiePolicy
 !-- CookieAssistant.com
 http://app.cookieassistant.com/widget*$script
 !-- Silktide Script
-/assets.cookieconsent.silktide.com/current/plugin*$script
+/assets.cookieconsent.silktide.com/*$script
+###cc-notification > #cc-notification-wrapper
 !-- Others
 ###cartelcookielegal
 ###cookie-law-compliance
