@@ -330,7 +330,7 @@ zdnet.com###cookiePolicy
 !-- Johnston Press
 ###euCookiesQuestion
 !-- CookieAssistant.com
-http://app.cookieassistant.com/widget.js$script
+http://app.cookieassistant.com/widget*$script
 !-- Others
 ###cartelcookielegal
 ###cookie-law-compliance
