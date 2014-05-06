@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 06 May 2014 11:24 BST
+! Last modified: 06 May 2014 18:36 BST
 ! Expires: 7 days (update frequency)
 ! Homepage: http://liamja.github.io/Prebake/
 ! License: https://raw.github.com/liamja/Prebake/master/README.md
@@ -264,7 +264,7 @@ techrepublic.com###cookie-policy
 telerama.fr###usrConsent
 tesco.com###cp
 tesco.com###tesco_cookie_widget
-tfl.gov.uk###tfl-cookies
+tfl.gov.uk##.cookie-policy-notice
 theeuropeanlibrary.org##.cc-cookies
 thefa.com###cookiebar
 theguardian.com###cookieNotification
