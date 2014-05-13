@@ -18,6 +18,53 @@
 ||fabriclondon.com/include/javascript/cookiedirective1.5.js$script
 ||myinterrail.co.uk/shared_files/clientscripts/cms/cookie_alert1.js$script
 ||wkd.com.pl/cookies/cookies.js$script
+||frz.io/cnil/
+||mnhn.fr/fr/cookie-eu/*
+lequipe.fr###cookiesLequipe
+lesnumeriques.com###notif_197
+istockphoto.com###euCookieBar
+croustifrance.com###cookiewarning
+electrolux.fr##.cookie-message
+polytuil.fr###cookiesContainer
+yamaha-motor.eu###cookieMessage
+hotelgranvia.com###lc_cookies-main
+rabobank.be###cookie-policy
+britishcouncil.fr###cookie-banner
+mercialys.fr##.info-top
+restaurant-eau-vive.fr###ca_banner
+piret.be##.divCookiePopUpContainer
+hotelmagicmassana.com###cookieMessageWrapper
+cookieconsent.com##.cookieconsent-popup
+mdd.eu##.panel_cookie
+samsung.com##.cookie_notice
+boulevardvitoriahotel.com###cookieMessageWrapper
+caproig.com###ca_banner
+bona.com##.cookie
+knaufdanoline.fr###pronamic_cookie_holder
+savi-france.fr###notifybar
+imedeen.fr###cookiepolicyContainer
+rubbermaid.eu##.cookie-popup
+shell.fr###cookie_info
+ransomesjacobsen.com###cookieuseage
+yachtpaint.com##.cookiesPro
+audion.com###cc-cookies
+glotosleep.fr###cookieWarning
+groupe-logos.com##DIV[style="background:#2A2A2A; color: #fff; left:0px; bottom:0px; right:0px; position: fixed; z-index: 1000;"]
+amisdukmzero.com###ca_banner
+aide-joomla.com###ca_banner
+medclic.fr###cookiebanner
+wattsindustries.com###header1_overlay2
+sgs.com##.sgsCookies
+esbe.eu##.header-cookie-content
+guerrier-celeste.fr###ca_banner
+veuve-clicquot.com##.agegate-cookie
+duluxvalentine.com###cookie-law
+lab-project.net##.activebar-container
+comixology.fr###cookieAcknowledgement
+epson.fr##.epson_cookienotice
+vileda.com###cookienotice-container
+symington.com###cookielaw
+etiemble.free.fr###cookie_notice
 20minutes.fr###CNIL-notice
 3vprepaid.com###cookie-container
 4music.com###cookieNotification
@@ -323,6 +370,8 @@ zdnet.com###cookiePolicy
 !-- http://cookiesv2.publiekeomroep.nl
 ###npo_cc_notification
 ###npo_cc_notification_wrapper
+!-- http://cookieconsent.com/
+||cookieconsent.com^$third-party
 !--
 /cookieCompliance.js$script
 !-- Google (Requires "Allow some non-intrusive advertising" to be unchecked.)
