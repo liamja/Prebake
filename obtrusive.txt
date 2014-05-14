@@ -380,7 +380,7 @@ zdnet.com###cookiePolicy
 !-- Johnston Press
 ###euCookiesQuestion
 !-- CookieAssistant.com
-http://app.cookieassistant.com/widget$script
+||app.cookieassistant.com/widgets/$script
 !-- Silktide Script
 /assets.cookieconsent.silktide.com/*$script
 ###cc-notification > #cc-notification-wrapper
