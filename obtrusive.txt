@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 12 May 2014 18:14 UTC
+! Last modified: 15 May 2014 17:33 UTC
 ! Expires: 7 days (update frequency)
 ! Homepage: http://liamja.github.io/Prebake/
 ! License: https://raw.github.com/liamja/Prebake/master/README.md
@@ -230,6 +230,7 @@ radissonblu.de##.cookieControl
 radissonblu.ie##.cookieControl
 redbull.co.uk##.EUCookiePolicyContainer
 redbull.com##.site-message.cookies
+reed.co.uk##.notification
 rejseplanen.dk###cookieInfoBox
 ret-raad.dk###cookiebanner
 rex.kb.dk##.content
