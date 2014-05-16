@@ -68,6 +68,7 @@ cofunds.co.uk##.idrPageRow[style^="min-height:0;height:auto;padding:0;position:r
 commentcamarche.net##.ccmcss_oic
 computerworld.dk##.cookieAccept
 concertolive.co.uk##.divCookieWarning
+cpc.farnell.com###mktg_Cookie_Wrap
 dailystar.co.uk###cookielaw
 data.gov.uk###sliding-popup
 davidlloyd.co.uk###home-cookie2
@@ -228,6 +229,7 @@ qxl.dk###cookies
 qype.co.uk##.js-cookie-info
 radissonblu.de##.cookieControl
 radissonblu.ie##.cookieControl
+rapidonline.com###Header_SelectSitePopup_DisplaySiteSplitMsgDiv
 redbull.co.uk##.EUCookiePolicyContainer
 redbull.com##.site-message.cookies
 reed.co.uk##.notification
@@ -284,6 +286,7 @@ tweakers.net###cookieBar
 twitter.com##.eu-cookie-notice
 ubuntu.com##.cookie-policy
 ubuntu.pl###cookie-warning
+uk.farnell.com###mktg_Cookie_Wrap
 uk.yahoo.com###y-shade
 ukflive.com##.cc-cookies
 uktv.co.uk###cookies-panel
