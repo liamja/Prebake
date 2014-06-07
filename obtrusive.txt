@@ -20,6 +20,7 @@
 ||mnhn.fr/fr/cookie-eu/
 ||myinterrail.co.uk/shared_files/clientscripts/cms/cookie_alert1.js$script
 ||wkd.com.pl/cookies/cookies.js$script
+01net.com###conteneurCookies
 20minutes.fr###CNIL-notice
 3vprepaid.com###cookie-container
 4music.com###cookieNotification
@@ -66,6 +67,7 @@ britishmuseum.org###cookiePromptWrapper
 bt.com###cookieNotification
 caproig.com###ca_banner
 car2go.com###c2g_cookie_dialog
+challenges.fr##DIV[style="text-align:left;width:550px;background-color:#feefaa;padding:10px;font:12px Arial;position:absolute;z-index:50;undefined"]
 channel4.com###gn-cookie-accept
 channel5.com###cookie-notification
 chortle.co.uk###cookie-notice
@@ -74,7 +76,6 @@ claireperry.org.uk###message
 clarkewillmott.com###cookiestext
 clubic.com###cookieu_header
 cnet.co.uk###cookiePolicy
-co-operativebank.co.uk###noticePanel
 cofunds.co.uk##.idrPageRow[style^="min-height:0;height:auto;padding:0;position:relative;z-index:1;zoom:1;border:none;"]
 coinc.es###divCookie
 comixology.fr###cookieAcknowledgement
@@ -82,6 +83,7 @@ commentcamarche.net##.ccmcss_oic
 computerworld.dk##.cookieAccept
 concertolive.co.uk##.divCookieWarning
 cookieconsent.com##.cookieconsent-popup
+co-operativebank.co.uk###noticePanel
 cpc.farnell.com###mktg_Cookie_Wrap
 croustifrance.com###cookiewarning
 dailystar.co.uk###cookielaw
@@ -92,6 +94,7 @@ degulesider.dk##.cookies-info
 diabetes.org.uk###policyPopup
 digitalspy.co.uk###cookie-policy
 dmi.dk##.content
+doctissimo.fr###cookieAlert
 dr.dk##.dr-cookie-info-box
 dr.dk##.dr-infobox
 drive24.co.uk###cookieHeader
@@ -135,7 +138,6 @@ formula1.com###cookiebnr
 freeview.co.uk###cookie-panel
 ft.dk##.cookieconsent-popup
 furniturevillage.co.uk###SiteMasterPage_updCookieDisclaimer
-g-star.com###cookie-notice
 gambleaware.co.uk###ccWrappery
 gamblingcommission.gov.uk##.cookiedOuter
 gamekult.com###cookiePolicy
@@ -154,9 +156,9 @@ greatbritishlife.co.uk###cookielaw
 greenpeace.nl##.cookiebar
 greenpeace.org##.cookie-alert
 groupe-logos.com##DIV[style="background:#2A2A2A; color: #fff; left:0px; bottom:0px; right:0px; position: fixed; z-index: 1000;"]
+g-star.com###cookie-notice
 guardian.co.uk##.identity-noticebar-content
 guerrier-celeste.fr###ca_banner
-h-online.com###cookie_warning
 halfords.com###cookieBar
 hardware.info###cookiebar
 heart.co.uk###cookie_bar
@@ -164,6 +166,7 @@ heltnormalt.dk##.banner
 heltnormalt.dk##.banner-container
 herts.ac.uk###cookieBar
 hifipriser.dk##.content
+h-online.com###cookie_warning
 hotelgranvia.com###lc_cookies-main
 hotelmagicmassana.com###cookieMessageWrapper
 hp.com###cookie_privacy_holder
@@ -197,8 +200,10 @@ last.fm###cookie-law-bar
 lastfm.de###cookie-law-bar
 lastminute.com##.cookieBox
 lavie.fr###usrcookies
+lcd-compare.com###wk_cookiebar
 lefigaro.fr##.cookieBarContainer
 lemonde.fr###alerte_tracking
+leparisien.fr###cookieParisien
 lepoint.fr###footer-cookies
 lequipe.fr###cookiesLequipe
 lesnumeriques.com###notif_197
@@ -284,8 +289,8 @@ road.cc###sliding-popup
 rockpapershotgun.com###ecd_opt_in_banner
 royalmail.com###block-cookie_policy-0
 royalnavy.mod.uk###cookies-notice
-rs-online.com##.cookieMessageDiv
 rsagroup.com###cookies
+rs-online.com##.cookieMessageDiv
 rspb.org.uk###cookie-message
 rubbermaid.eu##.cookie-popup
 samsung.com##.cookie_notice
@@ -301,15 +306,12 @@ soundcloud.com##.announcement
 soundonsound.com###cccwr
 spotify.com###js-message-notice[data-name="cookieNotice"]
 spotify.com##.uk-cookies
-star-magazine.co.uk###cookielaw
 stargreen.com##div[style^="color: rgb(238, 238, 238); background-color: rgb(102, 102, 51);"]
+star-magazine.co.uk###cookielaw
 stormcreative.co.uk###storm-cookie
 submit.ac.uk###cookieAcceptPos
 suzuki.co.uk###privacypopup
 symington.com###cookielaw
-t-mobile.co.uk##.cookies-message-container
-t-mobile.nl###exposeMask
-t-mobile.nl###TMobile_nl_WebPortals_UI_PageComponents_CookieSettingsOverlay_CookieSettingsOverlayController_OverlayRootDiv
 tandfonline.com##.b-body
 tandfonline.com##.b-header
 tbicardiffairport.com###cookielightbox
@@ -328,6 +330,9 @@ theodi.org###cookie-notification
 thesun.co.uk###sun-cookieMessage
 thesundaytimes.co.uk###tto-cookieMessage
 three.co.uk###cookie-message
+t-mobile.co.uk##.cookies-message-container
+t-mobile.nl###exposeMask
+t-mobile.nl###TMobile_nl_WebPortals_UI_PageComponents_CookieSettingsOverlay_CookieSettingsOverlayController_OverlayRootDiv
 toshiba.co.uk###cookies_container
 totalmoney.pl###right_widget
 trustpilot.dk##.cookie-bar
