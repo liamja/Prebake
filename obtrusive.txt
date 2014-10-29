@@ -283,6 +283,7 @@ rejseplanen.dk###cookieInfoBox
 restaurant-eau-vive.fr###ca_banner
 ret-raad.dk###cookiebanner
 rex.kb.dk##.content
+richersounds.com###headerCookieLaw
 rightmove.co.uk###cookiemodalbar
 road.cc###sliding-popup
 rockpapershotgun.com###ecd_opt_in_banner
