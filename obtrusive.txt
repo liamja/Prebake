@@ -196,6 +196,7 @@ knaufdanoline.fr###pronamic_cookie_holder
 kristeligt-dagblad.dk###cookieInformerBooklet
 ku.dk###cookie_box
 lab-project.net##.activebar-container
+www.larousse.fr##.panel-cookies
 last.fm###cookie-law-bar
 lastfm.de###cookie-law-bar
 lastminute.com##.cookieBox
