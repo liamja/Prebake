@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 25 November 2014 10:11 UTC
+! Last modified: 25 November 2014 12:02 UTC
 ! Expires: 7 days (update frequency)
 ! Homepage: http://liamja.github.io/Prebake/
 ! License: https://raw.github.com/liamja/Prebake/master/README.md
@@ -58,6 +58,7 @@ belgianrail.be###cookieWarning
 ben.nl##.cookieAccept
 betfair.com##.footer-cookies-policy
 bibliotek.dk##.popup-content
+blogger.com###blogger_cookie_notice
 bol.com###top_header_cookie_message
 bolha.com###cookiesWarning
 bona.com##.cookie
@@ -76,6 +77,7 @@ cdon.no###cookie-information
 cdon.se###cookie-information
 channel4.com###gn-cookie-accept
 channel5.com###cookie-notification
+chomikuj.pl##.cookiesInfo
 chortle.co.uk###cookie-notice
 claireperry.org.uk###blanket
 claireperry.org.uk###message
@@ -102,6 +104,7 @@ degulesider.dk##.cookies-info
 diabetes.org.uk###policyPopup
 digitalspy.co.uk###cookie-policy
 dmi.dk##.content
+dobreprogramy.pl###cookiesPanel
 dr.dk##.dr-cookie-info-box
 dr.dk##.dr-infobox
 drive24.co.uk###cookieHeader
@@ -112,7 +115,14 @@ dutchnews.nl##.cookiepolicy
 e4.com###cookieNotification
 e4.com###gn-cookie-accept
 eadt.co.uk###cookielaw2
-ebay.pl###gh-cookieb-txt
+ebay.at##.gh-cookieb-active
+ebay.be##.gh-cookieb-active
+ebay.ch##.gh-cookieb-active
+ebay.de##.gh-cookieb-active
+ebay.fr##.gh-cookieb-active
+ebay.ie##.gh-cookieb-active
+ebay.nl##.gh-cookieb-active
+ebay.pl##.gh-cookieb-active
 ebuyer.com###cookieContainer
 economist.com###ec-message-3
 edbpriser.dk##.content
@@ -200,6 +210,7 @@ informahealthcare.com##.overlay
 informahealthcare.com##.popupContainer
 ing.dk##.cookie-accept-overlay
 ingdirect.es###ico_banner
+interia.pl###inpl_cp_cnt
 iopscience.iop.org##.cookies-banner-wrap
 istockphoto.com###euCookieBar
 itv.com###itv-cookie-notification
@@ -212,6 +223,7 @@ just-eat.co.uk###cookieBanner
 keil.com##.modouter
 kingston.ac.uk###site-wide-cookie-message
 knaufdanoline.fr###pronamic_cookie_holder
+kozaczek.pl###cookie-policy
 kristeligt-dagblad.dk###cookieInformerBooklet
 ku.dk###cookie_box
 kwejk.pl###cookies-politics
@@ -237,6 +249,7 @@ mdx.ac.uk###cookie
 medclic.fr###cookiebanner
 mercialys.fr##.info-top
 metoffice.gov.uk###EUCookie
+microsoft.com##.euCookie.mscom-alertitem
 miniclip.com###eu-cookie
 ministryofsound.com###ctl00_ctl00_Cookies1_UpdatePanel1
 mirror.co.uk###cookieNotification
@@ -246,6 +259,7 @@ monster.co.uk###intMsgCookies
 more4.com###cookieNotification
 more4.com###gn-cookie-accept
 motogp.com##.cookies
+n-mobile.net###infobox3
 nationwide.co.uk###cn
 natwest.com###EUDirectiveCookiePanel
 nectar.com###cc-notification
@@ -258,8 +272,10 @@ norml-uk.org###cccwr
 nouvelobs.com##DIV[style="text-align:left;width:550px;background-color:#feefaa;padding:10px;font:12px Arial;position:absolute;z-index:50;undefined"]
 nrc.nl##.cookiemonster.kleverig
 nvidia.co.uk###cookiePolicyBar
+o2.pl##.cookie-info__transition
 ok.co.uk###cookielaw
 olvg.nl###cc
+onet.pl##.text
 onlive.co.uk##.top_message
 opendatacommons.org###catapult-cookie-bar
 orange.co.uk###cookieBannerD
@@ -380,6 +396,9 @@ three.co.uk###cookie-message
 toshiba.co.uk###cookies_container
 totalmoney.pl###right_widget
 trustpilot.dk##.cookie-bar
+tvn.pl###msgLayer
+tvn24.pl###msgLayer
+tvn24bis.pl###msgLayer
 tweakers.net###cookieBar
 twitch.tv##.noty_bar
 twitter.com##.eu-cookie-notice
