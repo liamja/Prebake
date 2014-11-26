@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 25 October 2014 18:43 UTC
+! Last modified: 26 November 2014 08:45 UTC
 ! Expires: 7 days (update frequency)
 ! Homepage: http://liamja.github.io/Prebake/
 ! License: https://raw.github.com/liamja/Prebake/master/README.md
@@ -26,6 +26,7 @@
 4music.com###gn-cookie-accept
 abbeyroad.com###cookie-overlay-footer
 about.com###cookie_banner_container
+adlibris.com###cookie-information-banner
 aeroportsdeparis.fr###cookies-banner
 agynamix.de###cookie
 aide-joomla.com###ca_banner
@@ -57,21 +58,31 @@ belgianrail.be###cookieWarning
 ben.nl##.cookieAccept
 betfair.com##.footer-cookies-policy
 bibliotek.dk##.popup-content
+blogger.com###blogger_cookie_notice
 bol.com###top_header_cookie_message
+bolha.com###cookiesWarning
 bona.com##.cookie
 boulevardvitoriahotel.com###cookieMessageWrapper
 breakbeat.co.uk###CookieInformation
 britishcouncil.fr###cookie-banner
 britishmuseum.org###cookiePromptWrapper
 bt.com###cookieNotification
+cadbury.co.uk###\5f CookieText
 caproig.com###ca_banner
 car2go.com###c2g_cookie_dialog
+cdon.dk###cookie-information
+cdon.eu###cookie-information
+cdon.fi###cookie-information
+cdon.no###cookie-information
+cdon.se###cookie-information
 channel4.com###gn-cookie-accept
 channel5.com###cookie-notification
+chomikuj.pl##.cookiesInfo
 chortle.co.uk###cookie-notice
 claireperry.org.uk###blanket
 claireperry.org.uk###message
 clarkewillmott.com###cookiestext
+clickandbuy.com##.cookie-notifier-text
 clubic.com###cookieu_header
 cnet.co.uk###cookiePolicy
 co-operativebank.co.uk###noticePanel
@@ -82,6 +93,7 @@ commentcamarche.net##.ccmcss_oic
 computerworld.dk##.cookieAccept
 concertolive.co.uk##.divCookieWarning
 cookieconsent.com##.cookieconsent-popup
+coreight.com###sliding-popup
 cpc.farnell.com###mktg_Cookie_Wrap
 croustifrance.com###cookiewarning
 dailystar.co.uk###cookielaw
@@ -92,6 +104,7 @@ degulesider.dk##.cookies-info
 diabetes.org.uk###policyPopup
 digitalspy.co.uk###cookie-policy
 dmi.dk##.content
+dobreprogramy.pl###cookiesPanel
 dr.dk##.dr-cookie-info-box
 dr.dk##.dr-infobox
 drive24.co.uk###cookieHeader
@@ -102,6 +115,14 @@ dutchnews.nl##.cookiepolicy
 e4.com###cookieNotification
 e4.com###gn-cookie-accept
 eadt.co.uk###cookielaw2
+ebay.at##.gh-cookieb-active
+ebay.be##.gh-cookieb-active
+ebay.ch##.gh-cookieb-active
+ebay.de##.gh-cookieb-active
+ebay.fr##.gh-cookieb-active
+ebay.ie##.gh-cookieb-active
+ebay.nl##.gh-cookieb-active
+ebay.pl##.gh-cookieb-active
 ebuyer.com###cookieContainer
 economist.com###ec-message-3
 edbpriser.dk##.content
@@ -113,6 +134,7 @@ elgiganten.dk###cookieinfobox
 elgiganten.dk##.transbox
 elpais.com###capaAvisoPoliticaCookies_superior_mensajes
 empireonline.com###bauerCookiePolicy
+eniro.se##.cookies-info-static
 ennaranja.com##.cookies-overlay
 epson.fr##.epson_cookienotice
 esbe.eu##.header-cookie-content
@@ -126,6 +148,7 @@ express.co.uk###cookielaw
 fantasyfootballscout.co.uk###cookie-bar
 fasthosts.co.uk###cookie
 fatbeehive.com##div[style^="background-color: #000;"]
+fedex.com###privacy-notice
 fhm.com###bauerCookiePolicy
 film4.com###gn-cookie-accept
 filmstriben.dk###cookie-notice
@@ -147,8 +170,20 @@ geforce.co.uk###cookiePolicyBar
 gigaom.com##.privacy-policy
 gizmodo.co.uk##.future-cookie-bar
 glotosleep.fr###cookieWarning
+google.at##.gb_tb.gb_wb.gb_Ia
+google.be##.gb_tb.gb_wb.gb_Ia
+google.cz##.gb_tb.gb_wb.gb_Ia
+google.de##.gb_tb.gb_wb.gb_Ia
 google.dk###epbar
 google.dk##.fbar
+google.dk##.gb_tb.gb_wb.gb_Ia
+google.es##.gb_tb.gb_wb.gb_Ia
+google.fi##.gb_tb.gb_wb.gb_Ia
+google.fr##.gb_tb.gb_wb.gb_Ia
+google.it##.gb_tb.gb_wb.gb_Ia
+google.nl##.gb_tb.gb_wb.gb_Ia
+google.pl##.gb_tb.gb_wb.gb_Ia
+google.se##.gb_tb.gb_wb.gb_Ia
 gosc.pl##div[style^="border: 10px solid rgb(138, 138, 138);"]
 gov.uk###global-cookie-message
 gov.uk##.js-cookies-banner
@@ -175,6 +210,7 @@ huffingtonpost.fr###usrConsent
 ico.org.uk###banner
 ideone.com###cookie-ue
 idpc.net###cookie-warning
+igen.fr###sliding-popup
 ign.com###policyNotice
 imedeen.fr###cookiepolicyContainer
 indiegogo.com###fancybox-overlay
@@ -183,18 +219,23 @@ informahealthcare.com##.overlay
 informahealthcare.com##.popupContainer
 ing.dk##.cookie-accept-overlay
 ingdirect.es###ico_banner
+interia.pl###inpl_cp_cnt
 iopscience.iop.org##.cookies-banner-wrap
 istockphoto.com###euCookieBar
 itv.com###itv-cookie-notification
 iwf.org.uk###cookie-bar
+jman.tv###ActionBar
 johnlewis.com###opnotification
 journaldunet.com##.ccmcss_oic
 juce.com###sliding-popup
 just-eat.co.uk###cookieBanner
+keil.com##.modouter
 kingston.ac.uk###site-wide-cookie-message
 knaufdanoline.fr###pronamic_cookie_holder
+kozaczek.pl###cookie-policy
 kristeligt-dagblad.dk###cookieInformerBooklet
 ku.dk###cookie_box
+kwejk.pl###cookies-politics
 lab-project.net##.activebar-container
 last.fm###cookie-law-bar
 lastfm.de###cookie-law-bar
@@ -217,28 +258,35 @@ mdx.ac.uk###cookie
 medclic.fr###cookiebanner
 mercialys.fr##.info-top
 metoffice.gov.uk###EUCookie
+microsoft.com##.euCookie.mscom-alertitem
 miniclip.com###eu-cookie
 ministryofsound.com###ctl00_ctl00_Cookies1_UpdatePanel1
 mirror.co.uk###cookieNotification
 moneysavingexpert.com###alertBar
+monitor.si##.cookie-note-content
 monster.co.uk###intMsgCookies
 more4.com###cookieNotification
 more4.com###gn-cookie-accept
 motogp.com##.cookies
+n-mobile.net###infobox3
 nationwide.co.uk###cn
 natwest.com###EUDirectiveCookiePanel
 nectar.com###cc-notification
 nerc.ac.uk###cookieConsent
 netapp.com###cboxOverlay
 netapp.com###colorbox
+netonnet.se##.acceptCookies
 newscientist.com###rbiCookiePolicy_pushDownBoxWrapper
 newstatesman.com###cookiesdirective
 norml-uk.org###cccwr
 nouvelobs.com##DIV[style="text-align:left;width:550px;background-color:#feefaa;padding:10px;font:12px Arial;position:absolute;z-index:50;undefined"]
 nrc.nl##.cookiemonster.kleverig
+nu.nl##.container
 nvidia.co.uk###cookiePolicyBar
+o2.pl##.cookie-info__transition
 ok.co.uk###cookielaw
 olvg.nl###cc
+onet.pl##.text
 onlive.co.uk##.top_message
 opendatacommons.org###catapult-cookie-bar
 orange.co.uk###cookieBannerD
@@ -249,6 +297,7 @@ parkinn.com##.cookieControl
 parkinn.de##.cookieControl
 pathe.nl###cookieContainer
 pathe.nl###cookieOverlay
+paypal.com##.row-fluid.cookie-notification
 pccomponentes.com##.capa_cookie.hide
 pcpro.co.uk###dennis-cookie-notice
 pekao.com.pl###box-close
@@ -260,6 +309,20 @@ perforce.com##ul.optanon-menu.optanon-menu-allow
 picturehouses.co.uk###cookie_message
 pirateparty.org.uk###confirmCookiePolicy
 piret.be##.divCookiePopUpContainer
+pixmania.be##.cookie-block
+pixmania.co.uk##.cookie-block
+pixmania.de##.cookie-block
+pixmania.dk##.cookie-block
+pixmania.es##.cookie-block
+pixmania.fi##.cookie-block
+pixmania.fr##.cookie-block
+pixmania.ie##.cookie-block
+pixmania.it##.cookie-block
+pixmania.nl##.cookie-block
+pixmania.no##.cookie-block
+pixmania.pl##.cookie-block
+pixmania.pt##.cookie-block
+pixmania.se##.cookie-block
 play.google.com##.app-translation-bar
 politics.co.uk###cookieConsentBar
 politiken.dk##.cookie-warning
@@ -287,12 +350,14 @@ richersounds.com###headerCookieLaw
 rightmove.co.uk###cookiemodalbar
 road.cc###sliding-popup
 rockpapershotgun.com###ecd_opt_in_banner
+rocmondriaan.nl##.cookie-popup
 royalmail.com###block-cookie_policy-0
 royalnavy.mod.uk###cookies-notice
 rs-online.com##.cookieMessageDiv
 rsagroup.com###cookies
 rspb.org.uk###cookie-message
 rtve.es###rtveCookiePolicy
+rtvslo.si###size-window-cookie
 rubbermaid.eu##.cookie-popup
 samsung.com##.cookie_notice
 santander.co.uk###cookiebannerAH
@@ -306,13 +371,19 @@ sn.dk###cookieInfo
 soundcloud.com##.announcement
 soundonsound.com###cccwr
 sport.es###msg-cookie
+spotify.com###js-message-bar-cookie-notice
 spotify.com###js-message-notice[data-name="cookieNotice"]
 spotify.com##.uk-cookies
 star-magazine.co.uk###cookielaw
 stargreen.com##div[style^="color: rgb(238, 238, 238); background-color: rgb(102, 102, 51);"]
+stofa.dk##.cookie_footer
+stofa.dk###cookie_collapse
 stormcreative.co.uk###storm-cookie
 submit.ac.uk###cookieAcceptPos
 suzuki.co.uk###privacypopup
+svt.se###svtCookieInformationContainer
+svtflow.se###svtCookieInformationContainer
+svtplay.se###svtCookieInformationContainer
 symington.com###cookielaw
 t-mobile.co.uk##.cookies-message-container
 t-mobile.nl###exposeMask
@@ -338,9 +409,13 @@ three.co.uk###cookie-message
 toshiba.co.uk###cookies_container
 totalmoney.pl###right_widget
 trustpilot.dk##.cookie-bar
+tvn.pl###msgLayer
+tvn24.pl###msgLayer
+tvn24bis.pl###msgLayer
 tweakers.net###cookieBar
 twitch.tv##.noty_bar
 twitter.com##.eu-cookie-notice
+tyda.se###accept-cookies-div
 ubuntu.com##.cookie-policy
 ubuntu.pl###cookie-warning
 uk.farnell.com###mktg_Cookie_Wrap
