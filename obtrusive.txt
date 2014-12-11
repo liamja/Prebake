@@ -347,6 +347,8 @@ rejseplanen.dk###cookieInfoBox
 restaurant-eau-vive.fr###ca_banner
 ret-raad.dk###cookiebanner
 rex.kb.dk##.content
+rexfeatures.com###site-we-use-cookies
+rexusa.com###site-we-use-cookies
 richersounds.com###headerCookieLaw
 rightmove.co.uk###cookiemodalbar
 road.cc###sliding-popup
@@ -572,8 +574,6 @@ prospectmagazine.co.uk###catapult-cookie-bar
 przegladsportowy.pl###cookies
 rbicookiepolicy-14.js$script
 rbicookiepolicy.js$script
-rexfeatures.com###site-we-use-cookies
-rexusa.com###site-we-use-cookies
 santanderbillpayment.co.uk###euPrivacy_control_euPrivacy_cookiesMsg
 sciaga.pl##.cookiespolicy
 seetickets.com##.cookieslaw
