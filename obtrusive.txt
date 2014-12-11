@@ -572,6 +572,8 @@ prospectmagazine.co.uk###catapult-cookie-bar
 przegladsportowy.pl###cookies
 rbicookiepolicy-14.js$script
 rbicookiepolicy.js$script
+rexfeatures.com###site-we-use-cookies
+rexusa.com###site-we-use-cookies
 santanderbillpayment.co.uk###euPrivacy_control_euPrivacy_cookiesMsg
 sciaga.pl##.cookiespolicy
 seetickets.com##.cookieslaw
