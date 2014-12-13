@@ -1,5 +1,5 @@
 #!/usr/bin/ruby
-require "FileUtils"
+require "fileutils"
 
 pretext = "! Last modified: "
 timestamp = Time.new.gmtime.strftime("%d %B %Y %R %Z")
