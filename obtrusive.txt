@@ -115,14 +115,6 @@ dutchnews.nl##.cookiepolicy
 e4.com###cookieNotification
 e4.com###gn-cookie-accept
 eadt.co.uk###cookielaw2
-ebay.at##.gh-cookieb-active
-ebay.be##.gh-cookieb-active
-ebay.ch##.gh-cookieb-active
-ebay.de##.gh-cookieb-active
-ebay.fr##.gh-cookieb-active
-ebay.ie##.gh-cookieb-active
-ebay.nl##.gh-cookieb-active
-ebay.pl##.gh-cookieb-active
 ebuyer.com###cookieContainer
 economist.com###ec-message-3
 edbpriser.dk##.content
@@ -170,20 +162,8 @@ geforce.co.uk###cookiePolicyBar
 gigaom.com##.privacy-policy
 gizmodo.co.uk##.future-cookie-bar
 glotosleep.fr###cookieWarning
-google.at##.gb_tb.gb_wb.gb_Ia
-google.be##.gb_tb.gb_wb.gb_Ia
-google.cz##.gb_tb.gb_wb.gb_Ia
-google.de##.gb_tb.gb_wb.gb_Ia
 google.dk###epbar
 google.dk##.fbar
-google.dk##.gb_tb.gb_wb.gb_Ia
-google.es##.gb_tb.gb_wb.gb_Ia
-google.fi##.gb_tb.gb_wb.gb_Ia
-google.fr##.gb_tb.gb_wb.gb_Ia
-google.it##.gb_tb.gb_wb.gb_Ia
-google.nl##.gb_tb.gb_wb.gb_Ia
-google.pl##.gb_tb.gb_wb.gb_Ia
-google.se##.gb_tb.gb_wb.gb_Ia
 gosc.pl##div[style^="border: 10px solid rgb(138, 138, 138);"]
 gov.uk###global-cookie-message
 gov.uk##.js-cookies-banner
@@ -200,6 +180,7 @@ hardware.info###cookiebar
 heart.co.uk###cookie_bar
 heltnormalt.dk##.banner
 heltnormalt.dk##.banner-container
+here.com##.notification_box.ng-isolate-scope.cookie
 herts.ac.uk###cookieBar
 hifipriser.dk##.content
 hotelgranvia.com###lc_cookies-main
@@ -284,6 +265,7 @@ nouvelobs.com##DIV[style="text-align:left;width:550px;background-color:#feefaa;p
 nrc.nl##.cookiemonster.kleverig
 nu.nl##.container
 nvidia.co.uk###cookiePolicyBar
+nyheter24.se###acceptCookiesDiv
 o2.pl##.cookie-info__transition
 ok.co.uk###cookielaw
 olvg.nl###cc
@@ -310,20 +292,6 @@ perforce.com##ul.optanon-menu.optanon-menu-allow
 picturehouses.co.uk###cookie_message
 pirateparty.org.uk###confirmCookiePolicy
 piret.be##.divCookiePopUpContainer
-pixmania.be##.cookie-block
-pixmania.co.uk##.cookie-block
-pixmania.de##.cookie-block
-pixmania.dk##.cookie-block
-pixmania.es##.cookie-block
-pixmania.fi##.cookie-block
-pixmania.fr##.cookie-block
-pixmania.ie##.cookie-block
-pixmania.it##.cookie-block
-pixmania.nl##.cookie-block
-pixmania.no##.cookie-block
-pixmania.pl##.cookie-block
-pixmania.pt##.cookie-block
-pixmania.se##.cookie-block
 play.google.com##.app-translation-bar
 politics.co.uk###cookieConsentBar
 politiken.dk##.cookie-warning
@@ -477,6 +445,8 @@ zdnet.com###cookiePolicy
 /cookieCompliance.js$script
 !-- Google (Requires "Allow some non-intrusive advertising" to be unchecked.)
 ##.fbar + .fbar > #epbar
+##.gb_tb.gb_wb.gb_Ia
+##.gb_wb.gb_ib.gb_Ka
 ##.med + #epbar
 !-- Johnston Press
 ###euCookiesQuestion
@@ -503,7 +473,9 @@ tmgonlinemedia.nl/consent/script/consent.js$script
 ###cookie_privacy_info_bar
 ###cookiestatement
 ###politicaCookies
+##.cookie-block
 ##.cookie_privacy_info_bar
+##.gh-cookieb-active
 ##.gn-cookie-alert
 !
 !--- block-the-eu-cookie-shit-list
