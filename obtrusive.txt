@@ -67,9 +67,12 @@ breakbeat.co.uk###CookieInformation
 britishcouncil.fr###cookie-banner
 britishmuseum.org###cookiePromptWrapper
 bt.com###cookieNotification
+ca-nord-est.fr##.recocliv2
 cadbury.co.uk###\5f CookieText
 caproig.com###ca_banner
 car2go.com###c2g_cookie_dialog
+carrefour.fr###cookie-block
+carrefour.fr##.cookie-bottom
 cdon.dk###cookie-information
 cdon.eu###cookie-information
 cdon.fi###cookie-information
