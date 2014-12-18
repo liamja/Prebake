@@ -78,6 +78,7 @@ cdon.eu###cookie-information
 cdon.fi###cookie-information
 cdon.no###cookie-information
 cdon.se###cookie-information
+change.org##.flash-message.flash-message-announcement
 channel4.com###gn-cookie-accept
 channel5.com###cookie-notification
 chomikuj.pl##.cookiesInfo
