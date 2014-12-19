@@ -100,6 +100,7 @@ cookieconsent.com##.cookieconsent-popup
 coreight.com###sliding-popup
 cpc.farnell.com###mktg_Cookie_Wrap
 croustifrance.com###cookiewarning
+dailymotion.com##.sd_cookiespolicy.alert-info.pdg-lg.font-sm
 dailystar.co.uk###cookielaw
 data.gov.uk###sliding-popup
 davidlloyd.co.uk###home-cookie2
