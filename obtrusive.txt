@@ -223,6 +223,7 @@ kristeligt-dagblad.dk###cookieInformerBooklet
 ku.dk###cookie_box
 kwejk.pl###cookies-politics
 lab-project.net##.activebar-container
+www.larousse.fr##.panel-cookies
 last.fm###cookie-law-bar
 lastfm.de###cookie-law-bar
 lastminute.com##.cookieBox
