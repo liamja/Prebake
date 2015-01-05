@@ -228,6 +228,7 @@ last.fm###cookie-law-bar
 lastfm.de###cookie-law-bar
 lastminute.com##.cookieBox
 lavie.fr###usrcookies
+leboncoin.fr###cookieFrame
 lefigaro.fr##.cookieBarContainer
 lemonde.fr###alerte_tracking
 lepoint.fr###footer-cookies
