@@ -419,6 +419,7 @@ wimp.dk##.cookie-warn
 witlr.com###cookiewarning
 wizzair.com###cookiePolicyNotification
 wizzo.es##.avisoCookie
+wm.pl##DIV[id="cookieinfo"]
 wolframalpha.com###EUCookie
 yachtpaint.com##.cookiesPro
 yamaha-motor.eu###cookieMessage
