@@ -152,10 +152,12 @@ filmstriben.dk###cookie-notice
 fitnessworld.dk###cookieContainer
 focusrite.com###sliding-popup
 formula1.com###cookiebnr
+fragbite.se##.cookieBar
 freeview.co.uk###cookie-panel
 ft.dk##.cookieconsent-popup
 furniturevillage.co.uk###SiteMasterPage_updCookieDisclaimer
 futuremark.com###cookiesdirective
+fz.se##.adblockerinner
 g-star.com###cookie-notice
 gambleaware.co.uk###ccWrappery
 gamblingcommission.gov.uk##.cookiedOuter
