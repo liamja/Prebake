@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 17 January 2015 03:56 UTC
+! Last modified: 19 January 2015 11:38 UTC
 ! Expires: 7 days (update frequency)
 ! Homepage: http://liamja.github.io/Prebake/
 ! License: https://raw.github.com/liamja/Prebake/master/README.md
@@ -20,6 +20,7 @@
 ||mnhn.fr/fr/cookie-eu/
 ||myinterrail.co.uk/shared_files/clientscripts/cms/cookie_alert1.js$script
 ||wkd.com.pl/cookies/cookies.js$script
+01net.com###conteneurCookies
 20minutes.fr###CNIL-notice
 3vprepaid.com###cookie-container
 4music.com###cookieNotification
@@ -30,14 +31,15 @@ adlibris.com###cookie-information-banner
 aeroportsdeparis.fr###cookies-banner
 agynamix.de###cookie
 aide-joomla.com###ca_banner
+allocine.fr##.alert.alert-info.alert-wrap.jui.info-cookie
 allrecipes.co.uk###cookiePopupContainer
 allthingsd.com###cookie_notice
 amisdukmzero.com###ca_banner
 anglianwater.co.uk###ctl00_pnlCookie
 archant.co.uk###cookielaw
 area-codes.org.uk###wsjconsent
-arla.dk##.cookie-popup__content
-arla.dk##.cookie-popup__heading
+arla.dk###Container
+arla.no###Container
 asda.com###FT_Cookies
 askmen.com###policyNotice
 asos.com###cookieLaw
@@ -124,6 +126,7 @@ edbpriser.dk##.content
 edp24.co.uk###cookielaw
 edp24.co.uk###cookielaw2
 elasticsearch.org###cookie
+electrodepot.fr###cookie_banner
 electrolux.fr##.cookie-message
 elgiganten.dk###cookieinfobox
 elgiganten.dk##.transbox
@@ -170,6 +173,7 @@ google.dk##.fbar
 gosc.pl##div[style^="border: 10px solid rgb(138, 138, 138);"]
 gov.uk###global-cookie-message
 gov.uk##.js-cookies-banner
+gp.se###gpsecCookieInformationContainer
 gqmagazine.fr###cookies-message-main
 greatbritishlife.co.uk###cookielaw
 greenpeace.nl##.cookiebar
@@ -226,10 +230,13 @@ ku.dk###cookie_box
 kwejk.pl###cookies-politics
 lab-project.net##.activebar-container
 large.nl###cookie_law
+larousse.fr##.panel-cookies
 last.fm###cookie-law-bar
 lastfm.de###cookie-law-bar
 lastminute.com##.cookieBox
 lavie.fr###usrcookies
+ldlc-pro.com###container
+ldlc.com###tc_privacy
 leboncoin.fr###cookieFrame
 lefigaro.fr##.cookieBarContainer
 lemonde.fr###alerte_tracking
@@ -245,6 +252,7 @@ linkedin.com###notice-cookie-policy
 lonelyplanet.com##.row--cookie-compliance
 lufbra.net##.cwcookielaw
 masterofmalt.com###cookiePopup
+materiel.net###cookie
 mclaren.com###block-cookie-info
 mclarenstore.com##.widget-notifyBar
 mdd.eu##.panel_cookie
@@ -290,6 +298,7 @@ opendatacommons.org###catapult-cookie-bar
 orange.co.uk###cookieBannerD
 originalpenguin.co.uk###epd
 out-law.com###cookie
+over-blog.fr##P[style="display: table-cell; vertical-align: middle; padding: 0px 30px;"]
 parkinn.co.uk##.cookieControl
 parkinn.com##.cookieControl
 parkinn.de##.cookieControl
@@ -308,7 +317,7 @@ picturehouses.co.uk###cookie_message
 pirateparty.org.uk###confirmCookiePolicy
 piret.be##.divCookiePopUpContainer
 play.google.com##.app-translation-bar
-polisen.se##.message-area.normallevel.cookie
+polisen.se##.cookie
 politics.co.uk###cookieConsentBar
 politiken.dk##.cookie-warning
 polytuil.fr###cookiesContainer
@@ -496,6 +505,7 @@ tmgonlinemedia.nl/consent/script/consent.js$script
 ###cookiestatement
 ###gn-cookie-accept
 ###politicaCookies
+###warning_cookie
 ##.cookie-accept-overlay
 ##.cookie-block
 ##.cookieAccept
