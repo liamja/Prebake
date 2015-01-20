@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 20 January 2015 15:46 UTC
+! Last modified: 20 January 2015 21:57 UTC
 ! Expires: 7 days (update frequency)
 ! Homepage: http://liamja.github.io/Prebake/
 ! License: https://raw.github.com/liamja/Prebake/master/README.md
@@ -67,6 +67,7 @@ bol.com###top_header_cookie_message
 bolha.com###cookiesWarning
 bona.com##.cookie
 boulevardvitoriahotel.com###cookieMessageWrapper
+boursorama.com###cookieBanner
 bouyguestelecom.fr###no-cookie
 breakbeat.co.uk###CookieInformation
 britishcouncil.fr###cookie-banner
@@ -160,6 +161,7 @@ fitnessworld.dk###cookieContainer
 focusrite.com###sliding-popup
 formula1.com###cookiebnr
 fragbite.se##.cookieBar
+france5.fr###cookie-cnil-box
 freeview.co.uk###cookie-panel
 ft.dk##.cookieconsent-popup
 furniturevillage.co.uk###SiteMasterPage_updCookieDisclaimer
@@ -224,6 +226,7 @@ istockphoto.com###euCookieBar
 itele.fr###cnil_alert_inner
 itv.com###itv-cookie-notification
 iwf.org.uk###cookie-bar
+jeuxvideo.com###cookies_notifier
 jman.tv###ActionBar
 johnlewis.com###opnotification
 journaldunet.com##.ccmcss_oic
@@ -258,6 +261,7 @@ leroymerlin.fr##.nav-infos-wrapper
 lesechos.fr###cookiemenu
 lesinrocks.com##.cnil-block
 lesnumeriques.com###notif_197
+letelegramme.fr###barre_top_secondaire
 letudiant.fr###cookies_policy
 letudiant.fr###notice-cookie-block
 liberation.fr##.cookie-notify
