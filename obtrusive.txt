@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 19 January 2015 13:26 UTC
+! Last modified: 20 January 2015 08:40 UTC
 ! Expires: 7 days (update frequency)
 ! Homepage: http://liamja.github.io/Prebake/
 ! License: https://raw.github.com/liamja/Prebake/master/README.md
@@ -24,6 +24,7 @@
 20minutes.fr###CNIL-notice
 3vprepaid.com###cookie-container
 4music.com###cookieNotification
+4music.com###gn-cookie-accept
 abbeyroad.com###cookie-overlay-footer
 about.com###cookie_banner_container
 actu-environnement.com###informations-cookies
@@ -57,6 +58,7 @@ bbcgoodfood.com##.cookie-law
 beatsbydre.com###brand_drawer
 beatsbydre.com##.brand_drawer
 belgianrail.be###cookieWarning
+ben.nl##.cookieAccept
 betfair.com##.footer-cookies-policy
 bfmtv.com###conteneurCookies
 bibliotek.dk##.popup-content
@@ -82,8 +84,10 @@ cdon.fi###cookie-information
 cdon.no###cookie-information
 cdon.se###cookie-information
 change.org##.flash-message.flash-message-announcement
+channel4.com###gn-cookie-accept
 channel5.com###cookie-notification
 chomikuj.pl##.cookiesInfo
+chortle.co.uk###cookie-notice
 claireperry.org.uk###blanket
 claireperry.org.uk###message
 clarkewillmott.com###cookiestext
@@ -95,6 +99,7 @@ cofunds.co.uk##.idrPageRow[style^="min-height:0;height:auto;padding:0;position:r
 coinc.es###divCookie
 comixology.fr###cookieAcknowledgement
 commentcamarche.net##.ccmcss_oic
+computerworld.dk##.cookieAccept
 concertolive.co.uk##.divCookieWarning
 cookieconsent.com##.cookieconsent-popup
 coreight.com###sliding-popup
@@ -119,6 +124,7 @@ duluxvalentine.com###cookie-law
 dustinhome.dk##.cookieBar
 dutchnews.nl##.cookiepolicy
 e4.com###cookieNotification
+e4.com###gn-cookie-accept
 eadt.co.uk###cookielaw2
 ebuyer.com###cookieContainer
 economist.com###ec-message-3
@@ -148,6 +154,8 @@ fasthosts.co.uk###cookie
 fatbeehive.com##div[style^="background-color: #000;"]
 fedex.com###privacy-notice
 fhm.com###bauerCookiePolicy
+film4.com###gn-cookie-accept
+filmstriben.dk###cookie-notice
 fitnessworld.dk###cookieContainer
 focusrite.com###sliding-popup
 formula1.com###cookiebnr
@@ -158,6 +166,7 @@ furniturevillage.co.uk###SiteMasterPage_updCookieDisclaimer
 futura-sciences.com###fs-cookiewarning
 futuremark.com###cookiesdirective
 fz.se##.adblockerinner
+g-star.com###cookie-notice
 gambleaware.co.uk###ccWrappery
 gamblingcommission.gov.uk##.cookiedOuter
 gamekult.com###cookiePolicy
@@ -207,6 +216,7 @@ indiegogo.com###fancybox-overlay
 indiegogo.com###fancybox-wrap
 informahealthcare.com##.overlay
 informahealthcare.com##.popupContainer
+ing.dk##.cookie-accept-overlay
 ingdirect.es###ico_banner
 interia.pl###inpl_cp_cnt
 iopscience.iop.org##.cookies-banner-wrap
@@ -275,6 +285,7 @@ moneysavingexpert.com###alertBar
 monitor.si##.cookie-note-content
 monster.co.uk###intMsgCookies
 more4.com###cookieNotification
+more4.com###gn-cookie-accept
 motogp.com##.cookies
 myspace.com##.eucookie
 n-mobile.net###infobox3
@@ -366,6 +377,7 @@ seloger.com##.container_cookies
 seoconsult.com###cookieBar
 sgs.com##.sgsCookies
 shell.fr###cookie_info
+silicon.fr###cookie_policy
 simyo.es##.cookieAsker
 sky.com###skycom-cookie-wrapper
 skynet.be###cookieAlert
@@ -430,6 +442,7 @@ uktv.co.uk###cookies-panel
 unblog.fr###unblcn
 ungdomskort.dk###eksCookiePrompt
 unity3d.com##.cookie-dialog
+version2.dk##.cookie-accept-overlay
 veuve-clicquot.com##.agegate-cookie
 vice.com###cookies_msg
 videojug.com##.cp-alert-message
@@ -502,18 +515,14 @@ tmgonlinemedia.nl/consent/script/consent.js$script
 ###cartelcookielegal
 ###cookie-law-compliance
 ###cookie-law-consent-section
-###cookie-notice
 ###cookie-policy-banner
 ###cookie_policy
 ###cookie_privacy_info_bar
 ###cookieChoiceInfo
 ###cookiestatement
-###gn-cookie-accept
 ###politicaCookies
 ###warning_cookie
-##.cookie-accept-overlay
 ##.cookie-block
-##.cookieAccept
 ##.cookieControl
 ##.cookie_privacy_info_bar
 ##.gh-cookieb-active
@@ -601,6 +610,7 @@ tnttorrent.info###cookie_policies
 uk.virginmoney.com###e-privacy-message
 uk.virginmoneygiving.com###e-privacy-message
 vouchercodes.co.uk###cookie-popup
+walkit.com###cookie-notice
 which.co.uk###eprivacy-outer
 wizaz.pl###cookiesdirective
 wrzucacz.pl##P[class="info"]
