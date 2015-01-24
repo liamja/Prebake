@@ -57,6 +57,7 @@ bbcgoodfood.com###cookie-policy-container
 bbcgoodfood.com##.cookie-law
 beatsbydre.com###brand_drawer
 beatsbydre.com##.brand_drawer
+bedetheque.com##.cookie_message
 belgianrail.be###cookieWarning
 ben.nl##.cookieAccept
 betfair.com##.footer-cookies-policy
@@ -351,6 +352,7 @@ postnl.nl###coverlay
 postnl.nl###cwrapper
 ppluk.com###wsjpecrga
 premierleague.com###cookies-verify
+priceminister.com###legalNotificationEltId
 priorygroup.com###promptbar
 qxl.dk###cookies
 qype.co.uk##.js-cookie-info
@@ -500,10 +502,11 @@ zdnet.com###cookiePolicy
 !--
 /cookieCompliance.js$script
 !-- Google (Requires "Allow some non-intrusive advertising" to be unchecked.)
-##.fbar + .fbar > #epbar
+##.fbar + .fbar > ###epbar
 ##.gb_tb.gb_wb.gb_Ia
 ##.gb_wb.gb_ib.gb_Ka
-##.med + #epbar
+##.gb_xb.gb_jb.gb_La
+##.med + ###epbar
 !-- Johnston Press
 ###euCookiesQuestion
 !-- De Telegraaf
