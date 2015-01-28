@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 25 January 2015 17:46 UTC
+! Last modified: 28 January 2015 17:46 UTC
 ! Expires: 7 days (update frequency)
 ! Homepage: http://liamja.github.io/Prebake/
 ! License: https://raw.github.com/liamja/Prebake/master/README.md
@@ -35,6 +35,7 @@ aide-joomla.com###ca_banner
 allocine.fr##.alert.alert-info.alert-wrap.jui.info-cookie
 allrecipes.co.uk###cookiePopupContainer
 allthingsd.com###cookie_notice
+altfordamerne.dk##.content
 amisdukmzero.com###ca_banner
 anglianwater.co.uk###ctl00_pnlCookie
 archant.co.uk###cookielaw
@@ -49,6 +50,7 @@ astrazeneca.com###cookie-disclaimer
 atman.pl###gbpl_oba
 atman.pl##.polityka-cookie
 audion.com###cc-cookies
+automotorsport.se##.alert
 baesystems.com###cookie-bar
 banknordik.dk###cookieWarningDiv
 barbican.org.uk###cookies
@@ -80,6 +82,9 @@ caproig.com###ca_banner
 car2go.com###c2g_cookie_dialog
 carrefour.fr###cookie-block
 carrefour.fr##.cookie-bottom
+cartoonnetwork.co.uk###sliding-popup
+cartoonnetwork.es###sliding-popup
+cartoonnetwork.fr###sliding-popup
 cdon.dk###cookie-information
 cdon.eu###cookie-information
 cdon.fi###cookie-information
@@ -110,6 +115,7 @@ croustifrance.com###cookiewarning
 dailymotion.com##.sd_cookiespolicy.alert-info.pdg-lg.font-sm
 dailystar.co.uk###cookielaw
 data.gov.uk###sliding-popup
+datormagazin.se###AdBlockerInfo
 davidlloyd.co.uk###home-cookie2
 dawsonera.com##.cc-cookies-container
 degulesider.dk##.cookies-info
@@ -154,6 +160,7 @@ eudict.com##.cookieNotice
 eurodns.com###cookies-bar
 eurogamer.net###cookie-bar
 euroman.dk##.content
+eurowoman.dk##.content
 eveningnews24.co.uk###cookielaw
 examiner.co.uk###cookieNotification
 express.co.uk###cookielaw
