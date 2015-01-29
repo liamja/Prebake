@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 28 January 2015 17:46 UTC
+! Last modified: 29 January 2015 12:27 UTC
 ! Expires: 7 days (update frequency)
 ! Homepage: http://liamja.github.io/Prebake/
 ! License: https://raw.github.com/liamja/Prebake/master/README.md
@@ -32,7 +32,9 @@ adlibris.com###cookie-information-banner
 aeroportsdeparis.fr###cookies-banner
 agynamix.de###cookie
 aide-joomla.com###ca_banner
-allocine.fr##.alert.alert-info.alert-wrap.jui.info-cookie
+akademiskforlagbusiness.dk###cookieWarning
+alinea.dk###cookieWarning
+allocine.fr##.alert
 allrecipes.co.uk###cookiePopupContainer
 allthingsd.com###cookie_notice
 altfordamerne.dk##.content
@@ -54,6 +56,7 @@ automotorsport.se##.alert
 baesystems.com###cookie-bar
 banknordik.dk###cookieWarningDiv
 barbican.org.uk###cookies
+barbie.com###eu_cookies_overlay_content
 barclays.co.uk##P.otm
 bbcgoodfood.com###cookie-policy-container
 bbcgoodfood.com##.cookie-law
@@ -66,9 +69,12 @@ betfair.com##.footer-cookies-policy
 bfmtv.com###conteneurCookies
 bibliotek.dk##.popup-content
 blogger.com###blogger_cookie_notice
+boingtv.fr###sliding-popup
 bol.com###top_header_cookie_message
 bolha.com###cookiesWarning
 bona.com##.cookie
+boomerangtv.co.uk###sliding-popup
+boomerangtv.fr##.cookie_popup
 boulevardvitoriahotel.com###cookieMessageWrapper
 boursorama.com###cookieBanner
 bouyguestelecom.fr###no-cookie
@@ -80,8 +86,10 @@ ca-nord-est.fr##.recocliv2
 cadbury.co.uk###\5f CookieText
 caproig.com###ca_banner
 car2go.com###c2g_cookie_dialog
+carlsen.dk###cookieWarning
 carrefour.fr###cookie-block
 carrefour.fr##.cookie-bottom
+cartoonito.co.uk###sliding-popup
 cartoonnetwork.co.uk###sliding-popup
 cartoonnetwork.es###sliding-popup
 cartoonnetwork.fr###sliding-popup
@@ -112,7 +120,7 @@ cookieconsent.com##.cookieconsent-popup
 coreight.com###sliding-popup
 cpc.farnell.com###mktg_Cookie_Wrap
 croustifrance.com###cookiewarning
-dailymotion.com##.sd_cookiespolicy.alert-info.pdg-lg.font-sm
+dailymotion.com##.sd_cookiespolicy
 dailystar.co.uk###cookielaw
 data.gov.uk###sliding-popup
 datormagazin.se###AdBlockerInfo
@@ -126,6 +134,7 @@ dmi.dk##.content
 dobreprogramy.pl###cookiesPanel
 dr.dk##.dr-cookie-info-box
 dr.dk##.dr-infobox
+drf.dk##.cookie-wrapper
 drive24.co.uk###cookieHeader
 duf.dk##.tx-tc-cookie
 duluxvalentine.com###cookie-law
@@ -141,8 +150,9 @@ edp24.co.uk###cookielaw
 edp24.co.uk###cookielaw2
 egmont.com##.cookie-wrapper.clearfix
 egmontcreative.com###cookieInformerBooklet
-egmontpublishing.dk##.cookie-wrapper.clearfix
-egmontpublishing.no##.cookie-wrapper.clearfix
+egmontpublishing.dk##.cookie-wrapper
+egmontpublishing.no##.cookie-wrapper
+egmontpublishing.se##.cookie-wrapper
 elasticsearch.org###cookie
 electrodepot.fr###cookie_banner
 electrolux.fr##.cookie-message
@@ -247,9 +257,10 @@ journaldunet.com##.ccmcss_oic
 juce.com###sliding-popup
 jules.com###cookies
 just-eat.co.uk###cookieBanner
-kalleanka.se##.alert.alert-info.page-alert
+kalleanka.se##.alert
 keil.com##.modouter
 kingston.ac.uk###site-wide-cookie-message
+kino.dk###cookie-info-bar
 knaufdanoline.fr###pronamic_cookie_holder
 korben.info##.cookie-notice-container
 kozaczek.pl###cookie-policy
@@ -281,6 +292,7 @@ letelegramme.fr###barre_top_secondaire
 letudiant.fr###cookies_policy
 letudiant.fr###notice-cookie-block
 liberation.fr##.cookie-notify
+lindhardtogringhof.dk###cookieWarning
 linkedin.com###notice-cookie-policy
 lonelyplanet.com##.row--cookie-compliance
 lufbra.net##.cwcookielaw
@@ -320,7 +332,13 @@ netapp.com###colorbox
 netonnet.se##.acceptCookies
 newscientist.com###rbiCookiePolicy_pushDownBoxWrapper
 newstatesman.com###cookiesdirective
-nicematin.com##.alert-cookies.none.js_alertCookieCNIL_container
+nfbio.dk###the-cookie
+nfkino.no###cookieMessage
+nicematin.com##.alert-cookies
+nordiskfilm.com##.cookie-wrapper
+nordiskfilm.dk##.cookie-wrapper
+nordiskfilm.no##.cookie-wrapper
+nordiskfilm.se##.cookie-wrapper
 norml-uk.org###cccwr
 nouvelobs.com##DIV[style="text-align:left;width:550px;background-color:#feefaa;padding:10px;font:12px Arial;position:absolute;z-index:50;undefined"]
 nrc.nl##.cookiemonster.kleverig
@@ -518,11 +536,11 @@ zdnet.com###cookiePolicy
 !--
 /cookieCompliance.js$script
 !-- Google (Requires "Allow some non-intrusive advertising" to be unchecked.)
-##.fbar + .fbar > ###epbar
+##.fbar + .fbar > #epbar + ###epbar
 ##.gb_tb.gb_wb.gb_Ia
 ##.gb_wb.gb_ib.gb_Ka
 ##.gb_xb.gb_jb.gb_La
-##.med + ###epbar
+##.med + #epbar + ###epbar
 !-- Johnston Press
 ###euCookiesQuestion
 !-- De Telegraaf
