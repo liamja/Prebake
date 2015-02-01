@@ -204,6 +204,12 @@ geforce.co.uk###cookiePolicyBar
 gigaom.com##.privacy-policy
 gizmodo.co.uk##.future-cookie-bar
 glotosleep.fr###cookieWarning
+google.be###epbar
+google.fr###epbar
+google.es###epbar
+google.ie###epbar
+google.it###epbar
+google.pt###epbar
 google.dk###epbar
 google.dk##.fbar
 gosc.pl##div[style^="border: 10px solid rgb(138, 138, 138);"]
