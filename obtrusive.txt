@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 5 February 2015 11:04 UTC
+! Last modified: 5 February 2015 11:12 UTC
 ! Expires: 7 days (update frequency)
-! Homepage: http://liamja.github.io/Prebake/
+! Homepage: http://liamja.github.io/Prebake
 ! License: https://raw.github.com/liamja/Prebake/master/README.md
 !
 ! Please post any details regarding unblocked notices or problems
@@ -19,6 +19,7 @@
 ||frz.io/cnil/
 ||mnhn.fr/fr/cookie-eu/
 ||myinterrail.co.uk/shared_files/clientscripts/cms/cookie_alert1.js$script
+||omgubuntu.co.uk/wp-content/plugins/omg-magnific/magnific.min.js
 ||wkd.com.pl/cookies/cookies.js$script
 01net.com###conteneurCookies
 20minutes.fr###CNIL-notice
