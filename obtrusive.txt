@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 5 February 2015 16:25 UTC
+! Last modified: 6 February 2015 23:31 UTC
 ! Expires: 7 days (update frequency)
 ! Homepage: http://liamja.github.io/Prebake
 ! License: https://raw.github.com/liamja/Prebake/master/README.md
@@ -106,6 +106,7 @@ channel4.com###gn-cookie-accept
 channel5.com###cookie-notification
 chomikuj.pl##.cookiesInfo
 chortle.co.uk###cookie-notice
+citymarket.fi###cookie-warn
 claireperry.org.uk###blanket
 claireperry.org.uk###message
 clarkewillmott.com###cookiestext
@@ -260,11 +261,13 @@ journaldunet.com##.ccmcss_oic
 juce.com###sliding-popup
 jules.com###cookies
 just-eat.co.uk###cookieBanner
+k-citymarket.fi##.Pbox-sm
 kalleanka.se##.alert
 keil.com##.modouter
 kingston.ac.uk###site-wide-cookie-message
 kino.dk###cookie-info-bar
 knaufdanoline.fr###pronamic_cookie_holder
+kodin1.com###cookie-warn
 korben.info##.cookie-notice-container
 kozaczek.pl###cookie-policy
 kristeligt-dagblad.dk###cookieInformerBooklet
@@ -330,6 +333,7 @@ nationwide.co.uk###cn
 natwest.com###EUDirectiveCookiePanel
 nectar.com###cc-notification
 nerc.ac.uk###cookieConsent
+netanttila.com###cookie-warn
 netapp.com###cboxOverlay
 netapp.com###colorbox
 netonnet.se##.acceptCookies
