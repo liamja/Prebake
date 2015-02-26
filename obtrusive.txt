@@ -587,6 +587,14 @@ tmgonlinemedia.nl/consent/script/consent.js$script
 ###cookiewarning
 ###politicaCookies
 ###warning_cookie
+###cookieControl
+###cookie-alert
+###cookie-consent
+##.cookie-wrapper
+###CookiePolicy
+###cookie-notice
+##.alertCookie
+###cookie-bar
 ##.cookie-banner
 ##.cookie-block
 ##.cookieControl
