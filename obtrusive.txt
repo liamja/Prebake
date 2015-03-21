@@ -203,6 +203,7 @@ g-star.com###cookie-notice
 gambleaware.co.uk###ccWrappery
 gamblingcommission.gov.uk##.cookiedOuter
 gamekult.com###cookiePolicy
+gamemania.be###globalmessage
 gamereactor.dk###cookielawwarning
 gamesindustry.biz###cookie-policy
 gamespot.com###cookiePolicy
