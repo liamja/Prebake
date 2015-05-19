@@ -59,6 +59,7 @@ audion.com###cc-cookie
 auto-ici.fr###close_cnil
 automotorsport.se##.alert
 baesystems.com###cookie-bar
+bancosantander.es###_W034_Cookie_Directive_WAR_W034_Cookie_Directiveportlet_contenedor01
 banknordik.dk###cookieWarningDiv
 barbican.org.uk###cookies
 barbie.com###eu_cookies_overlay_content
