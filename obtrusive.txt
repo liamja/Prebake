@@ -542,6 +542,7 @@ yamaha-motor.eu###cookieMessage
 yatescycles.co.uk###cookiesdirective
 yell.com###cookie-overlay
 yell.com##.cookie-notification
+yonkis.com###cookie-law-info-bar
 zdnet.com###cookiePolicy
 !
 !--- Global Filters / Scripts & Libraries
