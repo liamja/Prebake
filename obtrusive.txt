@@ -65,6 +65,7 @@ barbie.com###eu_cookies_overlay_content
 barclays.co.uk##P.otm
 bbcgoodfood.com###cookie-policy-container
 bbcgoodfood.com##.cookie-law
+bbva.es##.avisoCookies
 beatsbydre.com###brand_drawer
 beatsbydre.com##.brand_drawer
 bedetheque.com##.cookie_message
