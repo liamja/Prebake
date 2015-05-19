@@ -407,6 +407,7 @@ ppluk.com###wsjpecrga
 premierleague.com###cookies-verify
 priceminister.com###legalNotificationEltId
 priorygroup.com###promptbar
+pyckio.com###cookiesplease.cookiesplease
 qxl.dk###cookies
 qype.co.uk##.js-cookie-info
 rabobank.be###cookie-policy
