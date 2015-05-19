@@ -23,11 +23,13 @@
 ||omgubuntu.co.uk/wp-content/plugins/omg-magnific/magnific.min.js$script
 ||wkd.com.pl/cookies/cookies.js$script
 01net.com###conteneurCookies
+1and1.es###cookieinfo-container.show
 20minutes.fr###cnil-notice
 3vprepaid.com###cookie-container
 4music.com###cookieNotification
 4music.com###gn-cookie-accept
 abbeyroad.com###cookie-overlay-footer
+abc.es###layer_cookie.identity-noticebar.col-12.edge
 about.com###cookie_banner_container
 accuweather.com###eu-cookie-notify-wrap
 actu-environnement.com###informations-cookies
@@ -152,6 +154,7 @@ e4.com###cookieNotification
 e4.com###gn-cookie-accept
 eadt.co.uk###cookielaw2
 ebuyer.com###cookieContainer
+economiadigital.es###container_ciiT103.cookies_alert_wrapper
 economist.com###ec-cookie-messages-container
 edbpriser.dk##.content
 edp24.co.uk###cookielaw
@@ -161,12 +164,18 @@ egmontcreative.com###cookieInformerBooklet
 egmontpublishing.dk##.cookie-wrapper
 egmontpublishing.no##.cookie-wrapper
 egmontpublishing.se##.cookie-wrapper
+elandroidelibre.com###footerCookies
 elasticsearch.org###cookie
+elconfidencial.com##.disclaimer-cookies-message
+elcorteingles.es##.cookies-policy
+eldiario.es###headerCookiesAdvice.md-cookies-advice
 electrodepot.fr###cookie_banner
 electrolux.fr##.cookie-message
 elgiganten.dk###cookieinfobox
 elgiganten.dk##.transbox
 elle.fr###c_agrem
+elmundo.es###privacyPolicyLayerN
+elotrolado.net###cookie-warning
 elpais.com###capaAvisoPoliticaCookies_superior_mensajes
 empireonline.com###bauerCookiePolicy
 eniro.se##.cookies-info-static
@@ -179,10 +188,12 @@ eudict.com##.cookieNotice
 eurodns.com###cookies-bar
 eurogamer.net###cookie-bar
 euroman.dk##.content
+europapress.es###cookie1.cookiesms
 eurowoman.dk##.content
 eveningnews24.co.uk###cookielaw
 examiner.co.uk###cookieNotification
 express.co.uk###cookielaw
+extremoduro.com###dvCookie.cookiesms
 fantasyfootballscout.co.uk###cookie-bar
 fasthosts.co.uk###cookie
 fatbeehive.com##div[style^="background-color: #000;"]
@@ -193,6 +204,7 @@ filmstriben.dk###cookie-notice
 fitnessworld.dk###cookieContainer
 focusrite.com###sliding-popup
 formula1.com###cookie-notification-wrapper
+forocoches.com###infocookie
 fragbite.se##.cookieBar
 france5.fr###cookie-cnil-box
 freeview.co.uk###cookie-panel
@@ -245,6 +257,7 @@ huffingtonpost.es###usrConsent
 huffingtonpost.fr###usrConsent
 huffingtonpost.gr###usrConsent
 ico.org.uk###banner
+idealista.com###id-cookies
 ideone.com###cookie-ue
 idpc.net###cookie-warning
 igen.fr###sliding-popup
@@ -253,6 +266,8 @@ imedeen.fr###cookiepolicyContainer
 ina.fr##.cookies-bar
 indiegogo.com###fancybox-overlay
 indiegogo.com###fancybox-wrap
+infojobs.net###ij-policy-disclaimer.container-expanded
+infolibre.es###aviso-cookie
 informahealthcare.com##.overlay
 informahealthcare.com##.popupContainer
 ing.dk##.cookie-accept-overlay
@@ -285,6 +300,8 @@ ku.dk###cookie_box
 kwejk.pl###cookies-politics
 lab-project.net##.activebar-container
 lagazettedescommunes.com###bandeauCookies
+lacaixa.es###div_texto
+lainformacion.com###cookies-layer
 large.nl###cookie_law
 larousse.fr##.panel-cookies
 last.fm###cookie-law-bar
@@ -316,6 +333,7 @@ lonelyplanet.com##.row--cookie-compliance
 lufbra.net##.cwcookielaw
 ma-reduc.com###about-cookies
 magicmaman.com##.cookieNotification
+marca.com###privacyPolicyLayerN
 masterofmalt.com###cookiePopup
 materiel.net###cookie
 mclaren.com###block-cookie-info
@@ -339,8 +357,10 @@ monster.co.uk###intMsgCookies
 more4.com###cookieNotification
 more4.com###gn-cookie-accept
 motogp.com##.cookies
+mundodeportivo.com###cookies-policy-mssg.cookies-policy-mssg
 myspace.com##.eucookie
 n-mobile.net###infobox3
+naranjaynegro.com###cookie-law-container
 nationwide.co.uk###cn
 natwest.com###EUDirectiveCookiePanel
 nectar.com###cc-notification
@@ -407,6 +427,7 @@ ppluk.com###wsjpecrga
 premierleague.com###cookies-verify
 priceminister.com###legalNotificationEltId
 priorygroup.com###promptbar
+pyckio.com###cookiesplease.cookiesplease
 qxl.dk###cookies
 qype.co.uk##.js-cookie-info
 rabobank.be###cookie-policy
@@ -425,6 +446,7 @@ rexusa.com###site-we-use-cookies
 richersounds.com###headerCookieLaw
 rightmove.co.uk###cookiemodalbar
 road.cc###sliding-popup
+robe.es###dvCookie.cookiesms
 rockpapershotgun.com###ecd_opt_in_banner
 rocmondriaan.nl##.cookie-popup
 royalmail.com###block-cookie_policy-0
@@ -450,6 +472,7 @@ sky.com###skycom-cookie-wrapper
 skynet.be###cookieAlert
 slate.fr##.footer_cnil
 sn.dk###cookieInfo
+segundamano.es###msg-cookie-level0
 soundcloud.com##.announcement
 soundonsound.com###cccwr
 sport.es###msg-cookie
@@ -536,11 +559,14 @@ witlr.com###cookiewarning
 wizzair.com###cookiePolicyNotification
 wizzo.es##.avisoCookie
 wolframalpha.com###EUCookie
+xataka.com###cookies-overlay
+xhamster.com##.bottom_message
 yachtpaint.com##.cookiesPro
 yamaha-motor.eu###cookieMessage
 yatescycles.co.uk###cookiesdirective
 yell.com###cookie-overlay
 yell.com##.cookie-notification
+yonkis.com###cookie-law-info-bar
 zdnet.com###cookiePolicy
 !
 !--- Global Filters / Scripts & Libraries
