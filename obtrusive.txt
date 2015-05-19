@@ -489,6 +489,7 @@ topito.com##.cc-cookies
 toshiba.co.uk###cookies_container
 totalmoney.pl###right_widget
 trustpilot.dk##.cookie-bar
+tuenti.com###cookies-policy-banner.fd-rollout
 tumblr.com###cookies_container
 turnitinuk.com###cookieAcceptPos
 tvn.pl###msgLayer
