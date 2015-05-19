@@ -161,10 +161,12 @@ elandroidelibre.com###footerCookies
 elasticsearch.org###cookie
 elconfidencial.com##.disclaimer-cookies-message
 eldiario.es###headerCookiesAdvice.md-cookies-advice
+eleconomista.es##.av-cookies
 electrodepot.fr###cookie_banner
 electrolux.fr##.cookie-message
 elgiganten.dk###cookieinfobox
 elgiganten.dk##.transbox
+eltiempo.es###popup-cookies
 elle.fr###c_agrem
 elpais.com###capaAvisoPoliticaCookies_superior_mensajes
 empireonline.com###bauerCookiePolicy
