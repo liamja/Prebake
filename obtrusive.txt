@@ -254,6 +254,7 @@ imedeen.fr###cookiepolicyContainer
 ina.fr##.cookies-bar
 indiegogo.com###fancybox-overlay
 indiegogo.com###fancybox-wrap
+infolibre.es###aviso-cookie
 informahealthcare.com##.overlay
 informahealthcare.com##.popupContainer
 ing.dk##.cookie-accept-overlay
