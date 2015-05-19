@@ -203,6 +203,7 @@ filmstriben.dk###cookie-notice
 fitnessworld.dk###cookieContainer
 focusrite.com###sliding-popup
 formula1.com###cookie-notification-wrapper
+forocoches.com###infocookie
 fragbite.se##.cookieBar
 france5.fr###cookie-cnil-box
 freeview.co.uk###cookie-panel
