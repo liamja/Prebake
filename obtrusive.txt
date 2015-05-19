@@ -255,6 +255,7 @@ huffingtonpost.es###usrConsent
 huffingtonpost.fr###usrConsent
 huffingtonpost.gr###usrConsent
 ico.org.uk###banner
+idealista.com###id-cookies
 ideone.com###cookie-ue
 idpc.net###cookie-warning
 igen.fr###sliding-popup
