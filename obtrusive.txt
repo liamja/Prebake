@@ -461,9 +461,6 @@ stofa.dk###cookie_collapse
 stormcreative.co.uk###storm-cookie
 submit.ac.uk###cookieAcceptPos
 suzuki.co.uk###privacypopup
-svt.se###svtCookieInformationContainer
-svtflow.se###svtCookieInformationContainer
-svtplay.se###svtCookieInformationContainer
 symington.com###cookielaw
 t-mobile.co.uk##.cookies-message-container
 t-mobile.nl###exposeMask
@@ -611,6 +608,7 @@ tmgonlinemedia.nl/consent/script/consent.js$script
 ###gh-cookieb
 ###politicaCookies
 ###privacyPolicyLayerN
+###svtCookieInformationContainer
 ###warning_cookie
 ##.cookie-banner
 ##.cookie-block
