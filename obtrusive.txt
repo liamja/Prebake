@@ -357,6 +357,7 @@ monster.co.uk###intMsgCookies
 more4.com###cookieNotification
 more4.com###gn-cookie-accept
 motogp.com##.cookies
+mundodeportivo.com###cookies-policy-mssg.cookies-policy-mssg
 myspace.com##.eucookie
 n-mobile.net###infobox3
 naranjaynegro.com###cookie-law-container
