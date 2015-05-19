@@ -287,6 +287,7 @@ ku.dk###cookie_box
 kwejk.pl###cookies-politics
 lab-project.net##.activebar-container
 lagazettedescommunes.com###bandeauCookies
+lainformacion.com###cookies-layer
 large.nl###cookie_law
 larousse.fr##.panel-cookies
 last.fm###cookie-law-bar
