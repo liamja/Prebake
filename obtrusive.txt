@@ -491,10 +491,6 @@ totalmoney.pl###right_widget
 trustpilot.dk##.cookie-bar
 tumblr.com###cookies_container
 turnitinuk.com###cookieAcceptPos
-tv10play.se###cookie-consent-bar
-tv3play.se###cookie-consent-bar
-tv6play.se###cookie-consent-bar
-tv8play.se###cookie-consent-bar
 tvn.pl###msgLayer
 tvn24.pl###msgLayer
 tvn24bis.pl###msgLayer
@@ -592,6 +588,7 @@ tmgonlinemedia.nl/consent/script/consent.js$script
 ###cc-cookies.cc-cookies
 !-- Others
 ###cartelcookielegal
+###cookie-consent-bar
 ###cookie-information
 ###cookie-law-compliance
 ###cookie-law-consent-section
