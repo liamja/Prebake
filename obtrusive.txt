@@ -183,6 +183,7 @@ eudict.com##.cookieNotice
 eurodns.com###cookies-bar
 eurogamer.net###cookie-bar
 euroman.dk##.content
+europapress.es###cookie1.cookiesms
 eurowoman.dk##.content
 eveningnews24.co.uk###cookielaw
 examiner.co.uk###cookieNotification
