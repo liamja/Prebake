@@ -159,7 +159,6 @@ egmontcreative.com###cookieInformerBooklet
 elandroidelibre.com###footerCookies
 elasticsearch.org###cookie
 elconfidencial.com##.disclaimer-cookies-message
-elcorteingles.es##.cookies-policy
 eldiario.es###headerCookiesAdvice.md-cookies-advice
 electrodepot.fr###cookie_banner
 electrolux.fr##.cookie-message
@@ -617,6 +616,7 @@ tmgonlinemedia.nl/consent/script/consent.js$script
 ##.cookie-wrapper
 ##.cookieControl
 ##.cookie_privacy_info_bar
+##.cookies-policy
 ##.gn-cookie-alert
 ##gh-cookieb-active
 !
