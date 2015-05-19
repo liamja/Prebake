@@ -357,7 +357,6 @@ netonnet.se##.acceptCookies
 newscientist.com###rbiCookiePolicy_pushDownBoxWrapper
 newstatesman.com###cookiesdirective
 nfbio.dk###the-cookie
-nfkino.no###cookieMessage
 nicematin.com##.alert-cookies
 nlyman.com###toast-container
 norml-uk.org###cccwr
@@ -529,7 +528,6 @@ wolframalpha.com###EUCookie
 xataka.com###cookies-overlay
 xhamster.com##.bottom_message
 yachtpaint.com##.cookiesPro
-yamaha-motor.eu###cookieMessage
 yatescycles.co.uk###cookiesdirective
 yell.com###cookie-overlay
 yell.com##.cookie-notification
@@ -598,6 +596,7 @@ tmgonlinemedia.nl/consent/script/consent.js$script
 ###cookie_policy
 ###cookie_privacy_info_bar
 ###cookieChoiceInfo
+###cookieMessage
 ###cookiesPop
 ###cookiestatement
 ###cookiewarning
