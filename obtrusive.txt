@@ -263,6 +263,7 @@ imedeen.fr###cookiepolicyContainer
 ina.fr##.cookies-bar
 indiegogo.com###fancybox-overlay
 indiegogo.com###fancybox-wrap
+infojobs.net###ij-policy-disclaimer.container-expanded
 infolibre.es###aviso-cookie
 informahealthcare.com##.overlay
 informahealthcare.com##.popupContainer
