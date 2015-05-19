@@ -152,6 +152,7 @@ e4.com###cookieNotification
 e4.com###gn-cookie-accept
 eadt.co.uk###cookielaw2
 ebuyer.com###cookieContainer
+economiadigital.es###container_ciiT103.cookies_alert_wrapper
 economist.com###ec-cookie-messages-container
 edbpriser.dk##.content
 edp24.co.uk###cookielaw
