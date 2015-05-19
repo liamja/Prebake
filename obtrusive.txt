@@ -163,6 +163,7 @@ egmontpublishing.no##.cookie-wrapper
 egmontpublishing.se##.cookie-wrapper
 elandroidelibre.com###footerCookies
 elasticsearch.org###cookie
+elcorteingles.es##.cookies-policy
 eldiario.es###headerCookiesAdvice.md-cookies-advice
 electrodepot.fr###cookie_banner
 electrolux.fr##.cookie-message
