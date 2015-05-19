@@ -343,6 +343,7 @@ monster.co.uk###intMsgCookies
 more4.com###cookieNotification
 more4.com###gn-cookie-accept
 motogp.com##.cookies
+movistar.es###contenedorCookies
 mundodeportivo.com###cookies-policy-mssg.cookies-policy-mssg
 myspace.com##.eucookie
 n-mobile.net###infobox3
@@ -471,6 +472,7 @@ tandfonline.com##.b-body
 tandfonline.com##.b-header
 tbicardiffairport.com###cookielightbox
 techrepublic.com###cookie-policy
+telefonica.com###msg-cookie.msg-cookie
 telerama.fr###usrConsent
 tesco.com###cp
 tesco.com###tesco_cookie_widget
