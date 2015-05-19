@@ -468,6 +468,7 @@ sky.com###skycom-cookie-wrapper
 skynet.be###cookieAlert
 slate.fr##.footer_cnil
 sn.dk###cookieInfo
+segundamano.es###msg-cookie-level0
 soundcloud.com##.announcement
 soundonsound.com###cccwr
 sport.es###msg-cookie
