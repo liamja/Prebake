@@ -144,7 +144,6 @@ dmi.dk##.content
 dobreprogramy.pl###cookiesPanel
 dr.dk##.dr-cookie-info-box
 dr.dk##.dr-infobox
-drf.dk##.cookie-wrapper
 drive24.co.uk###cookieHeader
 duf.dk##.tx-tc-cookie
 duluxvalentine.com###cookie-law
@@ -161,9 +160,6 @@ edp24.co.uk###cookielaw
 edp24.co.uk###cookielaw2
 egmont.com##.cookie-wrapper.clearfix
 egmontcreative.com###cookieInformerBooklet
-egmontpublishing.dk##.cookie-wrapper
-egmontpublishing.no##.cookie-wrapper
-egmontpublishing.se##.cookie-wrapper
 elandroidelibre.com###footerCookies
 elasticsearch.org###cookie
 elconfidencial.com##.disclaimer-cookies-message
@@ -371,10 +367,6 @@ nfbio.dk###the-cookie
 nfkino.no###cookieMessage
 nicematin.com##.alert-cookies
 nlyman.com###toast-container
-nordiskfilm.com##.cookie-wrapper
-nordiskfilm.dk##.cookie-wrapper
-nordiskfilm.no##.cookie-wrapper
-nordiskfilm.se##.cookie-wrapper
 norml-uk.org###cccwr
 nouvelobs.com##DIV[style="text-align:left;width:550px;background-color:#feefaa;padding:10px;font:12px Arial;position:absolute;z-index:50;undefined"]
 nrc.nl##.cookiemonster.kleverig
@@ -631,6 +623,7 @@ tmgonlinemedia.nl/consent/script/consent.js$script
 ###warning_cookie
 ##.cookie-banner
 ##.cookie-block
+##.cookie-wrapper
 ##.cookieControl
 ##.cookie_privacy_info_bar
 ##.gn-cookie-alert
