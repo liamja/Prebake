@@ -102,11 +102,6 @@ cartoonito.co.uk###sliding-popup
 cartoonnetwork.co.uk###sliding-popup
 cartoonnetwork.es###sliding-popup
 cartoonnetwork.fr###sliding-popup
-cdon.dk###cookie-information
-cdon.eu###cookie-information
-cdon.fi###cookie-information
-cdon.no###cookie-information
-cdon.se###cookie-information
 change.org##.flash-message.flash-message-announcement
 channel4.com##.all4nav-cookie-policy-notification
 channel5.com###cookie-notification
@@ -603,6 +598,7 @@ tmgonlinemedia.nl/consent/script/consent.js$script
 ###cc-cookies.cc-cookies
 !-- Others
 ###cartelcookielegal
+###cookie-information
 ###cookie-law-compliance
 ###cookie-law-consent-section
 ###cookie-policy-banner
