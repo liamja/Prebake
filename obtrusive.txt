@@ -23,6 +23,7 @@
 ||omgubuntu.co.uk/wp-content/plugins/omg-magnific/magnific.min.js$script
 ||wkd.com.pl/cookies/cookies.js$script
 01net.com###conteneurCookies
+1and1.es###cookieinfo-container.show
 20minutes.fr###cnil-notice
 3vprepaid.com###cookie-container
 4music.com###cookieNotification
