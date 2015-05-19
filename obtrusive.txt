@@ -41,7 +41,6 @@ akademiskforlagbusiness.dk###cookieWarning
 alinea.dk###cookieWarning
 allocine.fr##.alert
 allrecipes.co.uk###cookiePopupContainer
-allthingsd.com###cookie_notice
 altfordamerne.dk##.content
 amisdukmzero.com###ca_banner
 anglianwater.co.uk###ctl00_pnlCookie
@@ -172,7 +171,6 @@ ennaranja.com##.cookies-overlay
 epson.fr##.epson_cookienotice
 esbe.eu##.header-cookie-content
 espn.co.uk##.cookie-overlay
-etiemble.free.fr###cookie_notice
 eudict.com##.cookieNotice
 eurodns.com###cookies-bar
 eurogamer.net###cookie-bar
@@ -601,6 +599,7 @@ tmgonlinemedia.nl/consent/script/consent.js$script
 ###cookie-information
 ###cookie-law-compliance
 ###cookie-law-consent-section
+###cookie_notice
 ###cookie-policy-banner
 ###cookie-warning
 ###cookie_policy
