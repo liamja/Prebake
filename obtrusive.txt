@@ -441,8 +441,7 @@ seloger.com##.container_cookies
 seoconsult.com###cookieBar
 severntrent.com###cookiePrompt
 sgs.com##.sgsCookies
-shell.fr###cookie_info
-silicon.fr###cookie_policy
+shell.fr###cookie_info 
 simyo.es##.cookieAsker
 sky.com###skycom-cookie-wrapper
 skynet.be###cookieAlert
