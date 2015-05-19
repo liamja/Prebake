@@ -193,7 +193,6 @@ eurowoman.dk##.content
 eveningnews24.co.uk###cookielaw
 examiner.co.uk###cookieNotification
 express.co.uk###cookielaw
-extremoduro.com###dvCookie.cookiesms
 fantasyfootballscout.co.uk###cookie-bar
 fasthosts.co.uk###cookie
 fatbeehive.com##div[style^="background-color: #000;"]
@@ -446,7 +445,6 @@ rexusa.com###site-we-use-cookies
 richersounds.com###headerCookieLaw
 rightmove.co.uk###cookiemodalbar
 road.cc###sliding-popup
-robe.es###dvCookie.cookiesms
 rockpapershotgun.com###ecd_opt_in_banner
 rocmondriaan.nl##.cookie-popup
 royalmail.com###block-cookie_policy-0
@@ -630,6 +628,7 @@ tmgonlinemedia.nl/consent/script/consent.js$script
 ###cookiesPop
 ###cookiestatement
 ###cookiewarning
+###dvCookie.cookiesms
 ###gh-cookieb
 ###politicaCookies
 ###warning_cookie
