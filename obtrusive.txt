@@ -385,9 +385,6 @@ originalpenguin.co.uk###epd
 out-law.com###cookie
 over-blog.fr###cookies_notifier
 parcelmotel.com###cookiemonster
-parkinn.co.uk##.cookieControl
-parkinn.com##.cookieControl
-parkinn.de##.cookieControl
 pathe.nl###cookieContainer
 pathe.nl###cookieOverlay
 paypal.com##.row-fluid.cookie-notification
