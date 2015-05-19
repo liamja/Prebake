@@ -187,6 +187,7 @@ eurowoman.dk##.content
 eveningnews24.co.uk###cookielaw
 examiner.co.uk###cookieNotification
 express.co.uk###cookielaw
+extremoduro.com###dvCookie.cookiesms
 fantasyfootballscout.co.uk###cookie-bar
 fasthosts.co.uk###cookie
 fatbeehive.com##div[style^="background-color: #000;"]
