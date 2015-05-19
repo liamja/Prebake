@@ -44,6 +44,7 @@ allrecipes.co.uk###cookiePopupContainer
 altfordamerne.dk##.content
 amisdukmzero.com###ca_banner
 anglianwater.co.uk###ctl00_pnlCookie
+antena3.com##.capa_cookies
 archant.co.uk###cookielaw
 area-codes.org.uk###wsjconsent
 arla.dk###Container
@@ -397,7 +398,6 @@ play.google.com##.app-translation-bar
 play.spotify.com###cookie-compliance
 polisen.se##.cookie
 politics.co.uk###cookieConsentBar
-politiken.dk##.cookie-warning
 polytuil.fr###cookiesContainer
 postnl.nl###coverlay
 postnl.nl###cwrapper
@@ -613,6 +613,7 @@ tmgonlinemedia.nl/consent/script/consent.js$script
 ###warning_cookie
 ##.cookie-banner
 ##.cookie-block
+##.cookie-warning
 ##.cookie-wrapper
 ##.cookieControl
 ##.cookie_privacy_info_bar
