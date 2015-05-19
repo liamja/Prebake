@@ -548,6 +548,7 @@ witlr.com###cookiewarning
 wizzair.com###cookiePolicyNotification
 wizzo.es##.avisoCookie
 wolframalpha.com###EUCookie
+xataka.com###cookies-overlay
 yachtpaint.com##.cookiesPro
 yamaha-motor.eu###cookieMessage
 yatescycles.co.uk###cookiesdirective
