@@ -433,6 +433,7 @@ rexusa.com###site-we-use-cookies
 richersounds.com###headerCookieLaw
 rightmove.co.uk###cookiemodalbar
 road.cc###sliding-popup
+robe.es###dvCookie.cookiesms
 rockpapershotgun.com###ecd_opt_in_banner
 rocmondriaan.nl##.cookie-popup
 royalmail.com###block-cookie_policy-0
