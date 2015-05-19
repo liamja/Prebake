@@ -166,7 +166,7 @@ electrodepot.fr###cookie_banner
 electrolux.fr##.cookie-message
 elgiganten.dk###cookieinfobox
 elgiganten.dk##.transbox
-eltiempo.es###popup-cookies
+eltiempo.es###cookie-alert.CookieAlert
 elle.fr###c_agrem
 elpais.com###capaAvisoPoliticaCookies_superior_mensajes
 empireonline.com###bauerCookiePolicy
