@@ -295,6 +295,7 @@ ku.dk###cookie_box
 kwejk.pl###cookies-politics
 lab-project.net##.activebar-container
 lagazettedescommunes.com###bandeauCookies
+lacaixa.es###div_texto
 lainformacion.com###cookies-layer
 large.nl###cookie_law
 larousse.fr##.panel-cookies
