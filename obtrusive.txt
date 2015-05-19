@@ -174,7 +174,6 @@ electrolux.fr##.cookie-message
 elgiganten.dk###cookieinfobox
 elgiganten.dk##.transbox
 elle.fr###c_agrem
-elotrolado.net###cookie-warning
 elpais.com###capaAvisoPoliticaCookies_superior_mensajes
 empireonline.com###bauerCookiePolicy
 eniro.se##.cookies-info-static
@@ -257,7 +256,6 @@ huffingtonpost.gr###usrConsent
 ico.org.uk###banner
 idealista.com###id-cookies
 ideone.com###cookie-ue
-idpc.net###cookie-warning
 igen.fr###sliding-popup
 ign.com###policyNotice
 imedeen.fr###cookiepolicyContainer
@@ -527,7 +525,6 @@ twitch.tv##.noty_bar
 twitter.com##.eu-cookie-notice
 tyda.se###accept-cookies-div
 ubuntu.com##.cookie-policy
-ubuntu.pl###cookie-warning
 uk.farnell.com###mktg_Cookie_Wrap
 uk.yahoo.com###applet_p_50000174
 ukflive.com##.cc-cookies
@@ -620,6 +617,7 @@ tmgonlinemedia.nl/consent/script/consent.js$script
 ###cookie-law-compliance
 ###cookie-law-consent-section
 ###cookie-policy-banner
+###cookie-warning
 ###cookie_policy
 ###cookie_privacy_info_bar
 ###cookieChoiceInfo
@@ -728,7 +726,6 @@ www.1and1.co.uk###cookies-info
 www.bigsocietycapital.com###cccwr
 www.bing.com###thp_notf_div
 www.blockbuster.co.uk##.toast-type-newCookie
-www.blood.co.uk###cookie-warning
 www.brandwatch.com###catapult-cookie-bar
 www.caterersearch.com###rbiCookiePolicy_mainInformation
 www.cavendishonline.co.uk###cookie-compliance
@@ -757,7 +754,6 @@ www.lmax.com###cookieDisclaimer
 www.misco.co.uk##.CookieDirectiveHeight
 www.netia.pl##DIV[id="cookie_div"]
 www.networkrail.co.uk##.CookieNotification
-www.nhsbt.nhs.uk###cookie-warning
 www.ofqual.gov.uk###cookiemsg
 www.ombudsman-services.org##.cookiebar
 www.orange.co.uk##.cookieBanner
@@ -779,7 +775,6 @@ www.theepinal.co.uk##.pea_cook_wrapper
 www.theviewfromtheshard.com###cookie_alert
 www.thisislocallondon.co.uk###cookiewarningiframe
 www.travelsupermarket.com###cookieDirective
-www.trustedreviews.com###cookie-warning
 www.tvp.pl##DIV[id="cookieControl"]
 www.ukti.gov.uk###cookieBanner
 www.vanguard.co.uk###cookieDrawer
