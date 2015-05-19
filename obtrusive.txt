@@ -28,6 +28,7 @@
 4music.com###cookieNotification
 4music.com###gn-cookie-accept
 abbeyroad.com###cookie-overlay-footer
+abc.es###layer_cookie.identity-noticebar.col-12.edge
 about.com###cookie_banner_container
 accuweather.com###eu-cookie-notify-wrap
 actu-environnement.com###informations-cookies
