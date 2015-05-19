@@ -174,7 +174,6 @@ electrolux.fr##.cookie-message
 elgiganten.dk###cookieinfobox
 elgiganten.dk##.transbox
 elle.fr###c_agrem
-elmundo.es###privacyPolicyLayerN
 elotrolado.net###cookie-warning
 elpais.com###capaAvisoPoliticaCookies_superior_mensajes
 empireonline.com###bauerCookiePolicy
@@ -332,7 +331,6 @@ lonelyplanet.com##.row--cookie-compliance
 lufbra.net##.cwcookielaw
 ma-reduc.com###about-cookies
 magicmaman.com##.cookieNotification
-marca.com###privacyPolicyLayerN
 masterofmalt.com###cookiePopup
 materiel.net###cookie
 mclaren.com###block-cookie-info
@@ -631,6 +629,7 @@ tmgonlinemedia.nl/consent/script/consent.js$script
 ###dvCookie.cookiesms
 ###gh-cookieb
 ###politicaCookies
+###privacyPolicyLayerN
 ###warning_cookie
 ##.cookie-banner
 ##.cookie-block
