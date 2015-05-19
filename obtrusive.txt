@@ -168,6 +168,7 @@ electrolux.fr##.cookie-message
 elgiganten.dk###cookieinfobox
 elgiganten.dk##.transbox
 elle.fr###c_agrem
+elotrolado.net###cookie-warning
 elpais.com###capaAvisoPoliticaCookies_superior_mensajes
 empireonline.com###bauerCookiePolicy
 eniro.se##.cookies-info-static
