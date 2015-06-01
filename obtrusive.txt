@@ -582,6 +582,9 @@ zdnet.com###cookiePolicy
 tmgonlinemedia.nl/consent/script/consent.js$script
 !-- CookieAssistant.com
 ||app.cookieassistant.com/widget$script
+!-- Iubenda Script
+cdn.iubenda.com/cookie_solution/iubenda_cs.js
+###iubenda-cs-banner
 !-- Silktide Script
 /assets.cookieconsent.silktide.com/*$script
 ###cc-notification > #cc-notification-wrapper
