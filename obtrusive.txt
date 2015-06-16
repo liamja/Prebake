@@ -258,6 +258,7 @@ informahealthcare.com##.popupContainer
 ing.dk##.cookie-accept-overlay
 ingdirect.es###ico_banner
 interia.pl###inpl_cp_cnt
+internazionale.it##cookie_banner
 iopscience.iop.org##.cookies-banner-wrap
 istockphoto.com###euCookieBar
 itele.fr###cnil_alert_inner
