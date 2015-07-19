@@ -90,6 +90,7 @@ britishmuseum.org###cookiePromptWrapper
 bt.com###cookieNotification
 ca-nord-est.fr##.recocliv2
 cadbury.co.uk###\5f CookieText
+canon.de##.site-holder > .cookie-policy
 cantine-gamelle.fr###AvisoCookieslaw
 caproig.com###ca_banner
 car2go.com###c2g_cookie_dialog
