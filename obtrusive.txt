@@ -729,6 +729,7 @@ www.ico.gov.uk###banner
 www.ing.com###cookie_info
 www.joomla.pl##DIV[id="panel_cookie_dol"]
 www.jrf.org.uk###cookieconsent
+www.larousse.fr##.panel-cookies
 www.lmax.com###cookieDisclaimer
 www.misco.co.uk##.CookieDirectiveHeight
 www.netia.pl##DIV[id="cookie_div"]
