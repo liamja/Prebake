@@ -731,6 +731,7 @@ www.joomla.pl##DIV[id="panel_cookie_dol"]
 www.jrf.org.uk###cookieconsent
 www.larousse.fr##.panel-cookies
 www.lmax.com###cookieDisclaimer
+www.mediaset.es###cookie_panel
 www.misco.co.uk##.CookieDirectiveHeight
 www.netia.pl##DIV[id="cookie_div"]
 www.networkrail.co.uk##.CookieNotification
