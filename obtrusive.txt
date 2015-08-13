@@ -727,6 +727,7 @@ www.guardian.co.uk##.identity-noticebar
 www.hsbc.co.uk###cookieBox
 www.hsbc.co.uk##.eucookie_disclaimer
 www.humansinvent.com/*/eu_rp_cookie.js$script
+www.icabanken.se###cookieAgreementContent
 www.ico.gov.uk###banner
 www.ing.com###cookie_info
 www.joomla.pl##DIV[id="panel_cookie_dol"]
