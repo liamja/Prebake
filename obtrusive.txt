@@ -733,6 +733,7 @@ www.larousse.fr##.panel-cookies
 www.lmax.com###cookieDisclaimer
 www.mediaset.es###cookie_panel
 www.misco.co.uk##.CookieDirectiveHeight
+www.moddb.com##.cc_banner-wrapper
 www.netia.pl##DIV[id="cookie_div"]
 www.networkrail.co.uk##.CookieNotification
 www.nhsbt.nhs.uk###cookie-warning
