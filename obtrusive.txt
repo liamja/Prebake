@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 14 April 2015 21:39 UTC
+! Last modified: 13 August 2015 18:18 UTC
 ! Expires: 7 days (update frequency)
 ! Homepage: http://prebake.eu
 ! License: https://raw.github.com/liamja/Prebake/master/README.md
@@ -73,6 +73,7 @@ betfair.com##.footer-cookies-policy
 bfmtv.com###conteneurCookies
 bibliotek.dk##.popup-content
 blogger.com###blogger_cookie_notice
+blogs.mediapart.fr##.bust
 boingtv.fr###sliding-popup
 bol.com###top_header_cookie_message
 bolha.com###cookiesWarning
@@ -323,7 +324,6 @@ mclarenstore.com##.widget-notifyBar
 mdd.eu##.panel_cookie
 mdx.ac.uk###cookie
 medclic.fr###cookiebanner
-blogs.mediapart.fr##.bust
 mediapart.fr###cnil-sentence
 mercialys.fr##.info-top
 meristation.com###capaAvisoPoliticaCookies_superior_mensajes
@@ -458,8 +458,8 @@ spotify.com###js-message-notice[data-name="cookieNotice"]
 spotify.com##.uk-cookies
 star-magazine.co.uk###cookielaw
 stargreen.com##div[style^="color: rgb(238, 238, 238); background-color: rgb(102, 102, 51);"]
-stofa.dk##.cookie_footer
 stofa.dk###cookie_collapse
+stofa.dk##.cookie_footer
 stormcreative.co.uk###storm-cookie
 submit.ac.uk###cookieAcceptPos
 suzuki.co.uk###privacypopup
@@ -468,8 +468,8 @@ svtflow.se###svtCookieInformationContainer
 svtplay.se###svtCookieInformationContainer
 symington.com###cookielaw
 t-mobile.co.uk##.cookies-message-container
-t-mobile.nl###exposeMask
 t-mobile.nl###TMobile_nl_WebPortals_UI_PageComponents_CookieSettingsOverlay_CookieSettingsOverlayController_OverlayRootDiv
+t-mobile.nl###exposeMask
 tandfonline.com##.b-body
 tandfonline.com##.b-header
 tbicardiffairport.com###cookielightbox
@@ -598,9 +598,9 @@ tmgonlinemedia.nl/consent/script/consent.js$script
 ###cookie-law-compliance
 ###cookie-law-consent-section
 ###cookie-policy-banner
+###cookieChoiceInfo
 ###cookie_policy
 ###cookie_privacy_info_bar
-###cookieChoiceInfo
 ###cookiesPop
 ###cookiestatement
 ###cookiewarning
