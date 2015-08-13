@@ -141,6 +141,7 @@ diabetes.org.uk###policyPopup
 digitalspy.co.uk###cookie-policy
 dmi.dk##.content
 dobreprogramy.pl###cookiesPanel
+doodle.com###cookiesWarning
 dr.dk##.dr-cookie-info-box
 dr.dk##.dr-infobox
 drf.dk##.cookie-wrapper
@@ -427,6 +428,7 @@ rightmove.co.uk###cookiemodalbar
 road.cc###sliding-popup
 rockpapershotgun.com###ecd_opt_in_banner
 rocmondriaan.nl##.cookie-popup
+rotring.com###cookienotify
 royalmail.com###block-cookie_policy-0
 royalnavy.mod.uk###cookies-notice
 rs-online.com##.cookieMessageDiv
