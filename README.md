@@ -1,6 +1,8 @@
 Prebake
 =======
 
+[![Join the chat at https://gitter.im/liamja/Prebake](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/liamja/Prebake?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A set of Adblock filters to block obtrusive EU cookie law notices.
 
 Details
