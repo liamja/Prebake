@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 13 August 2015 19:15 UTC
+! Last modified: 19 August 2015 07:21 UTC
 ! Expires: 7 days (update frequency)
 ! Homepage: http://prebake.eu
 ! License: https://raw.github.com/liamja/Prebake/master/README.md
@@ -588,6 +588,8 @@ zdnet.com###cookiePolicy
 ###npo_cc_notification_wrapper
 !-- http://cookieconsent.com/
 ||cookieconsent.com^$third-party
+!-- Fucking EU cookies script (https://goo.gl/pB2Ayt)
+s3-eu-west-1.amazonaws.com/fucking-eu-cookies/*$script
 !--
 /cookieCompliance.js$script
 !-- Google (Requires "Allow some non-intrusive advertising" to be unchecked.)
