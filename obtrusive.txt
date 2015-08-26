@@ -664,6 +664,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###cookieInfoMsgWrapper
 ###cookiepolicydiv
 ###cookies-info
+##.footer__cookie-info
 android.com.pl##div[class^="pea_cook_wrapper"]
 b3ta.com###cookiewarn
 barclaycard.co.uk###cookiesMessageBanner
