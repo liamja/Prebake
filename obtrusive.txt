@@ -471,6 +471,7 @@ sport.es###msg-cookie
 spotify.com###js-message-bar-cookie-notice
 spotify.com###js-message-notice[data-name="cookieNotice"]
 spotify.com##.uk-cookies
+stadt-koeln.de###cookie_content
 star-magazine.co.uk###cookielaw
 stargreen.com##div[style^="color: rgb(238, 238, 238); background-color: rgb(102, 102, 51);"]
 stofa.dk###cookie_collapse
