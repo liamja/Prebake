@@ -10,18 +10,7 @@
 ! or via e-mail (cookies@prebake.eu).
 !
 !--- Site-Specific Selectors
-||assets.futurecdn.net/js/fp_cookie.js$script
-||assets.futurecdn.net/js/fp_cookie.min.js$script
-||consent.truste.com
-||crownpaint.co.uk/scripts/crown/cookiesPopup.js$script
-||delo.si/assets/delo_v3/notice/js/script.js$script
-||demotywatory.pl/res/assets/user-revision12b9ff43cfde9f9f05947f9bbce45787.js$script
-||fabriclondon.com/include/javascript/cookiedirective1.5.js$script
-||frz.io/cnil/
-||mnhn.fr/fr/cookie-eu/
-||myinterrail.co.uk/shared_files/clientscripts/cms/cookie_alert1.js$script
-||omgubuntu.co.uk/wp-content/plugins/omg-magnific/magnific.min.js$script
-||wkd.com.pl/cookies/cookies.js$script
+!
 01net.com###conteneurCookies
 20minutes.fr###cnil-notice
 3vprepaid.com###cookie-container
@@ -140,8 +129,8 @@ datormagazin.se###AdBlockerInfo
 davidlloyd.co.uk###home-cookie2
 dawsonera.com##.cc-cookies-container
 degulesider.dk##.cookies-info
-devianne.com###avertissement_cookies
 deredactie.be###widget-vrtcookiebalk
+devianne.com###avertissement_cookies
 diabetes.org.uk###policyPopup
 digitalspy.co.uk###cookie-policy
 dmi.dk##.content
@@ -564,7 +553,18 @@ yatescycles.co.uk###cookiesdirective
 yell.com###cookie-overlay
 yell.com##.cookie-notification
 zdnet.com###cookiePolicy
-!
+||assets.futurecdn.net/js/fp_cookie.js$script
+||assets.futurecdn.net/js/fp_cookie.min.js$script
+||consent.truste.com
+||crownpaint.co.uk/scripts/crown/cookiesPopup.js$script
+||delo.si/assets/delo_v3/notice/js/script.js$script
+||demotywatory.pl/res/assets/user-revision12b9ff43cfde9f9f05947f9bbce45787.js$script
+||fabriclondon.com/include/javascript/cookiedirective1.5.js$script
+||frz.io/cnil/
+||mnhn.fr/fr/cookie-eu/
+||myinterrail.co.uk/shared_files/clientscripts/cms/cookie_alert1.js$script
+||omgubuntu.co.uk/wp-content/plugins/omg-magnific/magnific.min.js$script
+||wkd.com.pl/cookies/cookies.js$script
 !--- Global Filters / Scripts & Libraries
 !-- https://github.com/Scott-Herbert/CookieWarning
 /cookiewarning.js$script
