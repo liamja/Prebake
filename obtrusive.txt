@@ -459,6 +459,7 @@ santander.co.uk###cookiebannerAH
 savi-france.fr###notifybar
 scarlet.be###cookiePolicy
 schwarzkopf.co.uk##div.cookiedisclaimer
+schwarzkopf.de##div.cookiedisclaimer
 seloger.com##.container_cookies
 seoconsult.com###cookieBar
 severntrent.com###cookiePrompt
