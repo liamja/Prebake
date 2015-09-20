@@ -426,6 +426,7 @@ rabobank.be###cookie-policy
 radionomy.com###cookieDough
 ransomesjacobsen.com###cookieuseage
 rapidonline.com###Header_SelectSitePopup_DisplaySiteSplitMsgDiv
+raumfeld.com###cookiecontrol_notice
 redbull.co.uk##.EUCookiePolicyContainer
 redbull.com##.site-message.cookies
 reed.co.uk##.notification
@@ -493,6 +494,7 @@ telenet.be##.cookie-regulation
 telerama.fr###usrConsent
 tesco.com###cp
 tesco.com###tesco_cookie_widget
+teufel.de###cookiecontrol_notice
 tfl.gov.uk##.cookie-policy-notice
 theeuropeanlibrary.org##.cc-cookies
 thefa.com###cookiebar
