@@ -151,6 +151,7 @@ dr.dk##.dr-cookie-info-box
 dr.dk##.dr-infobox
 drf.dk##.cookie-wrapper
 drive24.co.uk###cookieHeader
+duden.de###sliding-popup
 duf.dk##.tx-tc-cookie
 duluxvalentine.com###cookie-law
 dustinhome.dk##.cookieBar
