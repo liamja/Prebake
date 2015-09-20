@@ -458,6 +458,7 @@ samsung.com##.cookie_notice
 santander.co.uk###cookiebannerAH
 savi-france.fr###notifybar
 scarlet.be###cookiePolicy
+schwarzkopf.co.uk##div.cookiedisclaimer
 seloger.com##.container_cookies
 seoconsult.com###cookieBar
 severntrent.com###cookiePrompt
@@ -712,6 +713,7 @@ johnredwoodsdiary.com###cc-notification-wrapper
 jqueryCookieGuard*.js$script
 landregistry.gov.uk###cookieBar
 lifeboatmarketing.co.uk###id_cookieconsent
+livecolor.co.uk##.cookiedisclaimer
 merlin.pl##.cookies_policy
 news.o2.co.uk###cookiesdirective
 ofcom.org.uk###cookie-bar
