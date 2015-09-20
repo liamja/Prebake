@@ -562,6 +562,8 @@ wizzair.com###cookiePolicyNotification
 wizzo.es##.avisoCookie
 wm.pl##DIV[id="cookieinfo"]
 wolframalpha.com###EUCookie
+www.sweclockers.com###adblockBanner
+www.sweclockers.com###siteHeader > .banner
 yachtpaint.com##.cookiesPro
 yamaha-motor.eu###cookieMessage
 yatescycles.co.uk###cookiesdirective
