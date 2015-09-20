@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 20 September 2015 11:35 UTC
+! Last modified: 20 September 2015 12:45 UTC
 ! Expires: 7 days (update frequency)
 ! Homepage: http://prebake.eu
 ! License: https://raw.github.com/liamja/Prebake/master/README.md
@@ -140,8 +140,8 @@ datormagazin.se###AdBlockerInfo
 davidlloyd.co.uk###home-cookie2
 dawsonera.com##.cc-cookies-container
 degulesider.dk##.cookies-info
-devianne.com###avertissement_cookies
 deredactie.be###widget-vrtcookiebalk
+devianne.com###avertissement_cookies
 diabetes.org.uk###policyPopup
 digitalspy.co.uk###cookie-policy
 dmi.dk##.content
@@ -490,8 +490,8 @@ svtflow.se###svtCookieInformationContainer
 svtplay.se###svtCookieInformationContainer
 symington.com###cookielaw
 t-mobile.co.uk##.cookies-message-container
-t-mobile.nl###TMobile_nl_WebPortals_UI_PageComponents_CookieSettingsOverlay_CookieSettingsOverlayController_OverlayRootDiv
 t-mobile.nl###exposeMask
+t-mobile.nl###TMobile_nl_WebPortals_UI_PageComponents_CookieSettingsOverlay_CookieSettingsOverlayController_OverlayRootDiv
 tandfonline.com##.b-body
 tandfonline.com##.b-header
 tbicardiffairport.com###cookielightbox
@@ -634,30 +634,30 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###cc-cookies.cc-cookies
 !-- Others
 ###cartelcookielegal
+###cookie-alert
+###cookie-bar
+###cookie-consent
 ###cookie-law-compliance
 ###cookie-law-consent-section
+###cookie-notice
 ###cookie-policy-banner
-###cookieChoiceInfo
 ###cookie_policy
 ###cookie_privacy_info_bar
+###cookieChoiceInfo
+###cookieControl
+###CookiePolicy
 ###cookiesPop
 ###cookiestatement
 ###cookiewarning
 ###gh-cookieb
 ###politicaCookies
 ###warning_cookie
-###cookieControl
-###cookie-alert
-###cookie-consent
-##.cookie-wrapper
-###CookiePolicy
-###cookie-notice
 ##.alertCookie
-###cookie-bar
 ##.cookie-banner
 ##.cookie-block
-##.cookieControl
+##.cookie-wrapper
 ##.cookie_privacy_info_bar
+##.cookieControl
 ##.gn-cookie-alert
 ##gh-cookieb-active
 !
@@ -665,18 +665,21 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 !--- https://github.com/r4vi/block-the-eu-cookie-shit-list
 !
 ###boxZgodaNaCookie
-###cookieMonsterWrapper
-###cookiePolicyPopup
-###fp_cookieMessageContainer
-###WP-cookie-info
-##.cookieTooltip
-##.cookie-alert
 ###ciasteczka
 ###cookie-info
 ###cookieInfoMsgWrapper
+###cookieMonsterWrapper
 ###cookiepolicydiv
+###cookiePolicyPopup
 ###cookies-info
+###fp_cookieMessageContainer
+###WP-cookie-info
+##.cookie-alert
+##.cookieTooltip
 ##.footer__cookie-info
+/cookieControl-*.js.js$script
+/cookieControl-*.js?ver=$script
+/cookielawinfo.js?ver=$script
 android.com.pl##div[class^="pea_cook_wrapper"]
 b3ta.com###cookiewarn
 barclaycard.co.uk###cookiesMessageBanner
@@ -685,15 +688,11 @@ ceneo.pl###js_cookie-monster
 channel4.com,film4.com###cookieNotification
 checkmyfile.com###cookieBar
 cineworld.co.uk##.notification.cookie
-/cookieControl-*.js.js$script
-/cookieControl-*.js?ver=$script
-/cookielawinfo.js?ver=$script
 demotywatory.pl##DIV[style^="position: fixed; left:0; right:0; bottom:0"]
 diy.com###cookie-bar
 diy.com###noScriptCookies
 dobreprogramy.pl###cookies
 dolce-gusto.co.uk###nimgrowler
-||du8783wkf05yr.cloudfront.net/rbi_uk.js$script
 eastcoast.co.uk##.cookie-message
 ee.co.uk###cookie-banner
 ee.co.uk###ee-cookies-message
@@ -705,7 +704,6 @@ goldenline.pl###topReminder
 group.barclays.com###cookiesInitialDialog
 group.barclays.com##.dialogMask
 gry.pl##.m-cookiebar
-||harrys.co.uk/js/toucanCookie.js
 hastoe.com###ctl00_CookieMessage1_upCookie
 iblanky.co.cc###update
 jakilinux.org###cookie-compliance-bottom
@@ -816,6 +814,8 @@ www.virgintrains.co.uk###cookies-fancybox
 www.waitrose.com###topEuCookieAlert
 www.your-move.co.uk###Footer_cookieLawBox
 zumi.pl###cookieView
+||du8783wkf05yr.cloudfront.net/rbi_uk.js$script
+||harrys.co.uk/js/toucanCookie.js
 ||allegrostatic.pl/js/scripts/cookie-policy-banner$script
 ||assets.cookieconsent.silktide.com^
 ||cookie.gazeta.pl/noScriptCookie.servlet
