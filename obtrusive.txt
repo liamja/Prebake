@@ -633,7 +633,7 @@ tv8play.se###cookie-consent-bar
 tvn.pl###msgLayer
 tvn24.pl###msgLayer
 tvn24bis.pl###msgLayer
-tweakers.net###cookieBar
+tweakers.net###notificationsContainer
 twitch.tv##.noty_bar
 twitter.com##.eu-cookie-notice
 tyda.se###accept-cookies-div
