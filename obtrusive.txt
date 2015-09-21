@@ -232,7 +232,7 @@ eadt.co.uk###cookielaw2
 ebay.de##.gh-banner-active
 ebuyer.com###cookieContainer
 economist.com###ec-cookie-messages-container
-edbpriser.dk##.content
+edbpriser.dk###cookieInformerBooklet
 edp24.co.uk###cookielaw
 edp24.co.uk###cookielaw2
 een.be###widget-vrtcookiebalk
@@ -326,7 +326,7 @@ heltnormalt.dk##.banner
 heltnormalt.dk##.banner-container
 here.com##.notification_box.ng-isolate-scope.cookie
 herts.ac.uk###cookieBar
-hifipriser.dk##.content
+hifipriser.dk###cookieInformerBooklet
 hotelgranvia.com###lc_cookies-main
 hotelmagicmassana.com###cookieMessageWrapper
 hp.com###cookie_privacy_holder
