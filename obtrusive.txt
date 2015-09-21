@@ -735,6 +735,7 @@ seetickets.com##.cookieslaw
 siepisze.pl##div[class^="pea_cook_wrapper"]
 skapiec.pl###uclaInfo
 store.lboro.ac.uk##.cc-cookies
+strato.de###euCookie
 t-mobile.pl###cookieInfoWrapper
 techrepublic.com###cookieCont
 theregister.co.uk,channelregister.co.uk,reghardware.com###RegCCO
