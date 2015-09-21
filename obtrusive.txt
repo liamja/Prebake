@@ -439,6 +439,7 @@ more4.com###cookieNotification
 more4.com###gn-cookie-accept
 motogp.com##.cookies
 mundodeportivo.com###cookies-policy-mssg
+myaccount.creation.co.uk###cookie-law
 myspace.com##.eucookie
 n-mobile.net###infobox3
 narod.hr###fancybox-overlay
