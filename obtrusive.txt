@@ -339,6 +339,7 @@ ign.com###policyNotice
 ikea.com###cookieMsgBlock
 imedeen.fr###cookiepolicyContainer
 ina.fr##.cookies-bar
+index.hr###cookiesdirective
 indiegogo.com###fancybox-overlay
 indiegogo.com###fancybox-wrap
 informahealthcare.com##.overlay
