@@ -26,6 +26,7 @@ aide-joomla.com###ca_banner
 airvpn.org##div[style*='width:800px']
 akademiskforlagbusiness.dk###cookieWarning
 alinea.dk###cookieWarning
+alinea.fr##.cookies-notice-msg
 allegro.pl##.cookie-policy-banner
 allocine.fr##.alert
 allrecipes.co.uk###cookiePopupContainer
@@ -334,6 +335,7 @@ ideone.com###cookie-ue
 idpc.net###cookie-warning
 igen.fr###sliding-popup
 ign.com###policyNotice
+ikea.com###cookieMsgBlock
 imedeen.fr###cookiepolicyContainer
 ina.fr##.cookies-bar
 indiegogo.com###fancybox-overlay
