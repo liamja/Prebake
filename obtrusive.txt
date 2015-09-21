@@ -10,6 +10,7 @@
 ! or via e-mail (cookies@prebake.eu).
 !
 !--- Site-Specific Selectors
+@@||lecole-ldlc.com/wp-content/plugins/cookie-law-info/js/cookielawinfo.js?
 01net.com###conteneurCookies
 20minutes.fr###cnil-notice
 3vprepaid.com###cookie-container
