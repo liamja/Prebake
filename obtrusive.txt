@@ -412,6 +412,8 @@ linkedin.com###notice-cookie-policy
 lonelyplanet.com##.row--cookie-compliance
 lufbra.net##.cwcookielaw
 ma-reduc.com###about-cookies
+macbidouille.com###okookie-box
+macg.co###sliding-popup
 magicmaman.com##.cookieNotification
 marca.com###privacyPolicyLayerN
 masterofmalt.com###cookiePopup
