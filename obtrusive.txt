@@ -225,6 +225,7 @@ dutchnews.nl##.cookiepolicy
 e4.com###cookieNotification
 e4.com###gn-cookie-accept
 eadt.co.uk###cookielaw2
+ebay.de##.gh-banner-active
 ebuyer.com###cookieContainer
 economist.com###ec-cookie-messages-container
 edbpriser.dk##.content
