@@ -606,7 +606,7 @@ themeflood.com###gatewayBarFillstacks_in_5416_page4
 theodi.org###cookie-notification
 thesun.co.uk###sun-cookieMessage
 thesundaytimes.co.uk###tto-cookieMessage
-three.co.uk###cookie-message
+three.co.uk###rwd-cookie-message
 tiscali.it##.bannerInformativaEU
 toluna.com###cookiesWarningBanner
 tomshw.it###cookies-privacy
