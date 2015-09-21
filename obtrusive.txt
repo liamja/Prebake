@@ -640,6 +640,7 @@ uktv.co.uk###cookies-panel
 unblog.fr###unblcn
 ungdomskort.dk###eksCookiePrompt
 unity3d.com##.cookie-dialog
+usine-digitale.fr###jQAlertAcceptCookie
 version2.dk##.cookie-accept-overlay
 vertele.com###cookiesPopup
 veuve-clicquot.com##.agegate-cookie
