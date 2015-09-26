@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 26 September 2015 11:30 UTC
+! Last modified: 26 September 2015 11:41 UTC
 ! Expires: 7 days (update frequency)
 ! Homepage: http://prebake.eu
 ! License: https://raw.github.com/liamja/Prebake/master/README.md
@@ -368,6 +368,7 @@ jyllands-posten.dk##.acceptCookiesBox
 k-citymarket.fi##.Pbox-sm
 k-market.fi##.Pbox-sm
 kalleanka.se##.alert
+karriere.fresenius.de##.cookie_message_inner
 keil.com##.modouter
 ketnet.be###cookie-bar-wrapper
 kingston.ac.uk###site-wide-cookie-message
@@ -588,9 +589,9 @@ svtflow.se###svtCookieInformationContainer
 svtplay.se###svtCookieInformationContainer
 symington.com###cookielaw
 t-mobile.co.uk##.cookies-message-container
-t-mobile.nl###exposeMask
-t-mobile.nl###exposeMask
 t-mobile.nl###TMobile_nl_WebPortals_UI_PageComponents_CookieSettingsOverlay_CookieSettingsOverlayController_OverlayRootDiv
+t-mobile.nl###exposeMask
+t-mobile.nl###exposeMask
 tandfonline.com##.b-body
 tandfonline.com##.b-header
 tbicardiffairport.com###cookielightbox
@@ -673,8 +674,10 @@ wizzair.com###cookiePolicyNotification
 wizzo.es##.avisoCookie
 wm.pl##div[id="cookieinfo"]
 wolframalpha.com###EUCookie
+www.chefkoch.de###ck-cookie-statement
 www.sweclockers.com###adblockBanner
 www.sweclockers.com###siteHeader > .banner
+wwwapps.ups.com###cookieMsg
 xataka.com##.cookies-overlay
 xatakamovil.com##.cookies-overlay
 yachtpaint.com##.cookiesPro
@@ -870,9 +873,6 @@ walkit.com###cookie-notice
 which.co.uk###eprivacy-outer
 wizaz.pl###cookiesdirective
 wrzucacz.pl##P[class="info"]
-www.chefkoch.de###ck-cookie-statement
-karriere.fresenius.de##.cookie_message_inner
-wwwapps.ups.com###cookieMsg
 www.1and1.co.uk###cookies-info
 www.bigsocietycapital.com###cccwr
 www.bing.com###thp_notf_div
