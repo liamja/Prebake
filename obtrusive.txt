@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 26 September 2015 14:44 UTC
+! Last modified: 26 September 2015 15:11 UTC
 ! Expires: 7 days (update frequency)
 ! Homepage: http://prebake.eu
 ! License: https://raw.github.com/liamja/Prebake/master/README.md
@@ -254,6 +254,7 @@ elpais.com###capaAvisoPoliticaCookies_superior_mensajes
 emmezeta.hr###cw-cookieInfo
 empireonline.com###bauerCookiePolicy
 emu.dk###cccwr
+endlessgeek.com###catapult-cookie-bar
 eniro.se##.cookies-info-static
 ennaranja.com##.cookies-overlay
 epson.fr##.epson_cookienotice
@@ -563,6 +564,7 @@ seoconsult.com###cookieBar
 severntrent.com###cookiePrompt
 sgs.com##.sgsCookies
 shell.fr###cookie_info
+shop.pattheduck.com###FISLCC
 silicon.fr###cookie_policy
 simyo.es##.cookieAsker
 sky.com###skycom-cookie-wrapper
@@ -570,6 +572,7 @@ skynet.be###messageCookie
 slate.fr##.footer_cnil
 slobodnadalmacija.hr###cookie_box
 sn.dk###cookieInfo
+snwh.org###cookie-bar
 soundcloud.com##.announcement
 soundonsound.com###cccwr
 sport.es###msg-cookie
@@ -675,9 +678,25 @@ wizzair.com###cookiePolicyNotification
 wizzo.es##.avisoCookie
 wm.pl##div[id="cookieinfo"]
 wolframalpha.com###EUCookie
+www.amazon.co.uk###rightcol.amabot_right > div[style="text-align:center;"]
+www.athenagames.co.uk###cookieNotice
+www.beachbody.co.uk###cookiePolicyContainer
 www.chefkoch.de###ck-cookie-statement
+www.disneystore.co.uk##.dismissable-cookie-policy
+www.ebuyer.com##.cookie-monster.js-cookie-monster.cookie-monster-show
+www.esa.int###cookie_loc
+www.etsy.com##.eu-cookie-nag
+www.netflix.com###cookie-disclosure
+www.newcastle.co.uk###CookieInfo
+www.qwertee.com##.cc-cookies
+www.royalmail.com###block-cookie_policy-0
+www.salesforce.com###privacy-bar-bottom-container
+www.santander.co.uk###_W034_Cookie_Directive_WAR_W034_Cookie_Directiveportlet_contenedor01
+www.share.com###ui-cookie-policy
 www.sweclockers.com###adblockBanner
 www.sweclockers.com###siteHeader > .banner
+www.virginmedia.com##.cookie-banner
+www.youtube.com###ticker.yt-alert.yt-alert-actionable.yt-alert-info.cookie-alert
 wwwapps.ups.com###cookieMsg
 xataka.com##.cookies-overlay
 xatakamovil.com##.cookies-overlay
