@@ -870,6 +870,9 @@ walkit.com###cookie-notice
 which.co.uk###eprivacy-outer
 wizaz.pl###cookiesdirective
 wrzucacz.pl##P[class="info"]
+www.chefkoch.de###ck-cookie-statement
+karriere.fresenius.de##.cookie_message_inner
+wwwapps.ups.com###cookieMsg
 www.1and1.co.uk###cookies-info
 www.bigsocietycapital.com###cccwr
 www.bing.com###thp_notf_div
