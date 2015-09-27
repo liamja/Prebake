@@ -26,8 +26,8 @@ screwed up with a CSS selector. In any case, feel free to point out
 bugs or request new sites to be added via the [GitHub issue tracker](https://github.com/liamja/Prebake/issues),
 or [submit a pull request](https://github.com/liamja/Prebake/compare).
 
-Run update.rb or move to `.git/hooks/pre-commit` to update the
-'last modified' time stamp when committing.
+When adding a new filter, keep the list sorted and
+update the `last modified` timestamp to matche the current date.
 
 User Agreement
 --------------
