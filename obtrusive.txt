@@ -329,6 +329,7 @@ ghacks.net###cccwr
 gigaom.com##.privacy-policy
 gizmodo.co.uk##.future-cookie-bar
 glotosleep.fr###cookieWarning
+golem.de###golem-cookie-accept
 google.dk###epbar
 google.dk##.fbar
 gosc.pl##div[style^="border: 10px solid rgb(138, 138, 138);"]
