@@ -65,6 +65,7 @@ area-codes.org.uk###wsjconsent
 argenta.be###cookie-policy
 arla.dk###Container
 arla.no###Container
+arte.tv###arte-cookie-banner
 as.com##.contenidoAvisoPoliticaCookies
 asda.com###FT_Cookies
 askmen.com###policyNotice
