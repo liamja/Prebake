@@ -33,6 +33,7 @@
 !
 !--- Site-Specific Selectors
 @@||lecole-ldlc.com/wp-content/plugins/cookie-law-info/js/cookielawinfo.js?
+##.cc_banner-wrapper
 01net.com###conteneurCookies
 20minutes.fr###cnil-notice
 3vprepaid.com###cookie-container
@@ -55,7 +56,6 @@ allegro.pl##.cookie-policy-banner
 allocine.fr##.info-cookie
 allrecipes.co.uk###cookiePopupContainer
 allthingsd.com###cookie_notice
-alternativeto.net##.cc_banner-wrapper
 altfordamerne.dk##.content
 amisdukmzero.com###ca_banner
 anglianwater.co.uk###ctl00_pnlCookie
@@ -958,7 +958,6 @@ www.livescore.com##div[data-id=infobar]
 www.lmax.com###cookieDisclaimer
 www.mediaset.es###cookie_panel
 www.misco.co.uk##.CookieDirectiveHeight
-www.moddb.com##.cc_banner-wrapper
 www.netia.pl##DIV[id="cookie_div"]
 www.networkrail.co.uk##.CookieNotification
 www.nhsbt.nhs.uk###cookie-warning
