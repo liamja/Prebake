@@ -27,7 +27,7 @@ bugs or request new sites to be added via the [GitHub issue tracker](https://git
 or [submit a pull request](https://github.com/liamja/Prebake/compare).
 
 When adding a new filter, keep the list sorted and
-update the `last modified` timestamp to matche the current date.
+update the `last modified` timestamp to match the current date.
 
 User Agreement
 --------------
