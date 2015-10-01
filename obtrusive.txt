@@ -236,6 +236,7 @@ diabetes.org.uk###policyPopup
 diariodesevilla.es###cookiesPopup
 digitalspy.co.uk###cookie-policy
 directoalpaladar.com##.cookies-overlay
+distrowatch.com##.cc_banner.cc_container.cc_container--open
 dmi.dk##.content
 dnevnik.hr###cookieMon
 dobreprogramy.pl###cookiesPanel
