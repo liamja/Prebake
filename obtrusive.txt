@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 30 September 2015 18:23 UTC
+! Last modified: 1 October 2015 16:13 UTC
 ! Expires: 7 days
 ! Homepage: http://prebake.eu
 ! License: https://raw.github.com/liamja/Prebake/master/README.md
@@ -59,6 +59,7 @@ allthingsd.com###cookie_notice
 altfordamerne.dk##.content
 amisdukmzero.com###ca_banner
 anglianwater.co.uk###ctl00_pnlCookie
+appszoom.com##.js-toast-cookies
 archant.co.uk###cookielaw
 archos.com###cookiesdirective
 area-codes.org.uk###wsjconsent
@@ -88,6 +89,7 @@ bbcgoodfood.com##.cookie-law
 beatsbydre.com###brand_drawer
 beatsbydre.com##.brand_drawer
 bedetheque.com##.cookie_message
+beesting.fi###eu_cookei
 belgianrail.be###cookieWarning
 ben.nl##.cookieAccept
 betfair.com##.footer-cookies-policy
@@ -267,6 +269,7 @@ egmontpublishing.se##.cookie-wrapper
 ekupi.hr###ctl00_cookieDiv
 elasticsearch.org###cookie
 eldiario.es###headerCookiesAdvice
+eldos.com##.cookie_warning
 electrodepot.fr###cookie_banner
 electrolux.fr##.cookie-message
 elgiganten.dk###cookieinfobox
@@ -296,6 +299,7 @@ examiner.co.uk###cookieNotification
 expansion.com###privacyPolicyLayerN
 expert.no###cookie-notification
 express.co.uk###cookielaw
+facebook.com##.pam.fbPageBanner._3d9x.uiBoxGray.bottomborder
 fantasyfootballscout.co.uk###cookie-bar
 fasthosts.co.uk###cookie
 fatbeehive.com##div[style^="background-color: #000;"]
@@ -306,6 +310,7 @@ filmaffinity.com###info-cookie
 filmstriben.dk###cookie-notice
 fitnessworld.dk###cookieContainer
 focusrite.com###sliding-popup
+folkuniversitetet.se##.alert
 formula1.com###cookie-notification-wrapper
 fragbite.se##.cookieBar
 france5.fr###cookie-cnil-box
@@ -366,6 +371,7 @@ ico.org.uk###banner
 ideone.com###cookie-ue
 idpc.net###cookie-warning
 igen.fr###sliding-popup
+igdb.com###eu-cookie-notifier
 ign.com###policyNotice
 ikea.com###cookieMsgBlock
 imedeen.fr###cookiepolicyContainer
@@ -387,6 +393,7 @@ iwf.org.uk###cookie-bar
 jeuxvideo.com###cookies_notifier
 jman.tv###ActionBar
 johnlewis.com###opnotification
+jotti.org##.alert-info
 journaldunet.com##.ccmcss_oic
 juce.com###sliding-popup
 jules.com###cookies
@@ -535,6 +542,7 @@ perforce.com##ul.optanon-menu.optanon-menu-allow
 picturehouses.co.uk###cookie_message
 pirateparty.org.uk###confirmCookiePolicy
 piret.be##.divCookiePopUpContainer
+pizza-online.fi###cookie_policy_container
 play.google.com##.app-translation-bar
 play.spotify.com###cookie-compliance
 polisen.se##.cookie
@@ -693,6 +701,7 @@ vpspecialists.co.uk###CookieConsentDiv
 wagamama.com##.cookie-box
 wagner.dk###cookieWarning
 wattsindustries.com###header1_overlay2
+web.skype.com##.notification.info
 website-down.com###cookiebar
 weebs.dk###cookie_wrapper
 which.co.uk###eprivacy-holder
