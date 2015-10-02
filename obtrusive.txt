@@ -607,6 +607,7 @@ slate.fr##.footer_cnil
 slobodnadalmacija.hr###cookie_box
 sn.dk###cookieInfo
 snwh.org###cookie-bar
+softpedia.com##.jobnotice_cnt
 soundcloud.com##.announcement
 soundonsound.com###cccwr
 sport.es###msg-cookie
@@ -628,7 +629,6 @@ svtplay.se###svtCookieInformationContainer
 symington.com###cookielaw
 t-mobile.co.uk##.cookies-message-container
 t-mobile.nl###TMobile_nl_WebPortals_UI_PageComponents_CookieSettingsOverlay_CookieSettingsOverlayController_OverlayRootDiv
-t-mobile.nl###exposeMask
 t-mobile.nl###exposeMask
 tandfonline.com##.b-body
 tandfonline.com##.b-header
