@@ -592,6 +592,7 @@ rumid.dk##div[style^="bottom: 0px; height: 1px; left: 0px;"]
 samsung.com##.cookie_notice
 santander.co.uk###cookiebannerAH
 savi-france.fr###notifybar
+sbab.se###cookie
 scarlet.be###cookiePolicy
 schwarzkopf.co.uk##div.cookiedisclaimer
 schwarzkopf.de##div.cookiedisclaimer
