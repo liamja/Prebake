@@ -78,6 +78,7 @@ atman.pl##.polityka-cookie
 audion.com###cc-cookie
 auto-ici.fr###close_cnil
 automotorsport.se##.alert
+avanza.se##.avanzabank_cookie_message.cookieMessage
 b.dk###cookieInformerBooklet
 baesystems.com###cookie-bar
 banknordik.dk###cookieWarningDiv
