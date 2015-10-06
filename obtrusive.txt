@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 01 October 2015 20:36 UTC
+! Last modified: 06 October 2015 14:53 UTC
 ! Expires: 7 days
 ! Homepage: http://prebake.eu
 ! License: https://raw.github.com/liamja/Prebake/master/README.md
@@ -217,6 +217,7 @@ cofunds.co.uk###idrMasthead > .idrPageRow[style*='z-index:1']
 coinc.es###divCookie
 comixology.fr###cookieAcknowledgement
 commentcamarche.net##.ccmcss_oic
+communauto.com##.cookies
 computerworld.dk##.cookieAccept
 comuniazo.com##.cookies
 concertolive.co.uk##.divCookieWarning
@@ -655,6 +656,7 @@ theodi.org###cookie-notification
 thesun.co.uk###sun-cookieMessage
 thesundaytimes.co.uk###tto-cookieMessage
 three.co.uk###rwd-cookie-message
+timefy.com###nq_cnilbanner
 tiscali.it##.bannerInformativaEU
 toluna.com###cookiesWarningBanner
 tomshw.it###cookies-privacy
