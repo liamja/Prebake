@@ -355,6 +355,7 @@ more4.com###gn-cookie-accept
 motogp.com##.cookies
 myspace.com##.eucookie
 n-mobile.net###infobox3
+nationen.no##.cookie-message
 nationwide.co.uk###cn
 natwest.com###EUDirectiveCookiePanel
 nectar.com###cc-notification
