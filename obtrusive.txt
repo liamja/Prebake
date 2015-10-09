@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 06 October 2015 19:39 UTC
+! Last modified: 09 October 2015 19:43 UTC
 ! Expires: 7 days
 ! Homepage: http://prebake.eu
 ! License: https://raw.github.com/liamja/Prebake/master/README.md
@@ -66,6 +66,7 @@ area-codes.org.uk###wsjconsent
 argenta.be###cookie-policy
 arla.dk###Container
 arla.no###Container
+arm.com###cookiemodule
 arte.tv###arte-cookie-banner
 as.com##.contenidoAvisoPoliticaCookies
 asda.com###FT_Cookies
@@ -297,6 +298,7 @@ eudict.com##.cookieNotice
 eurodns.com###cookies-bar
 eurogamer.net###cookie-bar
 euroman.dk##.content
+euronews.com###cookie_banner
 eurowoman.dk##.content
 eveningnews24.co.uk###cookielaw
 examiner.co.uk###cookieNotification
@@ -347,9 +349,11 @@ gov.uk###global-cookie-message
 gov.uk##.js-cookies-banner
 gp.se###gpsecCookieInformationContainer
 gqmagazine.fr###cookies-message-main
+grahlighting.eu##.cc-cookies
 greatbritishlife.co.uk###cookielaw
 greenpeace.nl##.cookiebar
 greenpeace.org##.cookie-alert
+grosbill.com###cnil_bar
 groupalia.com##.wrapperCookies
 groupe-logos.com##div[style*='z-index: 1000;']
 guardian.co.uk##.identity-noticebar-content
@@ -363,6 +367,7 @@ heltnormalt.dk##.banner-container
 here.com##.notification_box.ng-isolate-scope.cookie
 herts.ac.uk###cookieBar
 hifipriser.dk###cookieInformerBooklet
+horoscope.fr###useCookiesCont
 hotelgranvia.com###lc_cookies-main
 hotelmagicmassana.com###cookieMessageWrapper
 hp.com###cookie_privacy_holder
@@ -438,6 +443,7 @@ leconomic.cat###avis-cookies
 lefigaro.fr##.cookieBarContainer
 lemonde.fr###alerte_tracking
 lemondeinformatique.fr###infos_cookie
+leparisien.fr###topCookie
 lepoint.fr###footer-cookies
 lequipe.fr###cookiesLequipe
 leroymerlin.fr##.nav-infos-wrapper
@@ -500,6 +506,7 @@ netanttila.com###cookie-warn
 netapp.com###cboxOverlay
 netapp.com###colorbox
 netonnet.se##.acceptCookies
+nettiauto.com###cookie_msg
 nettimarkkina.com###cookie_msg
 newscientist.com###rbiCookiePolicy_pushDownBoxWrapper
 newstatesman.com###cookiesdirective
@@ -527,6 +534,7 @@ openclassrooms.com##.disclaimer.disclaimer--info.js-cookie-disclaimer
 opendatacommons.org###catapult-cookie-bar
 orange.co.uk###cookieBannerD
 originalpenguin.co.uk###epd
+ouest-france.fr###disclaimerCookies
 out-law.com###cookie
 over-blog.fr###cookies_notifier
 parcelmotel.com###cookiemonster
@@ -577,6 +585,7 @@ ret-raad.dk###cookiebanner
 rex.kb.dk##.content
 rexfeatures.com###site-we-use-cookies
 rexusa.com###site-we-use-cookies
+rfi.fr##.cookies_bar
 richersounds.com###headerCookieLaw
 rightmove.co.uk###cookiemodalbar
 road.cc###sliding-popup
@@ -743,6 +752,7 @@ wwwapps.ups.com###cookieMsg
 xataka.com##.cookies-overlay
 xatakamovil.com##.cookies-overlay
 yachtpaint.com##.cookiesPro
+yahoo.com###yucs-eprivacy
 yamaha-motor.eu###cookieMessage
 yatescycles.co.uk###cookiesdirective
 yell.com###cookie-overlay
