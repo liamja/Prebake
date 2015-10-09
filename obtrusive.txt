@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 06 October 2015 10:02 UTC
+! Last modified: 06 October 2015 19:39 UTC
 ! Expires: 7 days
 ! Homepage: http://prebake.eu
 ! License: https://raw.github.com/liamja/Prebake/master/README.md
@@ -78,6 +78,7 @@ atman.pl##.polityka-cookie
 audion.com###cc-cookie
 auto-ici.fr###close_cnil
 automotorsport.se##.alert
+avanza.se##.avanzabank_cookie_message.cookieMessage
 b.dk###cookieInformerBooklet
 baesystems.com###cookie-bar
 banknordik.dk###cookieWarningDiv
@@ -217,6 +218,7 @@ cofunds.co.uk###idrMasthead > .idrPageRow[style*='z-index:1']
 coinc.es###divCookie
 comixology.fr###cookieAcknowledgement
 commentcamarche.net##.ccmcss_oic
+communauto.com##.cookies
 computerworld.dk##.cookieAccept
 comuniazo.com##.cookies
 concertolive.co.uk##.divCookieWarning
@@ -499,6 +501,7 @@ netanttila.com###cookie-warn
 netapp.com###cboxOverlay
 netapp.com###colorbox
 netonnet.se##.acceptCookies
+nettimarkkina.com###cookie_msg
 newscientist.com###rbiCookiePolicy_pushDownBoxWrapper
 newstatesman.com###cookiesdirective
 nfbio.dk###the-cookie
@@ -594,6 +597,7 @@ rumid.dk##div[style^="bottom: 0px; height: 1px; left: 0px;"]
 samsung.com##.cookie_notice
 santander.co.uk###cookiebannerAH
 savi-france.fr###notifybar
+sbab.se###cookie
 scarlet.be###cookiePolicy
 schwarzkopf.co.uk##div.cookiedisclaimer
 schwarzkopf.de##div.cookiedisclaimer
@@ -657,6 +661,7 @@ theodi.org###cookie-notification
 thesun.co.uk###sun-cookieMessage
 thesundaytimes.co.uk###tto-cookieMessage
 three.co.uk###rwd-cookie-message
+timefy.com###nq_cnilbanner
 tiscali.it##.bannerInformativaEU
 toluna.com###cookiesWarningBanner
 tomshw.it###cookies-privacy
