@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 09 October 2015 19:43 UTC
+! Last modified: 09 October 2015 20:04 UTC
 ! Expires: 7 days
 ! Homepage: http://prebake.eu
 ! License: https://raw.github.com/liamja/Prebake/master/README.md
@@ -193,7 +193,7 @@ cartoonito.co.uk###sliding-popup
 cartoonnetwork.co.uk###sliding-popup
 cartoonnetwork.es###sliding-popup
 cartoonnetwork.fr###sliding-popup
-castrol.com##.page-container > .nv-global-header > .nv-header-content-wrapper > .nv-notification-header > .nv-cookie-notification
+castrol.com##.nv-cookie-notification
 cc.au.dk###au_cookiesalert
 cdon.dk###cookie-information
 cdon.eu###cookie-information
@@ -729,7 +729,6 @@ wizzair.com###cookiePolicyNotification
 wizzo.es##.avisoCookie
 wm.pl##div[id="cookieinfo"]
 wolframalpha.com###EUCookie
-www.amazon.co.uk###rightcol.amabot_right > div[style="text-align:center;"]
 www.athenagames.co.uk###cookieNotice
 www.beachbody.co.uk###cookiePolicyContainer
 www.chefkoch.de###ck-cookie-statement
@@ -758,7 +757,7 @@ yatescycles.co.uk###cookiesdirective
 yell.com###cookie-overlay
 yell.com##.cookie-notification
 zdnet.com###cookiePolicy
-zumba.com##.left.off-canvas-wrap > .ng-isolate-scope.inner-wrap > .privacy-policy
+zumba.com##.privacy-policy
 ||assets.futurecdn.net/js/fp_cookie.js$script
 ||assets.futurecdn.net/js/fp_cookie.min.js$script
 ||consent.truste.com
@@ -846,6 +845,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###cookiesPop
 ###cookiestatement
 ###cookiewarning
+###desktop-cookie-disclosure
 ###politicaCookies
 ###warning_cookie
 ##.alertCookie
