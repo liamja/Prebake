@@ -722,6 +722,7 @@ website-down.com###cookiebar
 weebs.dk###cookie_wrapper
 which.co.uk###eprivacy-holder
 whtimes.co.uk###cookielaw
+wikia.com##.banner-notification.notify
 wikomobile.com##.pop_cookies
 wimp.dk##.cookie-warn
 witlr.com###cookiewarning
