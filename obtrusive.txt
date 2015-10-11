@@ -727,7 +727,7 @@ wimp.dk##.cookie-warn
 witlr.com###cookiewarning
 wizzair.com###cookiePolicyNotification
 wizzo.es##.avisoCookie
-wm.pl##div[id="cookieinfo"]
+wm.pl###cookieinfo
 wolframalpha.com###EUCookie
 www.athenagames.co.uk###cookieNotice
 www.beachbody.co.uk###cookiePolicyContainer
@@ -978,14 +978,14 @@ www.humansinvent.com/*/eu_rp_cookie.js$script
 www.icabanken.se###cookieAgreementContent
 www.ico.gov.uk###banner
 www.ing.com###cookie_info
-www.joomla.pl##DIV[id="panel_cookie_dol"]
+www.joomla.pl###panel_cookie_dol
 www.jrf.org.uk###cookieconsent
 www.larousse.fr##.panel-cookies
 www.livescore.com##div[data-id=infobar]
 www.lmax.com###cookieDisclaimer
 www.mediaset.es###cookie_panel
 www.misco.co.uk##.CookieDirectiveHeight
-www.netia.pl##DIV[id="cookie_div"]
+www.netia.pl###cookie_div
 www.networkrail.co.uk##.CookieNotification
 www.nhsbt.nhs.uk###cookie-warning
 www.njuskalo.hr###CookiePolicy
@@ -998,8 +998,8 @@ www.ombudsman-services.org##.cookiebar
 www.orange.co.uk##.cookieBanner
 www.orange.co.uk##.cookieStandard
 www.out-law.com###cookies-panel
-www.pb.pl##DIV[id="cookies-agreement-box"]
-www.play.pl##DIV[id="cookies"]
+www.pb.pl###cookies-agreement-box
+www.play.pl###cookies
 www.poslovni.hr###cookie_container
 www.postoffice.co.uk###cookiereports-badge
 www.rail-reg.gov.uk###CookieQBanner
@@ -1010,7 +1010,7 @@ www.suttonguardian.co.uk###cookiewarning
 www.t-mobile.co.uk###cookiesMessage
 www.taylorwessing.com###twCookieConsent
 www.tddirectinvesting.co.uk###cookieWindowContainer
-www.telepolis.pl##DIV[id="div-cookie-komunikat"][class="komunikat cookies"]
+www.telepolis.pl###div-cookie-komunikat
 www.tfa.net##cccwr
 www.theepinal.co.uk##.pea_cook_wrapper
 www.theviewfromtheshard.com###cookie_alert
