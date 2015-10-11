@@ -366,6 +366,7 @@ heltnormalt.dk##.banner
 heltnormalt.dk##.banner-container
 here.com##.notification_box.ng-isolate-scope.cookie
 herts.ac.uk###cookieBar
+hifiklubben.no###cookieinfo.cookieInfoWrapper
 hifipriser.dk###cookieInformerBooklet
 horoscope.fr###useCookiesCont
 hotelgranvia.com###lc_cookies-main
@@ -497,6 +498,7 @@ myspace.com##.eucookie
 n-mobile.net###infobox3
 narod.hr###fancybox-overlay
 narod.hr###fancybox-wrap
+nationen.no##.cookie-message
 nationwide.co.uk###cn
 natwest.com###EUDirectiveCookiePanel
 nectar.com###cc-notification
@@ -591,6 +593,7 @@ rightmove.co.uk###cookiemodalbar
 road.cc###sliding-popup
 rockpapershotgun.com###ecd_opt_in_banner
 rocmondriaan.nl##.cookie-popup
+rollingstone.com###euNotice
 rotring.com###cookienotify
 royalmail.com###block-cookie_policy-0
 royalnavy.mod.uk###cookies-notice
