@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 09 October 2015 20:04 UTC
+! Last modified: 12 October 2015 00:12 UTC
 ! Expires: 7 days
 ! Homepage: http://prebake.eu
 ! License: https://raw.github.com/liamja/Prebake/master/README.md
@@ -366,8 +366,11 @@ heltnormalt.dk##.banner
 heltnormalt.dk##.banner-container
 here.com##.notification_box.ng-isolate-scope.cookie
 herts.ac.uk###cookieBar
-hifiklubben.no###cookieinfo.cookieInfoWrapper
+hifiklubben.dk###cookieinfo
+hifiklubben.no###cookieinfo
+hifiklubben.se###cookieinfo
 hifipriser.dk###cookieInformerBooklet
+hintaseuranta.fi###cookies-info-banner
 horoscope.fr###useCookiesCont
 hotelgranvia.com###lc_cookies-main
 hotelmagicmassana.com###cookieMessageWrapper
@@ -601,6 +604,7 @@ royalnavy.mod.uk###cookies-notice
 rs-online.com##.cookieMessageDiv
 rsagroup.com###cookies
 rspb.org.uk###cookie-message
+rte.ie###cookie-policy-strap
 rtve.es###rtveCookiePolicy
 rtvslo.si###size-window-cookie
 rubbermaid.eu##.cookie-popup
