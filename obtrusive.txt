@@ -539,6 +539,7 @@ originalpenguin.co.uk###epd
 ouest-france.fr###disclaimerCookies
 out-law.com###cookie
 over-blog.fr###cookies_notifier
+oyster.tfl.gov.uk###cookie-policy-notice
 parcelmotel.com###cookiemonster
 parkinn.co.uk##.cookieControl
 parkinn.com##.cookieControl
