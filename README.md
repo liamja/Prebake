@@ -28,6 +28,7 @@ or [submit a pull request](https://github.com/liamja/Prebake/compare).
 
 When adding a new filter, keep the list sorted and
 update the `last modified` timestamp to match the current date.
+Please also make sure you don't introduce duplicate rules: [Redundancy check for Adblock Plus rules](https://arestwo.org/famlam/redundantRuleChecker.html)
 
 User Agreement
 --------------
