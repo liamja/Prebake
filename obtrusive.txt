@@ -411,6 +411,7 @@ wikia.com##.banner-notification.notify
 wikomobile.com##.pop_cookies
 wimp.dk##.cookie-warn
 wizzo.es##.avisoCookie
+www.airbusgroup.com##.cookiebox
 www.athenagames.co.uk###cookieNotice
 www.chefkoch.de###ck-cookie-statement
 www.disneystore.co.uk##.dismissable-cookie-policy
