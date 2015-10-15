@@ -418,6 +418,7 @@ www.disneystore.co.uk##.dismissable-cookie-policy
 www.ebuyer.com##.cookie-monster.js-cookie-monster.cookie-monster-show
 www.esa.int###cookie_loc
 www.netflix.com###cookie-disclosure
+www.profil.at###cookieModal
 www.salesforce.com###privacy-bar-bottom-container
 www.santander.co.uk###_W034_Cookie_Directive_WAR_W034_Cookie_Directiveportlet_contenedor01
 www.share.com###ui-cookie-policy
