@@ -451,6 +451,8 @@ zumba.com##.privacy-policy
 ||wkd.com.pl/cookies/cookies.js$script
 !
 !--- Global Filters / Scripts & Libraries
+!-- cookieok.eu
+||cookieok.eu/bar/js/cookieok.js$script
 !-- https://github.com/Scott-Herbert/CookieWarning
 /cookiewarning.js$script
 /cookiewarning2.js$script
