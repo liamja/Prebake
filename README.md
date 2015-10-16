@@ -25,10 +25,13 @@ There are going to be sites that I have missed, or I may have just
 screwed up with a CSS selector. In any case, feel free to point out
 bugs or request new sites to be added via the [GitHub issue tracker](https://github.com/liamja/Prebake/issues),
 or [submit a pull request](https://github.com/liamja/Prebake/compare).
+Please make sure to test the site without any other AdBlock rules or
+content blockers, using the most recent version of the Prebake ruleset
+before reporting bugs.
 
 When adding a new filter, keep the list sorted and
 update the `last modified` timestamp to match the current date.
-Please also make sure you don't introduce duplicate rules: [Redundancy check for Adblock Plus rules](https://arestwo.org/famlam/redundantRuleChecker.html)
+Please also make sure you don't introduce duplicate rules: [Redundancy check for Adblock Plus rules](https://arestwo.org/famlam/redundantRuleChecker.html).
 
 User Agreement
 --------------
