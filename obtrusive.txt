@@ -279,6 +279,7 @@ newscientist.com###rbiCookiePolicy_pushDownBoxWrapper
 nfbio.dk###the-cookie
 nicematin.com##.alert-cookies
 nlyman.com###toast-container
+nosalty.hu###sliding-popup
 nouvelobs.com##div[style*='width:550px;background-color:#feefaa;']
 nrc.nl##.cookiemonster.kleverig
 nu.nl##.container
@@ -331,6 +332,8 @@ rotring.com###cookienotify
 royalnavy.mod.uk###cookies-notice
 rs-online.com##.cookieMessageDiv
 rte.ie###cookie-policy-strap
+rtl.hu##.cookie-container
+rtl.hu##.cookie-container-most
 rtve.es###rtveCookiePolicy
 rtvslo.si###size-window-cookie
 rumid.dk##div[style^="bottom: 0px; height: 1px; left: 0px;"]
@@ -367,6 +370,7 @@ t-mobile.nl###exposeMask
 tandfonline.com##.b-body
 tandfonline.com##.b-header
 tbicardiffairport.com###cookielightbox
+telekom.hu###app-cookie-policy
 telecomitalia.it###gld_cookie_flag
 telenet.be##.cookie-regulation
 tesco.com###cp
