@@ -414,6 +414,7 @@ wizzo.es##.avisoCookie
 www.airbusgroup.com##.cookiebox
 www.athenagames.co.uk###cookieNotice
 www.chefkoch.de###ck-cookie-statement
+www.chronodrive.com###privacyBar
 www.disneystore.co.uk##.dismissable-cookie-policy
 www.ebuyer.com##.cookie-monster.js-cookie-monster.cookie-monster-show
 www.esa.int###cookie_loc
