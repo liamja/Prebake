@@ -267,6 +267,7 @@ mobistar.be###sliding-popup
 moneysavingexpert.com###alertBar
 monitor.si##.cookie-note-content
 monster.co.uk###intMsgCookies
+mpora.com##.c-cookie-policy
 mundodeportivo.com###cookies-policy-mssg
 n-mobile.net###infobox3
 narod.hr###fancybox-overlay
