@@ -46,6 +46,7 @@ allocine.fr##.info-cookie
 allrecipes.co.uk###cookiePopupContainer
 altfordamerne.dk##.content
 anglianwater.co.uk###ctl00_pnlCookie
+answers.microsoft.com###PrivacyBanner
 appszoom.com##.js-toast-cookies
 area-codes.org.uk###wsjconsent
 arla.dk###Container
@@ -115,6 +116,7 @@ dawsonera.com##.cc-cookies-container
 degulesider.dk##.cookies-info
 devianne.com###avertissement_cookies
 diabetes.org.uk###policyPopup
+distrowatch.com##.cc_banner.cc_container.cc_container--open
 dmi.dk##.content
 dnevnik.hr###cookieMon
 dobreprogramy.pl###cookiesPanel
@@ -259,6 +261,7 @@ mediapart.fr###cnil-sentence
 mediaset.it###cookieAdv
 mercialys.fr##.info-top
 microsoft.com##.euCookie.mscom-alertitem
+microsoft.com###lca-cookie-notification
 ministryofsound.com###ctl00_ctl00_Cookies1_UpdatePanel1
 mobistar.be###sliding-popup
 moneysavingexpert.com###alertBar
@@ -275,6 +278,7 @@ netapp.com###cboxOverlay
 netapp.com###colorbox
 netonnet.se##.acceptCookies
 newscientist.com###rbiCookiePolicy_pushDownBoxWrapper
+nexusmods.com###jquery-cookie-law-script
 nfbio.dk###the-cookie
 nicematin.com##.alert-cookies
 nlyman.com###toast-container
@@ -335,7 +339,6 @@ rtl.hu##.cookie-container
 rtl.hu##.cookie-container-most
 rtve.es###rtveCookiePolicy
 rtvslo.si###size-window-cookie
-rugbyworldcup.com##.cookiesNotification
 rumid.dk##div[style^="bottom: 0px; height: 1px; left: 0px;"]
 samsung.com##.cookie_notice
 santander.co.uk###cookiebannerAH
@@ -406,6 +409,7 @@ videnskab.dk###block-videnskabdk_custom_blocks-cookie_compliance
 videojug.com##.cp-alert-message
 vileda.com###cookienotice-container
 volvotrucks.com###acceptCookie
+wagamama.com##.cookie-box
 wattsindustries.com###header1_overlay2
 web.skype.com##.notification.info
 weebs.dk###cookie_wrapper
@@ -429,7 +433,6 @@ www.share.com###ui-cookie-policy
 www.sosh.fr###s-cookie
 www.sweclockers.com###adblockBanner
 www.sweclockers.com###siteHeader > .banner
-www.umu.se##.umuCookieMain
 wwwapps.ups.com###cookieMsg
 yachtpaint.com##.cookiesPro
 yahoo.com###yucs-eprivacy
@@ -507,14 +510,12 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 !-- CookieCuttr
 !-- Others
 ###AvisoCookieslaw
-###alert-cookie
 ###block-cookie_policy-0
 ###ca_banner
 ###capaAvisoPoliticaCookies_superior_mensajes
 ###cartelcookielegal
 ###catapult-cookie-bar
 ###cccwr
-###confirm_cookie_use
 ###conteneurCookies
 ###coockiechoice
 ###cookie-acceptation-popup
@@ -525,7 +526,6 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###cookie-compliance-bottom
 ###cookie-consent
 ###cookie-consent-bar
-###cookie-icon
 ###cookie-info-bar
 ###cookie-information
 ###cookie-law
@@ -548,7 +548,6 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###cookie_banner_container
 ###cookie_box
 ###cookie_info
-###cookie-law-container
 ###cookie_message
 ###cookie_msg
 ###cookie_notice
@@ -577,12 +576,10 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###CookieInfo
 ###cookieinfobox
 ###cookieInfoBox
-###cookieInfoDiv
 ###cookieInformerBooklet
 ###cookielaw
 ###cookieLaw
 ###cookieMessage
-###cookieMessageContainer
 ###cookieMessageWrapper
 ###cookieNotification
 ###cookiePolicy
@@ -598,17 +595,13 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###cookies_container
 ###cookies_notifier
 ###cookies_policy
-###cookies_warning
 ###cookiesdirective
-###cookiesInfo
 ###cookiesPop
 ###cookiesPopup
 ###cookiestatement
-###cookietable
 ###cookiesWarning
 ###cookieWarning
 ###cookiewarning
-###ctl00_Cookies_CookieContainer
 ###cw-cookieInfo
 ###desktop-cookie-disclosure
 ###e-privacy-message
@@ -624,30 +617,20 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###euCookieBar
 ###EUDirectiveCookiePanel
 ###gn-cookie-accept
-###layer_cookie
-###pnlCookieBanner
-###pnlCookieWarning
 ###politicaCookies
 ###privacyPolicyLayerN
 ###site-we-use-cookies
 ###svtCookieInformationContainer
-###uecookies
 ###usrConsent
 ###warning_cookie
 ###widget-vrtcookiebalk
-###ww-cookie-information
-##.accept-cookies
 ##.alertCookie
-##.cc_container
 ##.cc-cookies
 ##.contenidoAvisoPoliticaCookies
 ##.cookie-accept-overlay
 ##.cookie-banner
-##.cookie_bar
 ##.cookie-block
 ##.cookie-message
-##.cookie-box
-##.cookielaw
 ##.cookie-policy
 ##.cookie-policy-banner
 ##.cookie-policy-notice
@@ -664,7 +647,6 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ##.cookieControl
 ##.cookieNotification
 ##.CookieNotification
-##.cookie-notice
 ##.cookies-overlay
 ##.eu-cookie-nag
 ##.eu-cookie-notice
@@ -673,7 +655,6 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ##.EUCookiePolicyContainer
 ##.eucookies
 ##.gn-cookie-alert
-##.js-cookie-container
 ! ebay.*
 ##.gh-banner-active>.gh-banner-active
 ! This page breaks in Firefox with any kind of filtering in place
@@ -724,6 +705,7 @@ merlin.pl##.cookies_policy
 orange.pl###cookiesArticle
 otomoto.pl##.om-cookie-agreement
 packtpub.com###cookie-outer-outer
+panoramafirm.pl###cookiesInfo
 policy.cookiereports.com
 rbicookiepolicy-14.js$script
 rbicookiepolicy.js$script
