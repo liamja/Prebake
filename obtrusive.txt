@@ -340,6 +340,7 @@ rtl.hu##.cookie-container-most
 rtve.es###rtveCookiePolicy
 rtvslo.si###size-window-cookie
 rumid.dk##div[style^="bottom: 0px; height: 1px; left: 0px;"]
+ruter.no##div[data-cookie-message]
 samsung.com##.cookie_notice
 santander.co.uk###cookiebannerAH
 savi-france.fr###notifybar
