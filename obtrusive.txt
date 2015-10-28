@@ -324,6 +324,7 @@ qype.co.uk##.js-cookie-info
 radionomy.com###cookieDough
 ransomesjacobsen.com###cookieuseage
 rapidonline.com###Header_SelectSitePopup_DisplaySiteSplitMsgDiv
+redbull.com##.site-message--content
 reed.co.uk##.notification
 rex.kb.dk##.content
 rfi.fr##.cookies_bar
