@@ -676,6 +676,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ##.cookie-notice
 ##.cookies-banner
 ##.cookies-overlay
+##.eu-cookies
 ##.eu-cookie-nag
 ##.eu-cookie-notice
 ##.eucookie
