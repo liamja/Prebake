@@ -486,6 +486,7 @@ s3-eu-west-1.amazonaws.com/fucking-eu-cookies/*$script
 /cookieCompliance.js$script
 !-- Google (Requires "Allow some non-intrusive advertising" to be unchecked.)
 ###epbar
+##.gb_md.gb_gc.gb_g
 ##.gb_tb.gb_wb.gb_Ia
 ##.gb_wb.gb_ib.gb_Ka
 ##.gb_xb.gb_jb.gb_La
