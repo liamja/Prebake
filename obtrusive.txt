@@ -687,8 +687,9 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ##.js-cookie-container
 ! ebay.*
 ##.gh-banner-active>.gh-banner-active
-! This page breaks in Firefox with any kind of filtering in place
+! These pages breaks in Firefox with any kind of filtering in place
 @@||www.phoronix.com^$document
+@@||dave.uktv.co.uk^$document
 !
 !--- block-the-eu-cookie-shit-list
 !--- https://github.com/r4vi/block-the-eu-cookie-shit-list
