@@ -355,6 +355,7 @@ simyo.es##.cookieAsker
 sky.com###skycom-cookie-wrapper
 skynet.be###messageCookie
 slate.fr##.footer_cnil
+soeren-hentzschel.at###storage-notice
 softpedia.com##.jobnotice_cnt
 soundcloud.com##.announcement
 sport.es###msg-cookie
