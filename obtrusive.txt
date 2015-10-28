@@ -392,7 +392,6 @@ tiscali.it##.bannerInformativaEU
 toluna.com###cookiesWarningBanner
 tomshw.it###cookies-privacy
 totalmoney.pl###right_widget
-trustpilot.dk##.cookie-bar
 tvn.pl###msgLayer
 tvn24.pl###msgLayer
 tvn24bis.pl###msgLayer
@@ -650,6 +649,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ##.contenidoAvisoPoliticaCookies
 ##.cookie-accept-overlay
 ##.cookie-banner
+##.cookie-bar
 ##.cookie_bar
 ##.cookie-block
 ##.cookie-message
