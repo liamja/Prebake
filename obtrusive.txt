@@ -601,6 +601,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###cookiePolicyNotification
 ###cookies
 ###cookies-banner
+###cookies-information
 ###cookies-panel
 ###cookies_container
 ###cookies_notifier
