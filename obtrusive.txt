@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 02 November 2015 22:45 UTC
+! Last modified: 02 November 2015 23:42 UTC
 ! Expires: 7 days
 ! Homepage: http://prebake.eu
 ! License: https://raw.github.com/liamja/Prebake/master/README.md
@@ -30,8 +30,10 @@
 ! LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 ! OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 ! SOFTWARE.
-!
-!--- Site-Specific Selectors
+
+
+! Site-Specific Selectors
+
 @@||lecole-ldlc.com/wp-content/plugins/cookie-law-info/js/cookielawinfo.js?
 ##.cc_banner-wrapper
 20minutes.fr###cnil-notice
@@ -462,72 +464,95 @@ zumba.com##.privacy-policy
 ||omgubuntu.co.uk/wp-content/plugins/omg-magnific/magnific.min.js$script
 ||popin.survey-xact.dk/cookies.js$script
 ||wkd.com.pl/cookies/cookies.js$script
-!
-!--- Global Filters / Scripts & Libraries
+
+
+! Global Filters / Scripts & Libraries
+
 /cookie-info.js$script
 /cookienotification.js$script
 /cookies-enabler.min.js$script
 /ti-wp-cookies-js.js$script
-!-- cookieok.eu
+
+! cookieok.eu
 ||cookieok.eu/bar/js/cookieok.js$script
-!-- https://github.com/Scott-Herbert/CookieWarning
+
+! https://github.com/Scott-Herbert/CookieWarning
 /cookiewarning.js$script
 /cookiewarning2.js$script
 /cookiewarning3.js$script
 /cookiewarning4.js$script
-!-- https://github.com/creativeaura/eu-cookie-opt-in
+
+! https://github.com/creativeaura/eu-cookie-opt-in
 /cookie.debug.min.js$script
 /cookie.debug.js$script
-!-- http://www.civicuk.com/cookie-law
+
+! http://www.civicuk.com/cookie-law
 /cookieControl-*.js$script
-!-- http://cookiedrop.co.uk
+
+! http://cookiedrop.co.uk
 ||m1mjd9in5z2.cloudfront.net/widget.js
-!-- http://cookieguard.eu
-!-- http://3doordigital.com/wordpress/plugins/eu-cookie-law
+
+! http://cookieguard.eu
+! http://3doordigital.com/wordpress/plugins/eu-cookie-law
 /wp-content/plugins/eu-cookie-law/*$script
-!-- Hibu Web Design
+
+! Hibu Web Design
 ###cookieWrapper
-!-- http://cookiesv2.publiekeomroep.nl
+
+! http://cookiesv2.publiekeomroep.nl
 ###npo_cc_notification
 ###npo_cc_notification_wrapper
-!-- http://cookieconsent.com/
+
+! http://cookieconsent.com/
 ||cookieconsent.com^$third-party
-!-- Fucking EU cookies script (https://goo.gl/pB2Ayt)
+
+! Fucking EU cookies script (https://goo.gl/pB2Ayt)
 s3-eu-west-1.amazonaws.com/fucking-eu-cookies/*$script
-!--
+
 /cookieCompliance.js$script
-!-- Google (Requires "Allow some non-intrusive advertising" to be unchecked.)
+
+! Google (Requires "Allow some non-intrusive advertising" to be unchecked.)
 ###epbar
 ##.gb_md.gb_gc.gb_g
 ##.gb_tb.gb_wb.gb_Ia
 ##.gb_wb.gb_ib.gb_Ka
 ##.gb_xb.gb_jb.gb_La
 ##.gb_Fb.gb_pb.gb_Ra
-!-- Johnston Press
+
+! Johnston Press
 ###euCookiesQuestion
-!-- De Telegraaf
+
+! De Telegraaf
 tmgonlinemedia.nl/consent/script/consent.js$script
-!-- CookieAssistant.com
+
+! CookieAssistant.com
 ||app.cookieassistant.com/widget$script
-!-- Iubenda Script
+
+! Iubenda Script
 cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###iubenda-cs-banner
-!-- Silktide Script
+
+! Silktide Script
 /assets.cookieconsent.silktide.com/*$script
 /s3.amazonaws.com/cc.silktide.com/*$script
 ###cc-notification > #cc-notification-wrapper
-!-- Zomex Script
+
+! Zomex Script
 /eucookielaw.js$script
 ###eucookie
-!-- cookie-script.com
+
+! cookie-script.com
 ||cookie-script.com/s$script
 ###cookiescript_injected
-!-- 'Cookie Message' WordPress Plugin
-!-- https://wordpress.org/plugins/cookie-message/
+
+! 'Cookie Message' WordPress Plugin
+! https://wordpress.org/plugins/cookie-message/
 ##.cm-message
-!-- Google Blogspot
+
+! Google Blogspot
 *.blogspot.*/js/cookiechoices.js$script
-!-- Others
+
+! Others
 ###AvisoCookieslaw
 ###alert-cookie
 ###block-cookie_policy-0
@@ -711,9 +736,10 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 
 ~uktv.co.uk##.cookie-notice
 
-!--- block-the-eu-cookie-shit-list
-!--- https://github.com/r4vi/block-the-eu-cookie-shit-list
-!
+
+! block-the-eu-cookie-shit-list
+! https://github.com/r4vi/block-the-eu-cookie-shit-list
+
 ###boxZgodaNaCookie
 ###ciasteczka
 ###cookie-info
