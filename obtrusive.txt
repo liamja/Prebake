@@ -408,6 +408,7 @@ twitch.tv##.noty_bar
 tyda.se###accept-cookies-div
 uk.farnell.com###mktg_Cookie_Wrap
 uk.yahoo.com###applet_p_50000174
+uktv.co.uk##span.cookie-notice
 unblog.fr###unblcn
 ungdomskort.dk###eksCookiePrompt
 unity3d.com##.cookie-dialog
@@ -704,10 +705,12 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ##.js-cookie-container
 ! ebay.*
 ##.gh-banner-active>.gh-banner-active
-! These pages breaks in Firefox with any kind of filtering in place
-@@||www.phoronix.com^$document
-@@||dave.uktv.co.uk^$document
-!
+
+
+! Whitelist
+
+~uktv.co.uk##.cookie-notice
+
 !--- block-the-eu-cookie-shit-list
 !--- https://github.com/r4vi/block-the-eu-cookie-shit-list
 !
