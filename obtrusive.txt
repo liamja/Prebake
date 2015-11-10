@@ -366,6 +366,7 @@ shop.pattheduck.com###FISLCC
 simyo.es##.cookieAsker
 sky.com###skycom-cookie-wrapper
 skynet.be###messageCookie
+skyscanner.net###cookie
 slate.fr##.footer_cnil
 soeren-hentzschel.at###storage-notice
 softpedia.com##.jobnotice_cnt
