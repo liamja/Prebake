@@ -583,6 +583,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###cookie-info-bar
 ###cookie-information
 ###cookie-law
+###cookie_law
 ###cookie-law-bar
 ###cookie-law-compliance
 ###cookie-law-consent-section
