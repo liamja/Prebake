@@ -407,6 +407,7 @@ tiscali.it##.bannerInformativaEU
 toluna.com###cookiesWarningBanner
 tomshw.it###cookies-privacy
 totalmoney.pl###right_widget
+trophies-ps3.de###ingameCookie
 tvn.pl###msgLayer
 tvn24.pl###msgLayer
 tvn24bis.pl###msgLayer
