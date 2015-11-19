@@ -267,6 +267,7 @@ mdd.eu##.panel_cookie
 mdx.ac.uk###cookie
 mediapart.fr###cnil-sentence
 mediaset.it###cookieAdv
+meinestadt.de##.ms-cookie-ok
 mercialys.fr##.info-top
 microsoft.com##.euCookie.mscom-alertitem
 microsoft.com###lca-cookie-notification
