@@ -144,6 +144,7 @@ eniro.se##.cookies-info-static
 epson.fr##.epson_cookienotice
 esbe.eu##.header-cookie-content
 espn.co.uk##.cookie-overlay
+etel-tuning.eu###cookieNoticeContent
 eudict.com##.cookieNotice
 eurodns.com###cookies-bar
 euroman.dk##.content
