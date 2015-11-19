@@ -676,6 +676,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###eu_cookies_overlay_content
 ###EUCookie
 ###euCookie
+###euCookieDirective
 ###euCookieBar
 ###EUDirectiveCookiePanel
 ###gn-cookie-accept
