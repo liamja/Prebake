@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 08 November 2015 09:21 UTC
+! Last modified: 13 November 2015 18:53 UTC
 ! Expires: 7 days
 ! Homepage: http://prebake.eu
 ! License: https://raw.github.com/liamja/Prebake/master/README.md
@@ -394,7 +394,6 @@ telenet.be##.cookie-regulation
 terra.es###zaz-nb-plugin-cookie-message
 tesco.com###cp
 tesco.com###tesco_cookie_widget
-theatlantic.com##.cookie-disclaimer
 theguardian.com##.identity-noticebar
 theiet.org###ietCookiePanel
 themeflood.com###gatewayBarFillstacks_in_5416_page4
@@ -416,7 +415,6 @@ twitch.tv##.noty_bar
 tyda.se###accept-cookies-div
 uk.farnell.com###mktg_Cookie_Wrap
 uk.yahoo.com###applet_p_50000174
-uktv.co.uk##span.cookie-notice
 unblog.fr###unblcn
 ungdomskort.dk###eksCookiePrompt
 unity3d.com##.cookie-dialog
@@ -562,6 +560,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ! Others
 ###AvisoCookieslaw
 ###alert-cookie
+###alert_cookie
 ###block-cookie_policy-0
 ###ca_banner
 ###capaAvisoPoliticaCookies_superior_mensajes
@@ -600,6 +599,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###cookie_banner
 ###COOKIE_BANNER
 ###cookie_banner_container
+###cookie_bar_top
 ###cookie_box
 ###cookie_info
 ###cookie-law-container
@@ -612,6 +612,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###cookie_privacy_info_bar
 ###cookie_warning
 ###cookieAcceptPos
+###CookiesAreBeingUsed
 ###cookieBanner
 ###cookiebanner
 ###cookieBar
@@ -694,6 +695,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###widget-vrtcookiebalk
 ###ww-cookie-information
 ##.accept-cookies
+##.acceptCookieDiv
 ##.alertCookie
 ##.cc_container
 ##.cc-cookies
@@ -704,6 +706,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ##.cookie_bar
 ##.cookie-block
 ##.cookie-consent
+##.cookie-disclaimer
 ##.cookie-message
 ##.cookie-box
 ##.cookielaw
@@ -724,8 +727,10 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ##.cookieNotification
 ##.CookieNotification
 ##.cookie-notice
+##.cookies-alert
 ##.cookies-banner
 ##.cookies-overlay
+##.disclaimerContainer
 ##.eu-cookies
 ##.eu-cookie-nag
 ##.eu-cookie-notice
@@ -736,6 +741,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ##.gn-cookie-alert
 ##.js-cookie-consent
 ##.js-cookie-container
+##.site-message--cookies
 ! ebay.*
 ##.gh-banner-active>.gh-banner-active
 
@@ -846,7 +852,6 @@ www.vanguard.co.uk###cookieDrawer
 www.virgintrains.co.uk###cookies-fancybox
 www.waitrose.com###topEuCookieAlert
 www.your-move.co.uk###Footer_cookieLawBox
-zumi.pl###cookieView
 ||allegrostatic.pl/js/scripts/cookie-policy-banner$script
 ||assets.cookieconsent.silktide.com^
 ||cookie.gazeta.pl/noScriptCookie.servlet
