@@ -51,6 +51,7 @@ anglianwater.co.uk###ctl00_pnlCookie
 answers.microsoft.com###PrivacyBanner
 appszoom.com##.js-toast-cookies
 area-codes.org.uk###wsjconsent
+argenta.be##.ag-cookie-policy-wrapper
 arla.dk###Container
 arla.no###Container
 arm.com###cookiemodule
