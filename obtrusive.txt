@@ -658,6 +658,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###cookies-information
 ###cookies-panel
 ###cookies_container
+###cookieNotice
 ###cookies_notifier
 ###cookies_policy
 ###cookies_warning
