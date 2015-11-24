@@ -197,6 +197,7 @@ igen.fr###sliding-popup
 ign.com###policyNotice
 ikea.com###cookieMsgBlock
 ina.fr##.cookies-bar
+indema.si###cookie-law-info-bar
 indiegogo.com###fancybox-overlay
 indiegogo.com###fancybox-wrap
 informahealthcare.com##.overlay
@@ -754,6 +755,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 
 ! Whitelist
 
+@@||indema.si^/cookielawinfo.js?ver=$script
 ~uktv.co.uk##.cookie-notice
 
 
