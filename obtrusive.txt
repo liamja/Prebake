@@ -38,7 +38,7 @@
 ##.cc_banner-wrapper
 20minutes.fr###cnil-notice
 3vprepaid.com###cookie-container
-abbeyroad.com###cookie-overlay-footer
+abbeyroad.com###popupCookies
 actu-environnement.com###informations-cookies
 adlibris.com###cookie-information-banner
 agynamix.de###cookie
