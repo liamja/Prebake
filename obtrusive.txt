@@ -706,6 +706,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ##.cookie_bar
 ##.cookie-block
 ##.cookie-consent
+##.cookie-disclaimer
 ##.cookie-message
 ##.cookie-box
 ##.cookielaw
