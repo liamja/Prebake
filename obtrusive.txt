@@ -48,6 +48,7 @@ allrecipes.co.uk###cookiePopupContainer
 altfordamerne.dk##.content
 anglianwater.co.uk###ctl00_pnlCookie
 answers.microsoft.com###PrivacyBanner
+antikvarium.hu##div[class="eupopup-container eupopup-container-bottom eupopup-color-default"]
 appszoom.com##.js-toast-cookies
 area-codes.org.uk###wsjconsent
 arla.dk###Container
@@ -63,16 +64,20 @@ audion.com###cc-cookie
 auto-ici.fr###close_cnil
 automotorsport.se##.alert
 autotask.com##.jsEnabled.alertbar-bottom.alertbar
+atv.hu##div[id="cookie-warning"]
 avanza.se##.avanzabank_cookie_message.cookieMessage
 aviva.co.uk##.cookiePopUp
 banknordik.dk###cookieWarningDiv
+baon.hu##div[class="allow-cookie-stripe"]
 barclays.co.uk##P.otm
 bbcgoodfood.com##.cookie-law
 beatsbydre.com###brand_drawer
 beatsbydre.com##.brand_drawer
 bedetheque.com##.cookie_message
+bestbyte.hu##div[id="vscookieAlertCont"]
 betfair.com##.footer-cookies-policy
 bibliotek.dk##.popup-content
+blog.hu##div[id="_iph_cp_popup"]
 blogger.com###blogger_cookie_notice
 blogs.mediapart.fr##.bust
 boingtv.fr###sliding-popup
@@ -80,6 +85,7 @@ bol.com###top_header_cookie_message
 bona.com##.cookie
 boomerangtv.co.uk###sliding-popup
 boomerangtv.fr##.cookie_popup
+borsonline.hu##div[id="pCookieWarning"]
 bouyguestelecom.fr###no-cookie
 box.com###sliding-popup
 breakbeat.co.uk###CookieInformation
@@ -116,6 +122,7 @@ data.gov.uk###sliding-popup
 datormagazin.se###AdBlockerInfo
 davidlloyd.co.uk###home-cookie2
 dawsonera.com##.cc-cookies-container
+decathlon.co.hu##div[id="cookie"]
 degulesider.dk##.cookies-info
 devianne.com###avertissement_cookies
 diabetes.org.uk###policyPopup
@@ -130,6 +137,7 @@ duf.dk##.tx-tc-cookie
 dutchnews.nl##.cookiepolicy
 eadt.co.uk###cookielaw2
 economist.com###ec-cookie-messages-container
+edigital.hu##div[id="hr_cookie_policy_message"]
 edp24.co.uk###cookielaw2
 ekupi.hr###ctl00_cookieDiv
 elasticsearch.org###cookie
@@ -187,6 +195,7 @@ heltnormalt.dk##.banner
 heltnormalt.dk##.banner-container
 here.com##.notification_box.ng-isolate-scope.cookie
 hintaseuranta.fi###cookies-info-banner
+hm.com##section[class="cookie-notification"]
 horoscope.fr###useCookiesCont
 hotelgranvia.com###lc_cookies-main
 hp.com###cookie_privacy_holder
@@ -196,6 +205,7 @@ igen.fr###sliding-popup
 ign.com###policyNotice
 ikea.com###cookieMsgBlock
 ina.fr##.cookies-bar
+indavideo.hu##div[id="_iph_cp_popup"]
 indema.si###cookie-law-info-bar
 indiegogo.com###fancybox-overlay
 indiegogo.com###fancybox-wrap
@@ -252,6 +262,7 @@ letelegramme.fr###barre_top_secondaire
 letudiant.fr###notice-cookie-block
 levante-emv.com##div[style*='bg_cookies.jpg']
 liberation.fr##.cookie-notify
+life.hu##div[class="accept-cookie-open"]
 linkedin.com###notice-cookie-policy
 llas.ac.uk###sliding-popup
 lonelyplanet.com##.row--cookie-compliance
@@ -293,6 +304,7 @@ nexusmods.com###jquery-cookie-law-script
 nfbio.dk###the-cookie
 nicematin.com##.alert-cookies
 nlyman.com###toast-container
+nol.hu##div[class="allow-cookie-stripe"]
 nos.pt##.nav__cookies
 nosalty.hu###sliding-popup
 nouvelobs.com##div[style*='width:550px;background-color:#feefaa;']
@@ -305,6 +317,7 @@ onlive.co.uk##.top_message
 openclassrooms.com##.disclaimer.disclaimer--info.js-cookie-disclaimer
 orange.co.uk###cookieBannerD
 originalpenguin.co.uk###epd
+origo.hu##div[class="accept-cookie-open"]
 ouest-france.fr###disclaimerCookies
 out-law.com###cookie
 parcelmotel.com###cookiemonster
@@ -316,6 +329,7 @@ pekao.com.pl###box-close
 pekao.com.pl###box-div
 pekao.com.pl###box-layer
 penguingamers.eu##.RACKWrapper
+penzcentrum.hu##div[id="_iph_cp_popup"]
 perforce.com##span.optanon-link-text-left.optanon-white
 perforce.com##ul.optanon-menu.optanon-menu-allow
 pirateparty.org.uk###confirmCookiePolicy
@@ -324,6 +338,7 @@ pizza-online.fi###cookie_policy_container
 play.google.com##.app-translation-bar
 polisen.se##.cookie
 polytuil.fr###cookiesContainer
+portfolio.hu##div[id="_iph_cp_popup"]
 postnl.nl###coverlay
 postnl.nl###cwrapper
 ppluk.com###wsjpecrga
@@ -427,7 +442,9 @@ ungdomskort.dk###eksCookiePrompt
 unity3d.com##.cookie-dialog
 usersnap.com##.cookies-message
 usine-digitale.fr###jQAlertAcceptCookie
+uzletresz.hu##div[class="accept-cookie-open"]
 veuve-clicquot.com##.agegate-cookie
+vg.hu##div[class="allow-cookie-stripe"]
 vice.com###cookies_msg
 videnskab.dk###block-videnskabdk_custom_blocks-cookie_compliance
 videojug.com##.cp-alert-message
