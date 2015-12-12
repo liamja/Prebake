@@ -233,6 +233,7 @@ informahealthcare.com##.popupContainer
 ingdirect.es###ico_banner
 ink361.com###cookieAcceptMessage
 interia.pl###inpl_cp_cnt
+investor.hu##div[class="accept-cookie-open"]
 iopscience.iop.org##.cookies-banner-wrap
 itele.fr###cnil_alert_inner
 itv.com###itv-cookie-notification
@@ -305,6 +306,7 @@ mediapart.fr###cnil-sentence
 mediaset.it###cookieAdv
 meinestadt.de##.ms-cookie-ok
 mercialys.fr##.info-top
+metlife.hu##div[id="acceptCookieMeg"]
 microsoft.com##.euCookie.mscom-alertitem
 microsoft.com###lca-cookie-notification
 middle-earth.xenite.org##.pea_cook_wrapper
@@ -419,6 +421,7 @@ severntrent.com###cookiePrompt
 sgs.com##.sgsCookies
 shop.pattheduck.com###FISLCC
 shpock.com###cookie-modal
+simple.hu##div[class^="box-cookie"]
 simyo.es##.cookieAsker
 sky.com###skycom-cookie-wrapper
 skynet.be###messageCookie
