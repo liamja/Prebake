@@ -51,6 +51,7 @@ answers.microsoft.com###PrivacyBanner
 antikvarium.hu##div[class="eupopup-container eupopup-container-bottom eupopup-color-default"]
 appszoom.com##.js-toast-cookies
 area-codes.org.uk###wsjconsent
+argenta.be##.ag-cookie-policy-wrapper
 arla.dk###Container
 arla.no###Container
 arm.com###cookiemodule
@@ -733,6 +734,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ##.cookie_bar
 ##.cookie-block
 ##.cookie-consent
+##.cookie-disclaimer
 ##.cookie-message
 ##.cookie-box
 ##.cookielaw
