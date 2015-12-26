@@ -190,6 +190,7 @@ gamepressure.com###CP_box
 gamereactor.dk###cookielawwarning
 gamespy.com###policy
 gg.pl##body > div:nth-of-type(2) > div
+gendiagnosztika.hu##div[class^="pea_cook_wrapper"]
 gigaom.com##.privacy-policy
 gizmodo.co.uk##.future-cookie-bar
 gmx.com##.mod-cookiepolicy
