@@ -751,6 +751,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ##.cookieAccept
 ##.cookiebanner
 ##.cookieBanner
+##.CookieBanner
 ##.cookieBar
 ##.cookiebar
 ##.cookieconsent-popup
