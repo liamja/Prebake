@@ -252,6 +252,7 @@ karriere.fresenius.de##.cookie_message_inner
 keil.com##.modouter
 ketnet.be###cookie-bar-wrapper
 kingston.ac.uk###site-wide-cookie-message
+kiszamolo.hu##div[id="cookie-warning"]
 knaufdanoline.fr###pronamic_cookie_holder
 korben.info##.cookie-notice-container
 kwejk.pl###cookies-politics
