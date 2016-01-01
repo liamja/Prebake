@@ -848,6 +848,7 @@ thewolseley.com###cookie_policy_banner
 vouchercodes.co.uk###cookie-popup
 which.co.uk###eprivacy-outer
 wrzucacz.pl##P[class="info"]
+www.allgemeine-zeitung.de##.cookie-notification
 www.bing.com###thp_notf_div
 www.blacknight.com###bkCookieBanner
 www.blockbuster.co.uk##.toast-type-newCookie
