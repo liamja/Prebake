@@ -642,6 +642,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###cookieMessage
 ###cookieMessageContainer
 ###cookieMessageWrapper
+###cookieMsg
 ###cookieNotification
 ###cookiePolicy
 ###CookiePolicy
