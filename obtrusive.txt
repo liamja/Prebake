@@ -116,6 +116,7 @@ coinc.es###divCookie
 comixology.fr###cookieAcknowledgement
 commentcamarche.net##.ccmcss_oic
 concertolive.co.uk##.divCookieWarning
+couchsurfing.com##.is-hidden
 coreight.com###sliding-popup
 cpc.farnell.com###mktg_Cookie_Wrap
 dailymotion.com##.sd_cookiespolicy
@@ -672,6 +673,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###cookieMessageBox
 ###cookieMessageContainer
 ###cookieMessageWrapper
+###cookieMsg
 ###cookieNotification
 ###cookiePolicy
 ###CookiePolicy
