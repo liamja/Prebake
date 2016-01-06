@@ -220,6 +220,7 @@ hp.com###cookie_privacy_holder
 hs.fi##.cb-container
 ico.org.uk###banner
 ideone.com###cookie-ue
+idokep.hu##div[class^="cc_banner-wrapper"]
 igen.fr###sliding-popup
 ign.com###policyNotice
 ikea.com###cookieMsgBlock
