@@ -91,6 +91,7 @@ boomerangtv.fr##.cookie_popup
 borsonline.hu##div[id="pCookieWarning"]
 bouyguestelecom.fr###no-cookie
 box.com###sliding-popup
+bundlestars.com##consent[class="ng-isolate-scope"]
 breakbeat.co.uk###CookieInformation
 britishmuseum.org###cookiePromptWrapper
 ca-nord-est.fr##.recocliv2
