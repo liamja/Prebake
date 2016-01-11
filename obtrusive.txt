@@ -340,6 +340,7 @@ noz.de###cookie-optout
 nrc.nl##.cookiemonster.kleverig
 nu.nl###cookiebar_wrapper
 nyheter24.se###acceptCookiesDiv
+nyugat.hu##p[id="accept_cookie"]
 o2.pl##.cookie-info__transition
 odeon.co.uk###icoCookiesBanner
 olvg.nl###cc
