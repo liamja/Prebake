@@ -213,12 +213,13 @@ heltnormalt.dk##.banner
 heltnormalt.dk##.banner-container
 here.com##.notification_box.ng-isolate-scope.cookie
 hintaseuranta.fi###cookies-info-banner
-hirado.hu###cookie
+hirado.hu##div[id="cookie"]
 hm.com##section[class="cookie-notification"]
 horoscope.fr###useCookiesCont
 hotelgranvia.com###lc_cookies-main
 hp.com###cookie_privacy_holder
 hs.fi##.cb-container
+hrportal.hu##div[id="fixdiv"]
 ico.org.uk###banner
 ideone.com###cookie-ue
 idokep.hu##div[class^="cc_banner-wrapper"]
