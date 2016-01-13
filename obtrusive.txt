@@ -422,7 +422,7 @@ terra.es###zaz-nb-plugin-cookie-message
 tesco.com###cp
 tesco.com###tesco_cookie_widget
 theatlantic.com##.cookie-disclaimer
-theguardian.com##.identity-noticebar
+theguardian.com##[aria-describedby="site-message__message"]
 theiet.org###ietCookiePanel
 themeflood.com###gatewayBarFillstacks_in_5416_page4
 thesun.co.uk###sun-cookieMessage
