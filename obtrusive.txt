@@ -545,6 +545,7 @@ zumba.com##.privacy-policy
 
 ! Fucking EU cookies script (https://goo.gl/pB2Ayt)
 s3-eu-west-1.amazonaws.com/fucking-eu-cookies/*$script
+d2z9iq901qkqk8.cloudfront.net/*$script
 
 /cookieCompliance.js$script
 
