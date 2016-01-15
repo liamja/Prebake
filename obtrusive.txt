@@ -201,6 +201,7 @@ gosc.pl##div[style^="border: 10px solid rgb(138, 138, 138);"]
 gov.uk###global-cookie-message
 gov.uk##.js-cookies-banner
 gp.se###gpsecCookieInformationContainer
+gphirek.hu##div[id="accept-cookie"]
 gqmagazine.fr###cookies-message-main
 graspop.be##.s--show.cookies
 grosbill.com###cnil_bar
