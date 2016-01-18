@@ -427,6 +427,7 @@ theiet.org###ietCookiePanel
 themeflood.com###gatewayBarFillstacks_in_5416_page4
 thesun.co.uk###sun-cookieMessage
 thesundaytimes.co.uk###tto-cookieMessage
+thevitalounge.net###scnb-cookie-bar
 three.co.uk###rwd-cookie-message
 ticketmaster.co.uk###_evh-ric
 timefy.com###nq_cnilbanner
