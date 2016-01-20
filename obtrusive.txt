@@ -197,6 +197,7 @@ heltnormalt.dk##.banner
 heltnormalt.dk##.banner-container
 here.com##.notification_box.ng-isolate-scope.cookie
 hintaseuranta.fi###cookies-info-banner
+hirado.hu###cookie
 hm.com##section[class="cookie-notification"]
 horoscope.fr###useCookiesCont
 hotelgranvia.com###lc_cookies-main
