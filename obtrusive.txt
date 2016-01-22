@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 01 January 2016 22:44 UTC
+! Last modified: 22 January 2016 17:23 UTC
 ! Expires: 7 days
 ! Homepage: http://prebake.eu
 ! License: https://raw.github.com/liamja/Prebake/master/README.md
@@ -40,6 +40,7 @@
 abbeyroad.com###popupCookies
 actu-environnement.com###informations-cookies
 adlibris.com###cookie-information-banner
+ad-hoc-news.de###cookie
 agynamix.de###cookie
 airvpn.org##div[style*='width:800px']
 alinea.fr##.cookies-notice-msg
