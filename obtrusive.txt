@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 24 January 2016 13:32 UTC
+! Last modified: 24 January 2016 13:39 UTC
 ! Expires: 7 days
 ! Homepage: http://prebake.eu
 ! License: https://raw.github.com/liamja/Prebake/master/README.md
@@ -81,7 +81,7 @@ betfair.com##.footer-cookies-policy
 bibliotek.dk##.popup-content
 blog.hu##div[id="_iph_cp_popup"]
 blogger.com###blogger_cookie_notice
-blogs.mediapart.fr##.bust
+blogs.mediapart.fr##.cookie-warn-msg
 boingtv.fr###sliding-popup
 bol.com###top_header_cookie_message
 bona.com##.cookie
@@ -807,6 +807,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 
 @@||indema.si^/cookielawinfo.js?ver=$script
 @@||lecole-ldlc.com/wp-content/plugins/cookie-law-info/js/cookielawinfo.js?
+~blogs.mediapart.fr##.cookie-warn
 ~samsung.com##.cookiewarning
 ~samsung.com##.cookie-warning
 ~uktv.co.uk##.cookie-notice
