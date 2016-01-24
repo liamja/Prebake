@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 24 January 2016 13:16 UTC
+! Last modified: 24 January 2016 13:19 UTC
 ! Expires: 7 days
 ! Homepage: http://prebake.eu
 ! License: https://raw.github.com/liamja/Prebake/master/README.md
@@ -421,6 +421,7 @@ stadt-koeln.de###cookie_content
 stargreen.com##div[style^="color: rgb(238, 238, 238); background-color: rgb(102, 102, 51);"]
 stofa.dk###cookie_collapse
 stofa.dk##.cookie_footer
+store.playstation.com###cookieWarningMessage
 stormcreative.co.uk###storm-cookie
 superdeporte.es##div[style*='bg_cookies.jpg']
 suzuki.co.uk###privacypopup
