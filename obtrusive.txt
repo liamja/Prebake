@@ -335,6 +335,7 @@ nelly.com###toast-container
 netapp.com###cboxOverlay
 netapp.com###colorbox
 netonnet.se##.acceptCookies
+netpincer.hu##div[id="popup-webpage-cookie"]
 newscientist.com###rbiCookiePolicy_pushDownBoxWrapper
 nexusmods.com###jquery-cookie-law-script
 nfbio.dk###the-cookie
