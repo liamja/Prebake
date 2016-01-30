@@ -209,11 +209,13 @@ hm.com##section[class="cookie-notification"]
 horoscope.fr###useCookiesCont
 hotelgranvia.com###lc_cookies-main
 hp.com###cookie_privacy_holder
+hs.fi##.cb-container
 ico.org.uk###banner
 ideone.com###cookie-ue
 igen.fr###sliding-popup
 ign.com###policyNotice
 ikea.com###cookieMsgBlock
+iltalehti.fi##.alma-cookie-disclaimer
 ina.fr##.cookies-bar
 indavideo.hu##div[id="_iph_cp_popup"]
 indema.si###cookie-law-info-bar
@@ -728,6 +730,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###e-privacy-message
 ###eu-cookie
 ###eu-cookie-compliance
+###eu-cookie-consent
 ###eu-cookie-notifier
 ###eu-cookie-notify-wrap
 ###eu_cookie
