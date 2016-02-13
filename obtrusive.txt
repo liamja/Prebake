@@ -397,6 +397,7 @@ qype.co.uk##.js-cookie-info
 radionomy.com###cookieDough
 ransomesjacobsen.com###cookieuseage
 rapidonline.com###Header_SelectSitePopup_DisplaySiteSplitMsgDiv
+reblog.hu##div[id="accept-cookie"]
 redbull.com##.cookie-notification
 reddit.com###eu-cookie-policy
 reed.co.uk##.notification
