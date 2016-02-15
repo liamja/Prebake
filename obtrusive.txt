@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 24 January 2016 13:48 UTC
+! Last modified: 01 February 2016 20:51 UTC
 ! Expires: 7 days
 ! Homepage: http://prebake.eu
 ! License: https://raw.github.com/liamja/Prebake/master/README.md
@@ -36,6 +36,7 @@
 
 20minutes.fr###cnil-notice
 3vprepaid.com###cookie-container
+4players.de###cookpol
 abbeyroad.com###popupCookies
 actu-environnement.com###informations-cookies
 adlibris.com###cookie-information-banner
@@ -182,6 +183,7 @@ fz.se###AdBlockerInfo.cookie-container
 gambleaware.co.uk###ccWrappery
 gamblingcommission.gov.uk##.cookiedOuter
 gamemania.be###globalmessage
+gamepressure.com###CP_box
 gamereactor.dk###cookielawwarning
 gamespy.com###policy
 gigaom.com##.privacy-policy
@@ -209,11 +211,13 @@ hm.com##section[class="cookie-notification"]
 horoscope.fr###useCookiesCont
 hotelgranvia.com###lc_cookies-main
 hp.com###cookie_privacy_holder
+hs.fi##.cb-container
 ico.org.uk###banner
 ideone.com###cookie-ue
 igen.fr###sliding-popup
 ign.com###policyNotice
 ikea.com###cookieMsgBlock
+iltalehti.fi##.alma-cookie-disclaimer
 ina.fr##.cookies-bar
 indavideo.hu##div[id="_iph_cp_popup"]
 indema.si###cookie-law-info-bar
@@ -728,6 +732,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###e-privacy-message
 ###eu-cookie
 ###eu-cookie-compliance
+###eu-cookie-consent
 ###eu-cookie-notifier
 ###eu-cookie-notify-wrap
 ###eu_cookie
