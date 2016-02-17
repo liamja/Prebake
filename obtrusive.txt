@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 01 February 2016 20:51 UTC
+! Last modified: 15 February 2016 15:55 UTC
 ! Expires: 7 days
 ! Homepage: http://prebake.eu
 ! License: https://raw.github.com/liamja/Prebake/master/README.md
@@ -200,6 +200,7 @@ grosbill.com###cnil_bar
 groupalia.com##.wrapperCookies
 groupe-logos.com##div[style*='z-index: 1000;']
 guardian.co.uk##.identity-noticebar-content
+guysandstthomas.nhs.uk##cookiePlaceholder
 hannovermesse.de##.row.user-notes-notification.M011
 heart.co.uk###cookie_bar
 heltnormalt.dk##.banner
@@ -242,6 +243,7 @@ k-citymarket.fi##.Pbox-sm
 k-market.fi##.Pbox-sm
 kalleanka.se##.alert
 karriere.fresenius.de##.cookie_message_inner
+kch.nhs.uk##.Cookie_Banner
 keil.com##.modouter
 ketnet.be###cookie-bar-wrapper
 kingston.ac.uk###site-wide-cookie-message
@@ -323,6 +325,7 @@ netapp.com###cboxOverlay
 netapp.com###colorbox
 netonnet.se##.acceptCookies
 newscientist.com###rbiCookiePolicy_pushDownBoxWrapper
+newsnow.co.uk###cookie_consent
 nexusmods.com###jquery-cookie-law-script
 nfbio.dk###the-cookie
 nicematin.com##.alert-cookies
@@ -391,6 +394,7 @@ rockpapershotgun.com###ecd_opt_in_banner
 rollingstone.com###euNotice
 rotring.com###cookienotify
 royalnavy.mod.uk###cookies-notice
+royalmarsden.nhs.uk###block-bean-cookie-message
 rs-online.com##.cookieMessageDiv
 rte.ie###cookie-policy-strap
 rtl.hu##.cookie-container
