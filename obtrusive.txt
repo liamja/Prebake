@@ -275,7 +275,7 @@ leroymerlin.fr##.nav-infos-wrapper
 lesechos.fr###cookiemenu
 lesinrocks.com##.cnil-block
 lesnumeriques.com###notif_197
-letelegramme.fr###barre_top_secondaire
+letelegramme.fr###cookieChoiceInfo
 letudiant.fr###notice-cookie-block
 levante-emv.com##div[style*='bg_cookies.jpg']
 lg.com##.wrapper > .policyChk
