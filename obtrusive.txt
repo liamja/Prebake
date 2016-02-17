@@ -325,6 +325,7 @@ netapp.com###cboxOverlay
 netapp.com###colorbox
 netonnet.se##.acceptCookies
 newscientist.com###rbiCookiePolicy_pushDownBoxWrapper
+newsnow.co.uk###cookie_consent
 nexusmods.com###jquery-cookie-law-script
 nfbio.dk###the-cookie
 nicematin.com##.alert-cookies
