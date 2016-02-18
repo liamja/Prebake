@@ -924,6 +924,7 @@ www.vanguard.co.uk###cookieDrawer
 www.virgintrains.co.uk###cookies-fancybox
 www.waitrose.com###topEuCookieAlert
 www.your-move.co.uk###Footer_cookieLawBox
+ywt.org.uk###sliding-popup
 zumi.pl###cookieView
 ||allegrostatic.pl/js/scripts/cookie-policy-banner$script
 ||assets.cookieconsent.silktide.com^
