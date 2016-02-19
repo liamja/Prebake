@@ -209,6 +209,7 @@ groupalia.com##.wrapperCookies
 groupe-logos.com##div[style*='z-index: 1000;']
 guardian.co.uk##.identity-noticebar-content
 hannovermesse.de##.row.user-notes-notification.M011
+hasznaltauto.hu##div[id="cookieAcceptContainer"]
 heart.co.uk###cookie_bar
 heltnormalt.dk##.banner
 heltnormalt.dk##.banner-container
