@@ -819,6 +819,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ~samsung.com##.cookiewarning
 ~samsung.com##.cookie-warning
 ~uktv.co.uk##.cookie-notice
+~orteil.dashnet.org###cookies
 
 ! block-the-eu-cookie-shit-list
 ! https://github.com/r4vi/block-the-eu-cookie-shit-list
