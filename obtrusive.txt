@@ -359,6 +359,7 @@ orange.co.uk###cookieBannerD
 originalpenguin.co.uk###epd
 origo.hu##div[class="accept-cookie-open"]
 ouest-france.fr###disclaimerCookies
+oup.com##div[id="oupcookiepolicy_message"]
 out-law.com###cookie
 parcelmotel.com###cookiemonster
 parisinfo.com###cookieChoiceBanner
