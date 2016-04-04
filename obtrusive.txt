@@ -366,6 +366,7 @@ play.google.com##.app-translation-bar
 polisen.se##.cookie
 polytuil.fr###cookiesContainer
 portfolio.hu##div[id="_iph_cp_popup"]
+postimees.ee###pm-cookie-consent
 postnl.nl###coverlay
 postnl.nl###cwrapper
 ppluk.com###wsjpecrga
