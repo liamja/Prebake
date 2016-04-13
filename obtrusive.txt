@@ -502,6 +502,7 @@ www.profil.at###cookieModal
 www.salesforce.com###privacy-bar-bottom-container
 www.santander.co.uk###_W034_Cookie_Directive_WAR_W034_Cookie_Directiveportlet_contenedor01
 www.share.com###ui-cookie-policy
+www.sme.sk##.js-cookie-bar
 www.sosh.fr###s-cookie
 www.sweclockers.com###adblockBanner
 www.sweclockers.com###siteHeader > .banner
