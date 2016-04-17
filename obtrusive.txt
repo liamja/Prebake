@@ -743,6 +743,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###euCookie
 ###euCookieDirective
 ###euCookieBar
+###ePrivacyDisclaimer
 ##.fucking-priority.fucking-eu-cookies
 ###EUDirectiveCookiePanel
 ###gn-cookie-accept
