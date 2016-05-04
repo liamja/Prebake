@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 04 May 2016 19:59 UTC
+! Last modified: 04 May 2016 20:03 UTC
 ! Expires: 7 days
 ! Homepage: http://prebake.eu
 ! License: https://raw.github.com/liamja/Prebake/master/README.md
@@ -176,6 +176,7 @@ filmaffinity.com###info-cookie
 fliegen-usa.de###cc-cookie-law
 focusrite.com###sliding-popup
 folkuniversitetet.se##.alert
+fotka.com###cookies_info
 france5.fr###cookie-cnil-box
 freeview.co.uk###cookie-panel
 fundingcircle.com##.is-visible.notification_wrap
@@ -188,6 +189,7 @@ gamemania.be###globalmessage
 gamepressure.com###CP_box
 gamereactor.dk###cookielawwarning
 gamespy.com###policy
+gg.pl##body > div:nth-of-type(2) > div
 gigaom.com##.privacy-policy
 gizmodo.co.uk##.future-cookie-bar
 gmx.com##.mod-cookiepolicy
@@ -925,6 +927,7 @@ www.vanguard.co.uk###cookieDrawer
 www.virgintrains.co.uk###cookies-fancybox
 www.waitrose.com###topEuCookieAlert
 www.your-move.co.uk###Footer_cookieLawBox
+ywt.org.uk###sliding-popup
 zumi.pl###cookieView
 ||allegrostatic.pl/js/scripts/cookie-policy-banner$script
 ||assets.cookieconsent.silktide.com^
