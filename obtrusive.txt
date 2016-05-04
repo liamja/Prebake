@@ -653,6 +653,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###cookie-notice
 ###cookie-notification
 ###cookie-notification-wrapper
+###cookie-overlay-wrapper
 ###cookie-policy
 ###cookie-policy-banner
 ###cookie-policy-container
