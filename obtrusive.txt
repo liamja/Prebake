@@ -200,6 +200,7 @@ gov.uk###global-cookie-message
 gov.uk##.js-cookies-banner
 gp.se###gpsecCookieInformationContainer
 gqmagazine.fr###cookies-message-main
+graspop.be##.s--show.cookies
 grosbill.com###cnil_bar
 groupalia.com##.wrapperCookies
 groupe-logos.com##div[style*='z-index: 1000;']
