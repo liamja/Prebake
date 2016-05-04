@@ -715,6 +715,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###cookiepolicyContainer
 ###cookiePolicyContainer
 ###cookiePolicyNotification
+###cookiePolicyWrapper
 ###cookies
 ###cookies-banner
 ###cookies-information
