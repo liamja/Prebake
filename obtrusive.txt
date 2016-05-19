@@ -353,7 +353,6 @@ out-law.com###cookie
 parcelmotel.com###cookiemonster
 parisinfo.com###cookieChoiceBanner
 pathe.nl###cookieOverlay
-paypal.com##.row-fluid.cookie-notification
 pccomponentes.com##.capa_cookie.hide
 pcpro.co.uk###dennis-cookie-notice
 pekao.com.pl###box-close
@@ -386,7 +385,6 @@ qype.co.uk##.js-cookie-info
 radionomy.com###cookieDough
 ransomesjacobsen.com###cookieuseage
 rapidonline.com###Header_SelectSitePopup_DisplaySiteSplitMsgDiv
-redbull.com##.cookie-notification
 reddit.com###eu-cookie-policy
 reed.co.uk##.notification
 rex.kb.dk##.content
@@ -519,7 +517,6 @@ xe.com##.cookie-siteusage-notice
 yachtpaint.com##.cookiesPro
 yahoo.com###yucs-eprivacy
 yell.com###cookie-overlay
-yell.com##.cookie-notification
 zumba.com##.privacy-policy
 ||assets.futurecdn.net/js/fp_cookie.js$script
 ||assets.futurecdn.net/js/fp_cookie.min.js$script
@@ -693,6 +690,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###cookieContainer
 ###cookieControl
 ###cookiecontrol_notice
+###cookiedialog
 ###cookieDisclaimer
 ###cookieInfo
 ###cookieinfo
@@ -701,6 +699,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###cookieinfobox
 ###cookieInfoBox
 ###cookieInfoDiv
+###cookieInfoLayer
 ###cookieInformerBooklet
 ###cookielaw
 ###cookieLaw
@@ -709,6 +708,8 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###cookieMessageContainer
 ###cookieMessageWrapper
 ###cookieMsg
+###cookienotif
+###cookienotification
 ###cookieNotification
 ###cookiePolicy
 ###CookiePolicy
@@ -807,8 +808,10 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ##.cookieNotification
 ##.CookieNotification
 ##.cookie-notice
+##.cookie-notification
 ##.cookies-banner
 ##.cookies-overlay
+##.eprivacy-cookie
 ##.epublishing-priority.epublishing-eu-cookies
 ##.eu-cookies
 ##.eu-cookie-nag
@@ -859,6 +862,7 @@ barclaycard.co.uk###cookiesMessageBanner
 bbc.co.uk,www.bbc.com###bbccookies
 ceneo.pl###js_cookie-monster
 cineworld.co.uk##.notification.cookie
+computertotaal.nl###idg-cookie-bar
 demotywatory.pl##DIV[style^="position: fixed; left:0; right:0; bottom:0"]
 diy.com###noScriptCookies
 dolce-gusto.co.uk###nimgrowler
@@ -896,7 +900,8 @@ thewolseley.com###cookie_policy_banner
 vouchercodes.co.uk###cookie-popup
 which.co.uk###eprivacy-outer
 wrzucacz.pl##P[class="info"]
-www.allgemeine-zeitung.de##.cookie-notification
+! v Also uses ###cookienotification, which is blocked in the above list
+www.bartsmit.com###cookienotification_background
 www.bing.com###thp_notf_div
 www.blacknight.com###bkCookieBanner
 www.blockbuster.co.uk##.toast-type-newCookie
@@ -914,6 +919,7 @@ www.humansinvent.com/*/eu_rp_cookie.js$script
 www.icabanken.se###cookieAgreementContent
 www.ico.gov.uk###banner
 www.joomla.pl###panel_cookie_dol
+www.just-eat.be##.is-active.infoBar--hideByDefault.infoBar--dark.infoBar
 www.livescore.com##div[data-id=infobar]
 www.misco.co.uk##.CookieDirectiveHeight
 www.netia.pl###cookie_div
