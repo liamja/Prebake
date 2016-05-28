@@ -124,6 +124,7 @@ coreight.com###sliding-popup
 cpc.farnell.com###mktg_Cookie_Wrap
 crocs.de##.intercept-content
 crocs.de##.intercept-spacer
+csl-computer.com###notification
 dailymotion.com##.sd_cookiespolicy
 data.gov.uk###sliding-popup
 datormagazin.se###AdBlockerInfo
