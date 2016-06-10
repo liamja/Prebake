@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 25 May 2016 10:54 UTC
+! Last modified: 10 Jun 2016 11:58 UTC
 ! Expires: 7 days
 ! Homepage: http://prebake.eu
 ! License: https://raw.github.com/liamja/Prebake/master/README.md
@@ -135,6 +135,7 @@ degulesider.dk##.cookies-info
 developpez.com###gabarit_cnilcookie
 devianne.com###avertissement_cookies
 diabetes.org.uk###policyPopup
+divany.hu##div[id="_iph_cp_popup"]
 dmi.dk##.content
 dnevnik.hr###cookieMon
 dobreprogramy.pl###cookiesPanel
@@ -171,6 +172,7 @@ facebook.com##.pam.fbPageBanner._3d9x.uiBoxGray.bottomborder
 fasthosts.co.uk###cookie
 fatbeehive.com##div[style^="background-color: #000;"]
 fedex.com###privacy-notice
+femina.hu##div[id="_iph_cp_popup"]
 fgov.be###perBoxUI
 fhm.com###bauerCookiePolicy
 filmaffinity.com###info-cookie
@@ -484,6 +486,7 @@ toluna.com###cookiesWarningBanner
 tomshw.it###cookies-privacy
 totalmoney.pl###right_widget
 trophies-ps3.de###ingameCookie
+totalcar.hu##div[id="_iph_cp_popup"]
 tvn.pl###msgLayer
 tvn24.pl###msgLayer
 tvn24bis.pl###msgLayer
@@ -893,6 +896,7 @@ iblanky.co.cc###update
 joemonster.org##DIV[style^="position: fixed; left:0; right:0; bottom:0;"]
 johnredwoodsdiary.com###cc-notification-wrapper
 jqueryCookieGuard*.js$script
+life.hu##div[id="_iph_cp_popup"]
 lifeboatmarketing.co.uk###id_cookieconsent
 livecolor.co.uk##.cookiedisclaimer
 merlin.pl##.cookies_policy
