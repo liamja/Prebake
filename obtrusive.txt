@@ -45,6 +45,7 @@ agynamix.de###cookie
 airvpn.org##div[style*='width:800px']
 alinea.fr##.cookies-notice-msg
 allocine.fr##.info-cookie
+allevo.nu###cookie-question
 allrecipes.co.uk###cookiePopupContainer
 altfordamerne.dk##.content
 amd.com/Style%20Library/js/cookie-prompt.js$script
@@ -119,6 +120,7 @@ coinc.es###divCookie
 comixology.fr###cookieAcknowledgement
 commentcamarche.net##.ccmcss_oic
 concertolive.co.uk##.divCookieWarning
+coop.se###aspnetForm > .is-passive.is-passive.Alert--info.js-canvasColCenter.Canvas-col--center.Canvas-col.Alert
 couchsurfing.com##.is-hidden
 coreight.com###sliding-popup
 cpc.farnell.com###mktg_Cookie_Wrap
@@ -134,6 +136,7 @@ degulesider.dk##.cookies-info
 developpez.com###gabarit_cnilcookie
 devianne.com###avertissement_cookies
 diabetes.org.uk###policyPopup
+digital.di.se##.footer > .footer__cookie-info
 dmi.dk##.content
 dnevnik.hr###cookieMon
 dobreprogramy.pl###cookiesPanel
@@ -169,10 +172,12 @@ ey.com##.cookienote
 facebook.com##.pam.fbPageBanner._3d9x.uiBoxGray.bottomborder
 fasthosts.co.uk###cookie
 fatbeehive.com##div[style^="background-color: #000;"]
+fazer.se##.ng-scope.notification-bar.cookie-notification
 fedex.com###privacy-notice
 fgov.be###perBoxUI
 fhm.com###bauerCookiePolicy
 filmaffinity.com###info-cookie
+filmtipset.se###acceptCookiesDiv
 fliegen-usa.de###cc-cookie-law
 focusrite.com###sliding-popup
 folkuniversitetet.se##.alert
@@ -205,10 +210,12 @@ grosbill.com###cnil_bar
 groupalia.com##.wrapperCookies
 groupe-logos.com##div[style*='z-index: 1000;']
 guardian.co.uk##.identity-noticebar-content
+hallandsposten.se###stampenCookieInformationContainer
 hannovermesse.de##.row.user-notes-notification.M011
 heart.co.uk###cookie_bar
 heltnormalt.dk##.banner
 heltnormalt.dk##.banner-container
+hemkop.se###pnlCookieNotice
 here.com##.notification_box.ng-isolate-scope.cookie
 hintaseuranta.fi###cookies-info-banner
 hirado.hu###cookie
@@ -217,6 +224,7 @@ horoscope.fr###useCookiesCont
 hotelgranvia.com###lc_cookies-main
 hp.com###cookie_privacy_holder
 hs.fi##.cb-container
+ica.se###cookie-bar
 ico.org.uk###banner
 ideone.com###cookie-ue
 igen.fr###sliding-popup
@@ -340,6 +348,7 @@ noz.de###cookie-optout
 nrc.nl##.cookiemonster.kleverig
 nu.nl###cookiebar_wrapper
 nyheter24.se###acceptCookiesDiv
+nyteknik.se###canvas > div:nth-of-type(1) > .js-cookie-notification.cookie-notification-container
 o2.pl##.cookie-info__transition
 odeon.co.uk###icoCookiesBanner
 olvg.nl###cc
@@ -467,6 +476,7 @@ toluna.com###cookiesWarningBanner
 tomshw.it###cookies-privacy
 totalmoney.pl###right_widget
 trophies-ps3.de###ingameCookie
+trygghansa.se###header > .cookieInformation
 tvn.pl###msgLayer
 tvn24.pl###msgLayer
 tvn24bis.pl###msgLayer
@@ -495,6 +505,7 @@ weebs.dk###cookie_wrapper
 which.co.uk###eprivacy-holder
 wikia.com##.banner-notification.notify
 wikomobile.com##.pop_cookies
+willys.se###pnlCookieNotice
 wimp.dk##.cookie-warn
 wizzo.es##.avisoCookie
 www.airbusgroup.com##.cookiebox
