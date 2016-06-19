@@ -120,6 +120,7 @@ coinc.es###divCookie
 comixology.fr###cookieAcknowledgement
 commentcamarche.net##.ccmcss_oic
 concertolive.co.uk##.divCookieWarning
+conrad.se###headCookieAccept
 coop.se###aspnetForm > .is-passive.is-passive.Alert--info.js-canvasColCenter.Canvas-col--center.Canvas-col.Alert
 couchsurfing.com##.is-hidden
 coreight.com###sliding-popup
@@ -164,6 +165,7 @@ epson.fr##.epson_cookienotice
 esbe.eu##.header-cookie-content
 espn.co.uk##.cookie-overlay
 etel-tuning.eu###cookieNoticeContent
+eucomtech.eu###cookiealert
 eudict.com##.cookieNotice
 eurodns.com###cookies-bar
 euroman.dk##.content
@@ -196,6 +198,7 @@ gamereactor.dk###cookielawwarning
 gamespy.com###policy
 gg.pl##body > div:nth-of-type(2) > div
 gigaom.com##.privacy-policy
+ginza.se###cookie-popup
 gizmodo.co.uk##.future-cookie-bar
 gmx.com##.mod-cookiepolicy
 golem.de###golem-cookie-accept
@@ -302,6 +305,7 @@ lufbra.net##.cwcookielaw
 ma-reduc.com###about-cookies
 macbidouille.com###okookie-box
 macg.co###sliding-popup
+macforum.se##.cookies-alert.container-fluid
 macuser.de##.eucookie_wrapper
 masterofmalt.com###cookiePopup
 materiel.net###cookie
@@ -426,6 +430,8 @@ scottishfriendly.co.uk###cookieNotification
 seloger.com##.container_cookies
 severntrent.com###cookiePrompt
 sgs.com##.sgsCookies
+shop.asedo.se##form > .infobanner > .content > .info
+shop.asedo.se##form > .infobanner
 shop.pattheduck.com###FISLCC
 shpock.com###cookie-modal
 siba.se###cookieInformationBoxWrapper > .Web_CookiesBackround
