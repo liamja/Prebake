@@ -216,6 +216,7 @@ heart.co.uk###cookie_bar
 heltnormalt.dk##.banner
 heltnormalt.dk##.banner-container
 hemkop.se###pnlCookieNotice
+hemmetsjournal.se##.page > .alert-cookies.page-alert.alert-info.alert
 here.com##.notification_box.ng-isolate-scope.cookie
 hintaseuranta.fi###cookies-info-banner
 hirado.hu###cookie
