@@ -74,6 +74,7 @@ autotask.com##.jsEnabled.alertbar-bottom.alertbar
 atv.hu##div[id="cookie-warning"]
 avanza.se##.avanzabank_cookie_message.cookieMessage
 aviva.co.uk##.cookiePopUp
+bankid.com##.wrapper > .bankid-cookie.alert-dismissable.alert-warning.alert
 banknordik.dk###cookieWarningDiv
 baon.hu##div[class="allow-cookie-stripe"]
 barclays.co.uk##P.otm
@@ -137,6 +138,7 @@ davidlloyd.co.uk###home-cookie2
 dawsonera.com##.cc-cookies-container
 decathlon.co.hu##div[id="cookie"]
 degulesider.dk##.cookies-info
+destinationgotland.se###cookies-alert
 developpez.com###gabarit_cnilcookie
 devianne.com###avertissement_cookies
 diabetes.org.uk###policyPopup
@@ -217,6 +219,7 @@ grosbill.com###cnil_bar
 groupalia.com##.wrapperCookies
 groupe-logos.com##div[style*='z-index: 1000;']
 guardian.co.uk##.identity-noticebar-content
+haninge.se##.container > .visible.ng-scope.hiddenOnPrint.cookieContainer
 hannovermesse.de##.row.user-notes-notification.M011
 heart.co.uk###cookie_bar
 heltnormalt.dk##.banner
@@ -234,6 +237,7 @@ hs.fi##.cb-container
 ica.se###cookie-bar
 ico.org.uk###banner
 ideone.com###cookie-ue
+if.se##.ecmt-page-wrapper > .ecmt-page > .js-cookiebar.js-notification.ecmt-notification-bottom.ecmt-notification-is-fixed.ecmt-notification-cookies.ecmt-notification
 igen.fr###sliding-popup
 ign.com###policyNotice
 ikea.com###cookieMsgBlock
@@ -313,6 +317,7 @@ macbidouille.com###okookie-box
 macg.co###sliding-popup
 macforum.se##.cookies-alert.container-fluid
 macuser.de##.eucookie_wrapper
+magine.com###content-wrapper > .ng-scope > div:nth-of-type(3) > .cookie-notification.ng-isolate-scope
 marginalen.se###accept-cookies > .Notification-content
 masterofmalt.com###cookiePopup
 materiel.net###cookie
@@ -357,10 +362,12 @@ nol.hu##div[class="allow-cookie-stripe"]
 nos.pt##.nav__cookies
 nosalty.hu###sliding-popup
 nouvelobs.com##div[style*='width:550px;background-color:#feefaa;']
+nordicdesigncollective.se###cookie-policy-accept-bar
+norrtalje.se##.cookieInfo
 noz.de###cookie-optout
 nrc.nl##.cookiemonster.kleverig
 nu.nl###cookiebar_wrapper
-nyheter24.se###acceptCookiesDiv
+nyheter24.se###accept-cookies-div
 nyteknik.se###canvas > div:nth-of-type(1) > .js-cookie-notification.cookie-notification-container
 o2.pl##.cookie-info__transition
 odeon.co.uk###icoCookiesBanner
@@ -430,6 +437,7 @@ rumid.dk##div[style^="bottom: 0px; height: 1px; left: 0px;"]
 ruter.no##div[data-cookie-message]
 samsung.com##.cookie_notice
 santander.co.uk###cookiebannerAH
+sas.se##.cookieinfoholder
 savi-france.fr###notifybar
 sbab.se###cookie
 schwarzkopf.co.uk##div.cookiedisclaimer
@@ -445,12 +453,14 @@ shpock.com###cookie-modal
 siba.se###cookieInformationBoxWrapper > .Web_CookiesBackround
 simyo.es##.cookieAsker
 skatteverket.se###svid12_361dc8c15312eff6fd131f8 > .alertWrp
+skistar.com###fn-accept-cookies-confirmation
 sky.com###skycom-cookie-wrapper
 skynet.be###messageCookie
 skyscanner.net###cookie
 slate.fr##.footer_cnil
 soeren-hentzschel.at###storage-notice
 softpedia.com##.jobnotice_cnt
+solresor.se##.page-wrapper > .page-wrapper-holder > .jb-vacation.expanded.nutch-ignore > .row.cookie-policy-alert > div
 solus-project.com###cookie-law-info-bar
 sonera.fi##.attention-notice
 soundcloud.com##.announcement
@@ -461,12 +471,15 @@ spotify.com##.uk-cookies
 spp.se###cookieNote
 stadt-koeln.de###cookie_content
 stargreen.com##div[style^="color: rgb(238, 238, 238); background-color: rgb(102, 102, 51);"]
+stim.se###sliding-popup > .messages
+stockholm.se###cookie-legal-notice
 stofa.dk###cookie_collapse
 stofa.dk##.cookie_footer
 store.playstation.com###cookieWarningMessage
 stormcreative.co.uk###storm-cookie
 superdeporte.es##div[style*='bg_cookies.jpg']
 suzuki.co.uk###privacypopup
+svensktnaringsliv.se###warning
 t-mobile.co.uk##.cookies-message-container
 t-mobile.nl###TMobile_nl_WebPortals_UI_PageComponents_CookieSettingsOverlay_CookieSettingsOverlayController_OverlayRootDiv
 t-mobile.nl###exposeMask
