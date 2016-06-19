@@ -44,6 +44,7 @@ ad-hoc-news.de###cookie
 agria.se###header > .topbar > .topmessage-holder > .cookiemessage.topmessage
 agynamix.de###cookie
 airvpn.org##div[style*='width:800px']
+alandsbanken.ax##.cookie-prompter > .cookie-prompter__inner > .row > .column.large-12.medium-12.small-12 > .cookie-prompter__content
 alecta.se###aspnetForm > .visible.cookie-notification
 alinea.fr##.cookies-notice-msg
 allocine.fr##.info-cookie
@@ -180,6 +181,7 @@ fazer.se##.ng-scope.notification-bar.cookie-notification
 fedex.com###privacy-notice
 fgov.be###perBoxUI
 fhm.com###bauerCookiePolicy
+fi.se###contentarea > div:nth-of-type(1) > .clearfix.cookiealert.box > .clearfix.boxbody
 filmaffinity.com###info-cookie
 filmtipset.se###acceptCookiesDiv
 fliegen-usa.de###cc-cookie-law
@@ -249,6 +251,7 @@ interia.pl###inpl_cp_cnt
 iopscience.iop.org##.cookies-banner-wrap
 itele.fr###cnil_alert_inner
 itv.com###itv-cookie-notification
+jak.se###cookies-notification
 jetbrains.com###cookies-terminal
 jman.tv###ActionBar
 johnlewis.com###jlp-cookie-container
@@ -310,6 +313,7 @@ macbidouille.com###okookie-box
 macg.co###sliding-popup
 macforum.se##.cookies-alert.container-fluid
 macuser.de##.eucookie_wrapper
+marginalen.se###accept-cookies > .Notification-content
 masterofmalt.com###cookiePopup
 materiel.net###cookie
 mclaren.com###block-cookie-info
