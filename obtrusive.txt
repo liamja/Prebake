@@ -75,8 +75,6 @@ banknordik.dk###cookieWarningDiv
 baon.hu##div[class="allow-cookie-stripe"]
 barclays.co.uk##P.otm
 bbcgoodfood.com##.cookie-law
-bblat.se###p_ciInner
-bblat.se###p_ciBtn
 beatsbydre.com###brand_drawer
 beatsbydre.com##.brand_drawer
 bedetheque.com##.cookie_message
@@ -332,8 +330,6 @@ motor-talk.de###b-cc
 mpora.com##.c-cookie-policy
 mundodeportivo.com###cookies-policy-mssg
 n-mobile.net###infobox3
-na.se###p_ciInner
-na.se###p_ciBtn
 narod.hr###fancybox-overlay
 narod.hr###fancybox-wrap
 nationwide.co.uk###cn
@@ -350,8 +346,6 @@ nicematin.com##.alert-cookies
 nlt.se###nltcoCookieInformationContainer
 nlyman.com###toast-container
 nol.hu##div[class="allow-cookie-stripe"]
-norrteljetidning.se###p_ciInner
-norrteljetidning.se###p_ciBtn
 nos.pt##.nav__cookies
 nosalty.hu###sliding-popup
 nouvelobs.com##div[style*='width:550px;background-color:#feefaa;']
@@ -359,8 +353,6 @@ noz.de###cookie-optout
 nrc.nl##.cookiemonster.kleverig
 nu.nl###cookiebar_wrapper
 nyheter24.se###acceptCookiesDiv
-nynashamnsposten.se###p_ciInner
-nynashamnsposten.se###p_ciBtn
 nyteknik.se###canvas > div:nth-of-type(1) > .js-cookie-notification.cookie-notification-container
 o2.pl##.cookie-info__transition
 odeon.co.uk###icoCookiesBanner
@@ -512,8 +504,6 @@ vice.com###cookies_msg
 videnskab.dk###block-videnskabdk_custom_blocks-cookie_compliance
 videojug.com##.cp-alert-message
 vileda.com###cookienotice-container
-vlt.se###p_ciInner
-vlt.se###p_ciBtn
 volvotrucks.com###acceptCookie
 wattsindustries.com###header1_overlay2
 web.skype.com##.notification.info
@@ -791,6 +781,8 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###pnlCookieWarning
 ###politicaCookies
 ###privacyPolicyLayerN
+###p_ciInner
+###p_ciBtn
 ###site-we-use-cookies
 ###svtCookieInformationContainer
 ###uecookies
