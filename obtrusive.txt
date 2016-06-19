@@ -41,8 +41,10 @@ abbeyroad.com###popupCookies
 actu-environnement.com###informations-cookies
 adlibris.com###cookie-information-banner
 ad-hoc-news.de###cookie
+agria.se###header > .topbar > .topmessage-holder > .cookiemessage.topmessage
 agynamix.de###cookie
 airvpn.org##div[style*='width:800px']
+alecta.se###aspnetForm > .visible.cookie-notification
 alinea.fr##.cookies-notice-msg
 allocine.fr##.info-cookie
 allevo.nu###cookie-question
@@ -266,6 +268,7 @@ korben.info##.cookie-notice-container
 kwejk.pl###cookies-politics
 lab-project.net##.activebar-container
 lagazettedescommunes.com###bandeauCookies
+lansforsakringar.se###header > .header-top-content > .topmessages > .topmessage-cookie.topmessage-holder
 large.nl###cookie_law
 larousse.fr##.panel-cookies
 lastminute.com##.cookieBox
@@ -320,6 +323,7 @@ mercialys.fr##.info-top
 microsoft.com##.euCookie.mscom-alertitem
 microsoft.com###lca-cookie-notification
 middle-earth.xenite.org##.pea_cook_wrapper
+migrationsverket.se###svid10_2bbf7de914c17a2ed261cef
 ministryofsound.com###ctl00_ctl00_Cookies1_UpdatePanel1
 mobile.twitter.com##.is-open.EuCookieSheet
 mobistar.be###sliding-popup
@@ -436,6 +440,7 @@ shop.pattheduck.com###FISLCC
 shpock.com###cookie-modal
 siba.se###cookieInformationBoxWrapper > .Web_CookiesBackround
 simyo.es##.cookieAsker
+skatteverket.se###svid12_361dc8c15312eff6fd131f8 > .alertWrp
 sky.com###skycom-cookie-wrapper
 skynet.be###messageCookie
 skyscanner.net###cookie
@@ -449,6 +454,7 @@ sport.es###msg-cookie
 spotify.com###js-message-bar-cookie-notice
 spotify.com###js-message-notice[data-name="cookieNotice"]
 spotify.com##.uk-cookies
+spp.se###cookieNote
 stadt-koeln.de###cookie_content
 stargreen.com##div[style^="color: rgb(238, 238, 238); background-color: rgb(102, 102, 51);"]
 stofa.dk###cookie_collapse
