@@ -221,6 +221,7 @@ here.com##.notification_box.ng-isolate-scope.cookie
 hintaseuranta.fi###cookies-info-banner
 hirado.hu###cookie
 hm.com##section[class="cookie-notification"]
+hn.se###stampenCookieInformationContainer
 horoscope.fr###useCookiesCont
 hotelgranvia.com###lc_cookies-main
 hp.com###cookie_privacy_holder
@@ -342,6 +343,8 @@ nfbio.dk###the-cookie
 nicematin.com##.alert-cookies
 nlyman.com###toast-container
 nol.hu##div[class="allow-cookie-stripe"]
+norrteljetidning.se###p_ciInner
+norrteljetidning.se###p_ciBtn
 nos.pt##.nav__cookies
 nosalty.hu###sliding-popup
 nouvelobs.com##div[style*='width:550px;background-color:#feefaa;']
@@ -349,6 +352,8 @@ noz.de###cookie-optout
 nrc.nl##.cookiemonster.kleverig
 nu.nl###cookiebar_wrapper
 nyheter24.se###acceptCookiesDiv
+nynashamnsposten.se###p_ciInner
+nynashamnsposten.se###p_ciBtn
 nyteknik.se###canvas > div:nth-of-type(1) > .js-cookie-notification.cookie-notification-container
 o2.pl##.cookie-info__transition
 odeon.co.uk###icoCookiesBanner
@@ -428,6 +433,7 @@ severntrent.com###cookiePrompt
 sgs.com##.sgsCookies
 shop.pattheduck.com###FISLCC
 shpock.com###cookie-modal
+siba.se###cookieInformationBoxWrapper > .Web_CookiesBackround
 simyo.es##.cookieAsker
 sky.com###skycom-cookie-wrapper
 skynet.be###messageCookie
