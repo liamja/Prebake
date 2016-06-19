@@ -85,7 +85,6 @@ blog.hu##div[id="_iph_cp_popup"]
 blogger.com###blogger_cookie_notice
 blogs.mediapart.fr##.cookie-warn-msg
 boingtv.fr###sliding-popup
-bohuslaningen.se###stampenCookieInformationContainer
 bol.com###top_header_cookie_message
 bona.com##.cookie
 boomerangtv.co.uk###sliding-popup
@@ -205,14 +204,12 @@ gosc.pl##div[style^="border: 10px solid rgb(138, 138, 138);"]
 gov.uk###global-cookie-message
 gov.uk##.js-cookies-banner
 gp.se###gpsecCookieInformationContainer
-gp.se###stampenCookieInformationContainer
 gqmagazine.fr###cookies-message-main
 graspop.be##.s--show.cookies
 grosbill.com###cnil_bar
 groupalia.com##.wrapperCookies
 groupe-logos.com##div[style*='z-index: 1000;']
 guardian.co.uk##.identity-noticebar-content
-hallandsposten.se###stampenCookieInformationContainer
 hannovermesse.de##.row.user-notes-notification.M011
 heart.co.uk###cookie_bar
 heltnormalt.dk##.banner
@@ -223,7 +220,6 @@ here.com##.notification_box.ng-isolate-scope.cookie
 hintaseuranta.fi###cookies-info-banner
 hirado.hu###cookie
 hm.com##section[class="cookie-notification"]
-hn.se###stampenCookieInformationContainer
 horoscope.fr###useCookiesCont
 hotelgranvia.com###lc_cookies-main
 hp.com###cookie_privacy_holder
@@ -785,6 +781,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###p_ciBtn
 ###site-we-use-cookies
 ###svtCookieInformationContainer
+###stampenCookieInformationContainer
 ###uecookies
 ###usrConsent
 ###warning_cookie
