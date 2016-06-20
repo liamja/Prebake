@@ -368,7 +368,6 @@ nectar.com###cc-notification
 nelly.com###toast-container
 netapp.com###cboxOverlay
 netapp.com###colorbox
-netonnet.se##.acceptCookies
 newscientist.com###rbiCookiePolicy_pushDownBoxWrapper
 nexusmods.com###jquery-cookie-law-script
 nfbio.dk###the-cookie
@@ -894,6 +893,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ##.js-cookie-container
 ! ebay.*
 ##.gh-banner-active>.gh-banner-active
+##.topInfo > .alert-warning.alert
 
 
 ! Whitelist
