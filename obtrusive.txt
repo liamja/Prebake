@@ -43,7 +43,6 @@ adlibris.com###cookie-information-banner
 ad-hoc-news.de###cookie
 agria.se###header > .topbar > .topmessage-holder > .cookiemessage.topmessage
 agynamix.de###cookie
-airbusgroup.com##.cookiebox
 airvpn.org##div[style*='width:800px']
 akademibokhandeln.se##.cookie-info-wrapper > .cookie-info
 alandsbanken.ax##.cookie-prompter > .cookie-prompter__inner > .row > .column.large-12.medium-12.small-12 > .cookie-prompter__content
@@ -58,7 +57,6 @@ anglianwater.co.uk###ctl00_pnlCookie
 answers.microsoft.com###PrivacyBanner
 antikvarium.hu##div[class="eupopup-container eupopup-container-bottom eupopup-color-default"]
 appszoom.com##.js-toast-cookies
-apps.ups.com###cookieMsg
 area-codes.org.uk###wsjconsent
 argenta.be##.ag-cookie-policy-wrapper
 arla.dk###Container
@@ -69,7 +67,6 @@ asda.com###FT_Cookies
 askmen.com###policyNotice
 astrazeneca.com###cookie-disclaimer
 atg.se###react-root > div > div:nth-of-type(2) > div:nth-of-type(2) > .hidden-print.hidden-app.alert--small-margin.alert--info.alert--dismissable.alert
-athenagames.co.uk###cookieNotice
 atman.pl###gbpl_oba
 atman.pl##.polityka-cookie
 atv.hu##div[id="cookie-warning"]
@@ -121,9 +118,7 @@ castrol.com##.nv-cookie-notification
 cc.au.dk###au_cookiesalert
 change.org##.flash-message.flash-message-announcement
 channel4.com##.all4nav-cookie-policy-notification
-chefkoch.de###ck-cookie-statement
 chomikuj.pl##.cookiesInfo
-chronodrive.com###privacyBar
 claireperry.org.uk###blanket
 claireperry.org.uk###message
 clarkewillmott.com###cookiestext
@@ -154,7 +149,6 @@ developpez.com###gabarit_cnilcookie
 devianne.com###avertissement_cookies
 diabetes.org.uk###policyPopup
 digital.di.se##.footer > .footer__cookie-info
-disneystore.co.uk##.dismissable-cookie-policy
 dmi.dk##.content
 dnevnik.hr###cookieMon
 dobreprogramy.pl###cookiesPanel
@@ -166,7 +160,6 @@ duden.de###sliding-popup
 duf.dk##.tx-tc-cookie
 dutchnews.nl##.cookiepolicy
 eadt.co.uk###cookielaw2
-ebuyer.com##.cookie-monster.js-cookie-monster.cookie-monster-show
 economist.com###ec-cookie-messages-container
 edigital.hu##div[id="hr_cookie_policy_message"]
 edp24.co.uk###cookielaw2
@@ -180,7 +173,6 @@ elle.fr###c_agrem
 empireonline.com###bauerCookiePolicy
 eniro.se##.cookies-info-static
 epson.fr##.epson_cookienotice
-esa.int###cookie_loc
 esbe.eu##.header-cookie-content
 espn.co.uk##.cookie-overlay
 etel-tuning.eu###cookieNoticeContent
@@ -376,7 +368,6 @@ nectar.com###cc-notification
 nelly.com###toast-container
 netapp.com###cboxOverlay
 netapp.com###colorbox
-netflix.com###cookie-disclosure
 netonnet.se##.acceptCookies
 newscientist.com###rbiCookiePolicy_pushDownBoxWrapper
 nexusmods.com###jquery-cookie-law-script
@@ -437,7 +428,6 @@ premierleague.com###cookies-verify
 priceminister.com###legalNotificationEltId
 priorygroup.com###promptbar
 prixtel.com###dotbandeaucookie
-profil.at###cookieModal
 proximus.be##section[data-tms-id="TMS_COOKIE_MESSAGE"]
 qmarket.se###eu-cookie-bar-notification
 quoka.de###msgCookie
@@ -468,9 +458,7 @@ rtvslo.si###size-window-cookie
 rumid.dk##div[style^="bottom: 0px; height: 1px; left: 0px;"]
 ruter.no##div[data-cookie-message]
 samsung.com##.cookie_notice
-salesforce.com###privacy-bar-bottom-container
 santander.co.uk###cookiebannerAH
-santander.co.uk###_W034_Cookie_Directive_WAR_W034_Cookie_Directiveportlet_contenedor01
 santamariaworld.com##.wrapper > .cookies-box
 sas.se##.cookieinfoholder
 savi-france.fr###notifybar
@@ -481,7 +469,6 @@ scottishfriendly.co.uk###cookieNotification
 seloger.com##.container_cookies
 severntrent.com###cookiePrompt
 sgs.com##.sgsCookies
-share.com###ui-cookie-policy
 shop.asedo.se##form > .infobanner > .content > .info
 shop.asedo.se##form > .infobanner
 shop.pattheduck.com###FISLCC
@@ -494,12 +481,10 @@ sky.com###skycom-cookie-wrapper
 skynet.be###messageCookie
 skyscanner.net###cookie
 slate.fr##.footer_cnil
-sme.sk##.js-cookie-bar
 soeren-hentzschel.at###storage-notice
 softpedia.com##.jobnotice_cnt
 solresor.se##.page-wrapper > .page-wrapper-holder > .jb-vacation.expanded.nutch-ignore > .row.cookie-policy-alert > div
 solus-project.com###cookie-law-info-bar
-sosh.fr###s-cookie
 sonera.fi##.attention-notice
 soundcloud.com##.announcement
 sport.es###msg-cookie
@@ -519,8 +504,6 @@ stormcreative.co.uk###storm-cookie
 superdeporte.es##div[style*='bg_cookies.jpg']
 suzuki.co.uk###privacypopup
 svensktnaringsliv.se###warning
-sweclockers.com###adblockBanner
-sweclockers.com###siteHeader > .banner
 t-mobile.co.uk##.cookies-message-container
 t-mobile.nl###TMobile_nl_WebPortals_UI_PageComponents_CookieSettingsOverlay_CookieSettingsOverlayController_OverlayRootDiv
 t-mobile.nl###exposeMask
@@ -559,7 +542,6 @@ tyda.se###accept-cookies-div
 uk.farnell.com###mktg_Cookie_Wrap
 uk.yahoo.com###applet_p_50000174
 uktv.co.uk##span.cookie-notice
-umu.se##.umuCookieMain
 unblog.fr###unblcn
 ungdomskort.dk###eksCookiePrompt
 unity3d.com##.cookie-dialog
@@ -582,6 +564,24 @@ wikomobile.com##.pop_cookies
 willys.se###pnlCookieNotice
 wimp.dk##.cookie-warn
 wizzo.es##.avisoCookie
+www.airbusgroup.com##.cookiebox
+www.athenagames.co.uk###cookieNotice
+www.chefkoch.de###ck-cookie-statement
+www.chronodrive.com###privacyBar
+www.disneystore.co.uk##.dismissable-cookie-policy
+www.ebuyer.com##.cookie-monster.js-cookie-monster.cookie-monster-show
+www.esa.int###cookie_loc
+www.netflix.com###cookie-disclosure
+www.profil.at###cookieModal
+www.salesforce.com###privacy-bar-bottom-container
+www.santander.co.uk###_W034_Cookie_Directive_WAR_W034_Cookie_Directiveportlet_contenedor01
+www.share.com###ui-cookie-policy
+www.sme.sk##.js-cookie-bar
+www.sosh.fr###s-cookie
+www.sweclockers.com###adblockBanner
+www.sweclockers.com###siteHeader > .banner
+www.umu.se##.umuCookieMain
+wwwapps.ups.com###cookieMsg
 xe.com##.cookie-siteusage-notice
 yachtpaint.com##.cookiesPro
 yahoo.com###yucs-eprivacy
