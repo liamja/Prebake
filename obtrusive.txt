@@ -333,6 +333,7 @@ macbidouille.com###okookie-box
 macg.co###sliding-popup
 macforum.se##.cookies-alert.container-fluid
 macuser.de##.eucookie_wrapper
+malmo.se###m-consent
 magine.com###content-wrapper > .ng-scope > div:nth-of-type(3) > .cookie-notification.ng-isolate-scope
 marginalen.se###accept-cookies > .Notification-content
 masterofmalt.com###cookiePopup
