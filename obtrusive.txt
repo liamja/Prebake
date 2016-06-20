@@ -381,6 +381,7 @@ priceminister.com###legalNotificationEltId
 priorygroup.com###promptbar
 prixtel.com###dotbandeaucookie
 proximus.be##section[data-tms-id="TMS_COOKIE_MESSAGE"]
+qt.io##.cookies_yum
 quoka.de###msgCookie
 qype.co.uk##.js-cookie-info
 radionomy.com###cookieDough
