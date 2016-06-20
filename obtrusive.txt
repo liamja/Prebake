@@ -284,6 +284,7 @@ keil.com##.modouter
 ketnet.be###cookie-bar-wrapper
 kingston.ac.uk###site-wide-cookie-message
 knaufdanoline.fr###pronamic_cookie_holder
+kommunal.se##.Site > .is-open.cookie-processed.Cookie
 konsumentverket.se###ctl00_ContentPlaceHolderAll_TopRegion_ctl00_CookieInfo1_DivCoockieInfo
 korben.info##.cookie-notice-container
 kwejk.pl###cookies-politics
@@ -324,7 +325,9 @@ life.hu##div[class="accept-cookie-open"]
 lindex.com###notifications > .notification
 linkedin.com###notice-cookie-policy
 livescores.com##.row.well.info-msg
+livrustkammaren.se###sliding-popup
 llas.ac.uk###sliding-popup
+lnu.se##.app-header > .cookie-policy-form
 londonstockexchange.com###bannerCookies
 lonelyplanet.com##.row--cookie-compliance
 lufbra.net##.cwcookielaw
@@ -463,6 +466,7 @@ santamariaworld.com##.wrapper > .cookies-box
 sas.se##.cookieinfoholder
 savi-france.fr###notifybar
 sbab.se###cookie
+scandichotels.se##.cookie-section.l-section
 schwarzkopf.co.uk##div.cookiedisclaimer
 schwarzkopf.de##div.cookiedisclaimer
 scottishfriendly.co.uk###cookieNotification
@@ -503,6 +507,7 @@ store.playstation.com###cookieWarningMessage
 stormcreative.co.uk###storm-cookie
 superdeporte.es##div[style*='bg_cookies.jpg']
 suzuki.co.uk###privacypopup
+svenskakyrkan.se##.is-active.c-cookies
 svensktnaringsliv.se###warning
 t-mobile.co.uk##.cookies-message-container
 t-mobile.nl###TMobile_nl_WebPortals_UI_PageComponents_CookieSettingsOverlay_CookieSettingsOverlayController_OverlayRootDiv
@@ -548,6 +553,7 @@ unity3d.com##.cookie-dialog
 usersnap.com##.cookies-message
 usine-digitale.fr###jQAlertAcceptCookie
 uzletresz.hu##div[class="accept-cookie-open"]
+vasttrafik.se###WeUseCookiesDesktop
 veuve-clicquot.com##.agegate-cookie
 vg.hu##div[class="allow-cookie-stripe"]
 vice.com###cookies_msg
