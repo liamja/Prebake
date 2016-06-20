@@ -66,13 +66,14 @@ arte.tv###arte-cookie-banner
 asda.com###FT_Cookies
 askmen.com###policyNotice
 astrazeneca.com###cookie-disclaimer
+atg.se###react-root > div > div:nth-of-type(2) > div:nth-of-type(2) > .hidden-print.hidden-app.alert--small-margin.alert--info.alert--dismissable.alert
 atman.pl###gbpl_oba
 atman.pl##.polityka-cookie
+atv.hu##div[id="cookie-warning"]
 audion.com###cc-cookie
 auto-ici.fr###close_cnil
 automotorsport.se##.alert
 autotask.com##.jsEnabled.alertbar-bottom.alertbar
-atv.hu##div[id="cookie-warning"]
 avanza.se##.avanzabank_cookie_message.cookieMessage
 aviva.co.uk##.cookiePopUp
 bahnhof.se##.top-line-block
@@ -86,6 +87,7 @@ beatsbydre.com##.brand_drawer
 bedetheque.com##.cookie_message
 bestbyte.hu##div[id="vscookieAlertCont"]
 betfair.com##.footer-cookies-policy
+betsson.com###msgwrapper > .msgalign
 bibliotek.dk##.popup-content
 blog.hu##div[id="_iph_cp_popup"]
 blogger.com###blogger_cookie_notice
@@ -100,6 +102,8 @@ bouyguestelecom.fr###no-cookie
 box.com###sliding-popup
 breakbeat.co.uk###CookieInformation
 britishmuseum.org###cookiePromptWrapper
+bubbleroom.se##.cookieInfo
+byggmax.se###main-container > .cookie-information
 ca-nord-est.fr##.recocliv2
 cadbury.co.uk###\5f CookieText
 car2go.com###c2g_cookie_dialog
@@ -179,6 +183,8 @@ euroman.dk##.content
 eurowoman.dk##.content
 ey.com##.cookienote
 facebook.com##.pam.fbPageBanner._3d9x.uiBoxGray.bottomborder
+familjeliv.se##.wrapper_1 > .wrapper_2 > .cookie-dialog.block > div
+fass.se###id3
 fasthosts.co.uk###cookie
 fatbeehive.com##div[style^="background-color: #000;"]
 fazer.se##.ng-scope.notification-bar.cookie-notification
@@ -196,6 +202,7 @@ forex.se###cookie-policy-wrapper
 fotka.com###cookies_info
 france5.fr###cookie-cnil-box
 freeview.co.uk###cookie-panel
+fundedbyme.com##.is-landingPage.page--b.page > .header--b.header > .wrapper.pageNotification:nth-of-type(1)
 fundingcircle.com##.is-visible.notification_wrap
 furniturevillage.co.uk###SiteMasterPage_updCookieDisclaimer
 futura-sciences.com###fs-cookiewarning
@@ -223,9 +230,11 @@ grosbill.com###cnil_bar
 groupalia.com##.wrapperCookies
 groupe-logos.com##div[style*='z-index: 1000;']
 guardian.co.uk##.identity-noticebar-content
+halens.se###site-message
 haninge.se##.container > .visible.ng-scope.hiddenOnPrint.cookieContainer
 hannovermesse.de##.row.user-notes-notification.M011
 heart.co.uk###cookie_bar
+helsingborg.se##.site-wrapper > div > .alert-info.alert
 heltnormalt.dk##.banner
 heltnormalt.dk##.banner-container
 hemkop.se###pnlCookieNotice
@@ -280,6 +289,7 @@ korben.info##.cookie-notice-container
 kwejk.pl###cookies-politics
 lab-project.net##.activebar-container
 lagazettedescommunes.com###bandeauCookies
+laget.se##.padding--slim.box.cookiePush
 lansforsakringar.se###header > .header-top-content > .topmessages > .topmessage-cookie.topmessage-holder
 large.nl###cookie_law
 larousse.fr##.panel-cookies
@@ -311,6 +321,7 @@ levante-emv.com##div[style*='bg_cookies.jpg']
 lg.com##.wrapper > .policyChk
 liberation.fr##.cookie-notify
 life.hu##div[class="accept-cookie-open"]
+lindex.com###notifications > .notification
 linkedin.com###notice-cookie-policy
 livescores.com##.row.well.info-msg
 llas.ac.uk###sliding-popup
@@ -346,6 +357,7 @@ monitor.si##.cookie-note-content
 monster.co.uk###intMsgCookies
 motor-talk.de###b-cc
 mpora.com##.c-cookie-policy
+mq.se###cookieInfoBar
 mundodeportivo.com###cookies-policy-mssg
 n-mobile.net###infobox3
 narod.hr###fancybox-overlay
@@ -364,6 +376,7 @@ nicematin.com##.alert-cookies
 nlt.se###nltcoCookieInformationContainer
 nlyman.com###toast-container
 nol.hu##div[class="allow-cookie-stripe"]
+nordicdesigncollective.com###cookie-policy-accept-bar
 nos.pt##.nav__cookies
 nosalty.hu###sliding-popup
 nouvelobs.com##div[style*='width:550px;background-color:#feefaa;']
@@ -423,6 +436,7 @@ radionomy.com###cookieDough
 radron.se##.cookies-bar
 ransomesjacobsen.com###cookieuseage
 rapidonline.com###Header_SelectSitePopup_DisplaySiteSplitMsgDiv
+readly.com###wrapper > .navbar-default.navbar > .cookies-container.container-fluid
 redbull.com##.cookie-notification
 reddit.com###eu-cookie-policy
 reed.co.uk##.notification
