@@ -44,6 +44,7 @@ ad-hoc-news.de###cookie
 agria.se###header > .topbar > .topmessage-holder > .cookiemessage.topmessage
 agynamix.de###cookie
 airvpn.org##div[style*='width:800px']
+akademibokhandeln.se##.cookie-info-wrapper > .cookie-info
 alandsbanken.ax##.cookie-prompter > .cookie-prompter__inner > .row > .column.large-12.medium-12.small-12 > .cookie-prompter__content
 alecta.se###aspnetForm > .visible.cookie-notification
 alinea.fr##.cookies-notice-msg
@@ -74,6 +75,7 @@ autotask.com##.jsEnabled.alertbar-bottom.alertbar
 atv.hu##div[id="cookie-warning"]
 avanza.se##.avanzabank_cookie_message.cookieMessage
 aviva.co.uk##.cookiePopUp
+bahnhof.se##.top-line-block
 bankid.com##.wrapper > .bankid-cookie.alert-dismissable.alert-warning.alert
 banknordik.dk###cookieWarningDiv
 baon.hu##div[class="allow-cookie-stripe"]
@@ -185,10 +187,12 @@ fgov.be###perBoxUI
 fhm.com###bauerCookiePolicy
 fi.se###contentarea > div:nth-of-type(1) > .clearfix.cookiealert.box > .clearfix.boxbody
 filmaffinity.com###info-cookie
+filminstitutet.se##.info-banner.js-info-banner
 filmtipset.se###acceptCookiesDiv
 fliegen-usa.de###cc-cookie-law
 focusrite.com###sliding-popup
 folkuniversitetet.se##.alert
+forex.se###cookie-policy-wrapper
 fotka.com###cookies_info
 france5.fr###cookie-cnil-box
 freeview.co.uk###cookie-panel
@@ -271,6 +275,7 @@ keil.com##.modouter
 ketnet.be###cookie-bar-wrapper
 kingston.ac.uk###site-wide-cookie-message
 knaufdanoline.fr###pronamic_cookie_holder
+konsumentverket.se###ctl00_ContentPlaceHolderAll_TopRegion_ctl00_CookieInfo1_DivCoockieInfo
 korben.info##.cookie-notice-container
 kwejk.pl###cookies-politics
 lab-project.net##.activebar-container
@@ -397,6 +402,7 @@ piret.be##.divCookiePopUpContainer
 pizza-online.fi###cookie_policy_container
 play.google.com##.app-translation-bar
 polisen.se##.cookie
+polisen.se###ctl00_MessageAlarmArea_Message_CookieInformationHolder > .cookie.normallevel.message-area
 polytuil.fr###cookiesContainer
 portfolio.hu##div[id="_iph_cp_popup"]
 postimees.ee###pm-cookie-consent
@@ -410,9 +416,11 @@ priceminister.com###legalNotificationEltId
 priorygroup.com###promptbar
 prixtel.com###dotbandeaucookie
 proximus.be##section[data-tms-id="TMS_COOKIE_MESSAGE"]
+qmarket.se###eu-cookie-bar-notification
 quoka.de###msgCookie
 qype.co.uk##.js-cookie-info
 radionomy.com###cookieDough
+radron.se##.cookies-bar
 ransomesjacobsen.com###cookieuseage
 rapidonline.com###Header_SelectSitePopup_DisplaySiteSplitMsgDiv
 redbull.com##.cookie-notification
@@ -437,6 +445,7 @@ rumid.dk##div[style^="bottom: 0px; height: 1px; left: 0px;"]
 ruter.no##div[data-cookie-message]
 samsung.com##.cookie_notice
 santander.co.uk###cookiebannerAH
+santamariaworld.com##.wrapper > .cookies-box
 sas.se##.cookieinfoholder
 savi-france.fr###notifybar
 sbab.se###cookie
@@ -471,6 +480,7 @@ spotify.com##.uk-cookies
 spp.se###cookieNote
 stadt-koeln.de###cookie_content
 stargreen.com##div[style^="color: rgb(238, 238, 238); background-color: rgb(102, 102, 51);"]
+statensmedierad.se###svid10_72fa465114e7710fdc864e0
 stim.se###sliding-popup > .messages
 stockholm.se###cookie-legal-notice
 stofa.dk###cookie_collapse
@@ -508,6 +518,7 @@ tomshw.it###cookies-privacy
 totalmoney.pl###right_widget
 trophies-ps3.de###ingameCookie
 trygghansa.se###header > .cookieInformation
+tullverket.se###svid10_26b0417114a365251a916c
 tvn.pl###msgLayer
 tvn24.pl###msgLayer
 tvn24bis.pl###msgLayer
