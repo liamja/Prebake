@@ -383,11 +383,9 @@ nicematin.com##.alert-cookies
 nlt.se###nltcoCookieInformationContainer
 nlyman.com###toast-container
 nol.hu##div[class="allow-cookie-stripe"]
-nordicdesigncollective.com###cookie-policy-accept-bar
 nos.pt##.nav__cookies
 nosalty.hu###sliding-popup
 nouvelobs.com##div[style*='width:550px;background-color:#feefaa;']
-nordicdesigncollective.se###cookie-policy-accept-bar
 noz.de###cookie-optout
 nrc.nl##.cookiemonster.kleverig
 nu.nl###cookiebar_wrapper
@@ -740,6 +738,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###cookie-notification-wrapper
 ###cookie-overlay-wrapper
 ###cookie-policy
+###cookie-policy-accept-bar
 ###cookie-policy-banner
 ###cookie-policy-container
 ###cookie-policy-notice
