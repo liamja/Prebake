@@ -283,10 +283,12 @@ karriere.fresenius.de##.cookie_message_inner
 keil.com##.modouter
 ketnet.be###cookie-bar-wrapper
 kingston.ac.uk###site-wide-cookie-message
+kiruna.se###cookieDiv
 knaufdanoline.fr###pronamic_cookie_holder
 kommunal.se##.Site > .is-open.cookie-processed.Cookie
 konsumentverket.se###ctl00_ContentPlaceHolderAll_TopRegion_ctl00_CookieInfo1_DivCoockieInfo
 korben.info##.cookie-notice-container
+kungsor.se###cookiepolicy
 kwejk.pl###cookies-politics
 lab-project.net##.activebar-container
 lagazettedescommunes.com###bandeauCookies
