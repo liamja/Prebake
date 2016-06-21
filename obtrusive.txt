@@ -103,7 +103,6 @@ bouyguestelecom.fr###no-cookie
 box.com###sliding-popup
 breakbeat.co.uk###CookieInformation
 britishmuseum.org###cookiePromptWrapper
-bubbleroom.se##.cookieInfo
 byggmax.se###main-container > .cookie-information
 ca-nord-est.fr##.recocliv2
 cadbury.co.uk###\5f CookieText
@@ -394,7 +393,6 @@ nos.pt##.nav__cookies
 nosalty.hu###sliding-popup
 nouvelobs.com##div[style*='width:550px;background-color:#feefaa;']
 nordicdesigncollective.se###cookie-policy-accept-bar
-norrtalje.se##.cookieInfo
 noz.de###cookie-optout
 nrc.nl##.cookiemonster.kleverig
 nu.nl###cookiebar_wrapper
@@ -897,6 +895,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ##.cookiebar
 ##.cookieconsent-popup
 ##.cookieControl
+##.cookieInfo
 ##.CookieNote
 ##.cookieNotification
 ##.CookieNotification
