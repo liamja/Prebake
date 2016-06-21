@@ -106,6 +106,7 @@ box.com###sliding-popup
 breakbeat.co.uk###CookieInformation
 britishmuseum.org###cookiePromptWrapper
 byggmax.se###main-container > .cookie-information
+bytbil.com###cookies-alert
 ca-nord-est.fr##.recocliv2
 cadbury.co.uk###\5f CookieText
 car2go.com###c2g_cookie_dialog
@@ -157,6 +158,7 @@ digitaltmuseum.se##.region--cookie-bar
 dmi.dk##.content
 dnevnik.hr###cookieMon
 dobreprogramy.pl###cookiesPanel
+dplay.se##.header-menu-hide.header-searchbar-hide-delay.header-searchbar-hide.header > .clearfix.sticky-content-container > .notification-wrapper > .show.cookie-notification.single-notification > .notification-container
 drweb.de##.pea_cook_wrapper.pea_cook_bottomright
 dr.dk##.dr-cookie-info-box
 dr.dk##.dr-infobox
@@ -236,6 +238,7 @@ groupalia.com##.wrapperCookies
 groupe-logos.com##div[style*='z-index: 1000;']
 guardian.co.uk##.identity-noticebar-content
 halens.se###site-message
+hamsterpaj.net###accept-cookies
 haninge.se##.container > .visible.ng-scope.hiddenOnPrint.cookieContainer
 hannovermesse.de##.row.user-notes-notification.M011
 heart.co.uk###cookie_bar
@@ -523,6 +526,7 @@ tbicardiffairport.com###cookielightbox
 telekom.hu###app-cookie-policy
 telecomitalia.it###gld_cookie_flag
 telenet.be##.cookie-regulation
+telia.se##.tsAttention--Info--button
 terra.es###zaz-nb-plugin-cookie-message
 tesco.com###cp
 tesco.com###tesco_cookie_widget
