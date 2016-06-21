@@ -240,7 +240,6 @@ heart.co.uk###cookie_bar
 helsingborg.se##.site-wrapper > div > .alert-info.alert
 heltnormalt.dk##.banner
 heltnormalt.dk##.banner-container
-hemkop.se###pnlCookieNotice
 hemmetsjournal.se##.page > .alert-cookies.page-alert.alert-info.alert
 here.com##.notification_box.ng-isolate-scope.cookie
 hintaseuranta.fi###cookies-info-banner
@@ -582,7 +581,6 @@ weebs.dk###cookie_wrapper
 which.co.uk###eprivacy-holder
 wikia.com##.banner-notification.notify
 wikomobile.com##.pop_cookies
-willys.se###pnlCookieNotice
 wimp.dk##.cookie-warn
 wizzo.es##.avisoCookie
 www.airbusgroup.com##.cookiebox
@@ -849,6 +847,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###headerTopBarMessageCookies
 ###layer_cookie
 ###pnlCookieBanner
+###pnlCookieNotice
 ###pnlCookieWarning
 ###politicaCookies
 ###privacyPolicyLayerN
