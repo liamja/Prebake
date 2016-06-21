@@ -95,14 +95,11 @@ bibliotek.dk##.popup-content
 blog.hu##div[id="_iph_cp_popup"]
 blogger.com###blogger_cookie_notice
 blogs.mediapart.fr##.cookie-warn-msg
-boingtv.fr###sliding-popup
 bol.com###top_header_cookie_message
 bona.com##.cookie
-boomerangtv.co.uk###sliding-popup
 boomerangtv.fr##.cookie_popup
 borsonline.hu##div[id="pCookieWarning"]
 bouyguestelecom.fr###no-cookie
-box.com###sliding-popup
 breakbeat.co.uk###CookieInformation
 britishmuseum.org###cookiePromptWrapper
 byggmax.se###main-container > .cookie-information
@@ -111,10 +108,6 @@ cadbury.co.uk###\5f CookieText
 car2go.com###c2g_cookie_dialog
 carrefour.fr###cookie-block
 carrefour.fr##.cookie-bottom
-cartoonito.co.uk###sliding-popup
-cartoonnetwork.co.uk###sliding-popup
-cartoonnetwork.es###sliding-popup
-cartoonnetwork.fr###sliding-popup
 captchme.com##.fade.sticky.alert-cnil.msgAlert
 castrol.com##.nv-cookie-notification
 cc.au.dk###au_cookiesalert
@@ -136,13 +129,11 @@ concertolive.co.uk##.divCookieWarning
 conrad.se###headCookieAccept
 coop.se###aspnetForm > .is-passive.is-passive.Alert--info.js-canvasColCenter.Canvas-col--center.Canvas-col.Alert
 couchsurfing.com##.is-hidden
-coreight.com###sliding-popup
 cpc.farnell.com###mktg_Cookie_Wrap
 crocs.de##.intercept-content
 crocs.de##.intercept-spacer
 dailymotion.com##.sd_cookiespolicy
 dansmuseet.se##.pea_cook_bottomright.pea_cook_wrapper
-data.gov.uk###sliding-popup
 datormagazin.se###AdBlockerInfo
 davidlloyd.co.uk###home-cookie2
 dawsonera.com##.cc-cookies-container
@@ -161,7 +152,6 @@ drweb.de##.pea_cook_wrapper.pea_cook_bottomright
 dr.dk##.dr-cookie-info-box
 dr.dk##.dr-infobox
 drive24.co.uk###cookieHeader
-duden.de###sliding-popup
 duf.dk##.tx-tc-cookie
 dutchnews.nl##.cookiepolicy
 eadt.co.uk###cookielaw2
@@ -205,7 +195,6 @@ filmaffinity.com###info-cookie
 filminstitutet.se##.info-banner.js-info-banner
 filmtipset.se###acceptCookiesDiv
 fliegen-usa.de###cc-cookie-law
-focusrite.com###sliding-popup
 folkuniversitetet.se##.alert
 forex.se###cookie-policy-wrapper
 fotka.com###cookies_info
@@ -264,13 +253,11 @@ ica.se###cookie-bar
 ico.org.uk###banner
 ideone.com###cookie-ue
 if.se##.ecmt-page-wrapper > .ecmt-page > .js-cookiebar.js-notification.ecmt-notification-bottom.ecmt-notification-is-fixed.ecmt-notification-cookies.ecmt-notification
-igen.fr###sliding-popup
 ign.com###policyNotice
 ikea.com###cookieMsgBlock
 iltalehti.fi##.alma-cookie-disclaimer
 ina.fr##.cookies-bar
 indavideo.hu##div[id="_iph_cp_popup"]
-indema.si###cookie-law-info-bar
 indiegogo.com###fancybox-overlay
 indiegogo.com###fancybox-wrap
 informahealthcare.com##.overlay
@@ -288,7 +275,6 @@ jman.tv###ActionBar
 johnlewis.com###jlp-cookie-container
 jotti.org##.alert-info
 journaldunet.com##.ccmcss_oic
-juce.com###sliding-popup
 jyllands-posten.dk##.acceptCookiesBox
 k-citymarket.fi##.Pbox-sm
 k-market.fi##.Pbox-sm
@@ -340,14 +326,12 @@ life.hu##div[class="accept-cookie-open"]
 lindex.com###notifications > .notification
 linkedin.com###notice-cookie-policy
 livescores.com##.row.well.info-msg
-llas.ac.uk###sliding-popup
 lnu.se##.app-header > .cookie-policy-form
 londonstockexchange.com###bannerCookies
 lonelyplanet.com##.row--cookie-compliance
 lufbra.net##.cwcookielaw
 ma-reduc.com###about-cookies
 macbidouille.com###okookie-box
-macg.co###sliding-popup
 macforum.se##.cookies-alert.container-fluid
 macuser.de##.eucookie_wrapper
 malmo.se###m-consent
@@ -369,7 +353,6 @@ middle-earth.xenite.org##.pea_cook_wrapper
 migrationsverket.se###svid10_2bbf7de914c17a2ed261cef
 ministryofsound.com###ctl00_ctl00_Cookies1_UpdatePanel1
 mobile.twitter.com##.is-open.EuCookieSheet
-mobistar.be###sliding-popup
 moneysavingexpert.com###alertBar
 monitor.si##.cookie-note-content
 monster.co.uk###intMsgCookies
@@ -395,7 +378,6 @@ nlt.se###nltcoCookieInformationContainer
 nlyman.com###toast-container
 nol.hu##div[class="allow-cookie-stripe"]
 nos.pt##.nav__cookies
-nosalty.hu###sliding-popup
 nouvelobs.com##div[style*='width:550px;background-color:#feefaa;']
 noz.de###cookie-optout
 nrc.nl##.cookiemonster.kleverig
@@ -458,7 +440,6 @@ rex.kb.dk##.content
 rfi.fr##.cookies_bar
 richersounds.com###headerCookieLaw
 rightmove.co.uk###cookiemodalbar
-road.cc###sliding-popup
 rockpapershotgun.com###ecd_opt_in_banner
 rollingstone.com###euNotice
 rotring.com###cookienotify
@@ -501,7 +482,6 @@ smhi.se###notification1_92875
 soeren-hentzschel.at###storage-notice
 softpedia.com##.jobnotice_cnt
 solresor.se##.page-wrapper > .page-wrapper-holder > .jb-vacation.expanded.nutch-ignore > .row.cookie-policy-alert > div
-solus-project.com###cookie-law-info-bar
 sonera.fi##.attention-notice
 soundcloud.com##.announcement
 sport.es###msg-cookie
@@ -1040,7 +1020,6 @@ www.vanguard.co.uk###cookieDrawer
 www.virgintrains.co.uk###cookies-fancybox
 www.waitrose.com###topEuCookieAlert
 www.your-move.co.uk###Footer_cookieLawBox
-ywt.org.uk###sliding-popup
 zumi.pl###cookieView
 ||allegrostatic.pl/js/scripts/cookie-policy-banner$script
 ||assets.cookieconsent.silktide.com^
