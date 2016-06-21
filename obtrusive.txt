@@ -399,7 +399,6 @@ openclassrooms.com##.disclaimer.disclaimer--info.js-cookie-disclaimer
 orange.co.uk###cookieBannerD
 originalpenguin.co.uk###epd
 origo.hu##div[class="accept-cookie-open"]
-ornskoldsvik.se###cookie-law-info-bar
 ouest-france.fr###disclaimerCookies
 out-law.com###cookie
 parcelmotel.com###cookiemonster
@@ -519,7 +518,6 @@ t-mobile.nl###exposeMask
 tandfonline.com##.b-body
 tandfonline.com##.b-header
 tbicardiffairport.com###cookielightbox
-tekniskamuseet.se###cookie-law-info-bar
 telekom.hu###app-cookie-policy
 telecomitalia.it###gld_cookie_flag
 telenet.be##.cookie-regulation
@@ -731,6 +729,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###cookie-law-bar
 ###cookie-law-compliance
 ###cookie-law-consent-section
+###cookie-law-info-bar
 ###cookie-message
 ###cookie-message-container
 ###cookie-notice
