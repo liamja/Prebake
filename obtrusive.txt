@@ -46,12 +46,14 @@ agynamix.de###cookie
 airvpn.org##div[style*='width:800px']
 akademibokhandeln.se##.cookie-info-wrapper > .cookie-info
 alandsbanken.ax##.cookie-prompter > .cookie-prompter__inner > .row > .column.large-12.medium-12.small-12 > .cookie-prompter__content
+ale.se###svid10_b8d298315287380dfd27cc
 alecta.se###aspnetForm > .visible.cookie-notification
 alinea.fr##.cookies-notice-msg
 allocine.fr##.info-cookie
 allevo.nu###cookie-question
 allrecipes.co.uk###cookiePopupContainer
 altfordamerne.dk##.content
+alvesta.se###site_msg_cookie
 amd.com/Style%20Library/js/cookie-prompt.js$script
 anglianwater.co.uk###ctl00_pnlCookie
 answers.microsoft.com###PrivacyBanner
@@ -486,6 +488,7 @@ sky.com###skycom-cookie-wrapper
 skynet.be###messageCookie
 skyscanner.net###cookie
 slate.fr##.footer_cnil
+smhi.se###notification1_92875
 soeren-hentzschel.at###storage-notice
 softpedia.com##.jobnotice_cnt
 solresor.se##.page-wrapper > .page-wrapper-holder > .jb-vacation.expanded.nutch-ignore > .row.cookie-policy-alert > div
@@ -541,6 +544,7 @@ trophies-ps3.de###ingameCookie
 trafikverket.se###ctl00_Content_EmptyPage_CoockieInformation_CookieContainer
 trygghansa.se###header > .cookieInformation
 tullverket.se###svid10_26b0417114a365251a916c
+tv.nu##.\].js-site.\[.site > .\].js-cookie-notice.\[.site__partial > .zeta.desk-inset-right--enormous.text-left.text-uppercase.box--emphasize--invert.box
 tvn.pl###msgLayer
 tvn24.pl###msgLayer
 tvn24bis.pl###msgLayer
