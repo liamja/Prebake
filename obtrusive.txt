@@ -342,7 +342,6 @@ macuser.de##.eucookie_wrapper
 malmo.se###m-consent
 magine.com###content-wrapper > .ng-scope > div:nth-of-type(3) > .cookie-notification.ng-isolate-scope
 marginalen.se###accept-cookies > .Notification-content
-marinmuseum.se###cookie-wrapper
 masterofmalt.com###cookiePopup
 materiel.net###cookie
 mclaren.com###block-cookie-info
@@ -566,7 +565,6 @@ unity3d.com##.cookie-dialog
 usersnap.com##.cookies-message
 usine-digitale.fr###jQAlertAcceptCookie
 uzletresz.hu##div[class="accept-cookie-open"]
-vasamuseet.se###cookie-wrapper
 vasttrafik.se###WeUseCookiesDesktop
 veuve-clicquot.com##.agegate-cookie
 vg.hu##div[class="allow-cookie-stripe"]
@@ -751,6 +749,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###cookie-policy-notice
 ###cookie-warn
 ###cookie-warning
+###cookie-wrapper
 ###cookie_banner
 ###COOKIE_BANNER
 ###cookie_banner_container
