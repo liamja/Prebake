@@ -419,7 +419,6 @@ piret.be##.divCookiePopUpContainer
 pizza-online.fi###cookie_policy_container
 play.google.com##.app-translation-bar
 polisen.se##.cookie
-polisen.se###ctl00_MessageAlarmArea_Message_CookieInformationHolder > .cookie.normallevel.message-area
 polytuil.fr###cookiesContainer
 portfolio.hu##div[id="_iph_cp_popup"]
 postimees.ee###pm-cookie-consent
