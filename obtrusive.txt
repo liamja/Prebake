@@ -90,8 +90,6 @@ bestbyte.hu##div[id="vscookieAlertCont"]
 betfair.com##.footer-cookies-policy
 betsson.com###msgwrapper > .msgalign
 bibliotek.dk##.popup-content
-biomus.lu.se###sliding-popup
-biomus.lu.se###sliding-popup > .info.popup-content > .lu-cookie-text > p
 blog.hu##div[id="_iph_cp_popup"]
 blogger.com###blogger_cookie_notice
 blogs.mediapart.fr##.cookie-warn-msg
@@ -238,7 +236,6 @@ groupalia.com##.wrapperCookies
 groupe-logos.com##div[style*='z-index: 1000;']
 guardian.co.uk##.identity-noticebar-content
 halens.se###site-message
-hallwylskamuseet.se###sliding-popup
 haninge.se##.container > .visible.ng-scope.hiddenOnPrint.cookieContainer
 hannovermesse.de##.row.user-notes-notification.M011
 heart.co.uk###cookie_bar
@@ -335,7 +332,6 @@ life.hu##div[class="accept-cookie-open"]
 lindex.com###notifications > .notification
 linkedin.com###notice-cookie-policy
 livescores.com##.row.well.info-msg
-livrustkammaren.se###sliding-popup
 llas.ac.uk###sliding-popup
 lnu.se##.app-header > .cookie-policy-form
 londonstockexchange.com###bannerCookies
@@ -498,7 +494,6 @@ simyo.es##.cookieAsker
 skansen.se##.cookie-area
 skatteverket.se###svid12_361dc8c15312eff6fd131f8 > .alertWrp
 skistar.com###fn-accept-cookies-confirmation
-skoklostersslott.se###sliding-popup
 sky.com###skycom-cookie-wrapper
 skynet.be###messageCookie
 skyscanner.net###cookie
@@ -924,6 +919,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ! ebay.*
 ##.gh-banner-active>.gh-banner-active
 ##.topInfo > .alert-warning.alert
+###sliding-popup
 
 
 ! Whitelist
