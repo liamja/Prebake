@@ -366,7 +366,6 @@ motor-talk.de###b-cc
 mpora.com##.c-cookie-policy
 mq.se###cookieInfoBar
 mundodeportivo.com###cookies-policy-mssg
-musikverket.se##.cookieInformation
 n-mobile.net###infobox3
 narod.hr###fancybox-overlay
 narod.hr###fancybox-wrap
@@ -472,7 +471,6 @@ sas.se##.cookieinfoholder
 savi-france.fr###notifybar
 sbab.se###cookie
 scandichotels.se##.cookie-section.l-section
-scenkonstmuseet.se##.cookieInformation
 schwarzkopf.co.uk##div.cookiedisclaimer
 schwarzkopf.de##div.cookiedisclaimer
 scottishfriendly.co.uk###cookieNotification
@@ -892,6 +890,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ##.cookieconsent-popup
 ##.cookieControl
 ##.cookieInfo
+##.cookieInformation
 ##.CookieNote
 ##.cookieNotification
 ##.CookieNotification
