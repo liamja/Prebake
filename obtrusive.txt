@@ -177,11 +177,14 @@ eldos.com##.cookie_warning
 elgiganten.dk##.transbox
 elkjop.no##.cookie-info-layer
 elle.fr###c_agrem
+emmaboda.se###svid12_508bcea9153eb2a15c13749 > .lp-cookie-consent
 empireonline.com###bauerCookiePolicy
 eniro.se##.cookies-info-static
 epson.fr##.epson_cookienotice
 esbe.eu##.header-cookie-content
+eskilstuna.se###CookieMessage
 espn.co.uk##.cookie-overlay
+essunga.se###aspnetForm > .theme0.siteCSS.msg-cookie-law
 etel-tuning.eu###cookieNoticeContent
 eucomtech.eu###cookiealert
 eudict.com##.cookieNotice
@@ -190,6 +193,7 @@ euroman.dk##.content
 eurowoman.dk##.content
 ey.com##.cookienote
 facebook.com##.pam.fbPageBanner._3d9x.uiBoxGray.bottomborder
+fagersta.se###svid10_475c7afc14de44b580bcbd52
 familjeliv.se##.wrapper_1 > .wrapper_2 > .cookie-dialog.block > div
 fass.se###id3
 fasthosts.co.uk###cookie
@@ -237,10 +241,13 @@ grosbill.com###cnil_bar
 groupalia.com##.wrapperCookies
 groupe-logos.com##div[style*='z-index: 1000;']
 guardian.co.uk##.identity-noticebar-content
+habo.se###svid10_25e65dba14d7b753e8fda009
 halens.se###site-message
+halmstad.se###svid12_47c5cae51518152da6eb69 > .lp-cookie-consent
 hamsterpaj.net###accept-cookies
 haninge.se##.container > .visible.ng-scope.hiddenOnPrint.cookieContainer
 hannovermesse.de##.row.user-notes-notification.M011
+harryda.se###svid12_463e3e15150368e44dc4780c > .lp-cookie-warning
 heart.co.uk###cookie_bar
 helsingborg.se##.site-wrapper > div > .alert-info.alert
 heltnormalt.dk##.banner
@@ -250,6 +257,7 @@ here.com##.notification_box.ng-isolate-scope.cookie
 hintaseuranta.fi###cookies-info-banner
 hirado.hu###cookie
 hm.com##section[class="cookie-notification"]
+hofors.se###cookie-msg
 horoscope.fr###useCookiesCont
 hotelgranvia.com###lc_cookies-main
 hp.com###cookie_privacy_holder
