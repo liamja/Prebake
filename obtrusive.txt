@@ -432,6 +432,7 @@ quoka.de###msgCookie
 qype.co.uk##.js-cookie-info
 radionomy.com###cookieDough
 radron.se##.cookies-bar
+rana.it###cookie_popup
 ransomesjacobsen.com###cookieuseage
 rapidonline.com###Header_SelectSitePopup_DisplaySiteSplitMsgDiv
 readly.com###wrapper > .navbar-default.navbar > .cookies-container.container-fluid
