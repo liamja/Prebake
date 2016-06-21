@@ -62,6 +62,7 @@ argenta.be##.ag-cookie-policy-wrapper
 arla.dk###Container
 arla.no###Container
 arm.com###cookiemodule
+armemuseum.se##.page-header > .no-print.alert-info.alert
 arte.tv###arte-cookie-banner
 asda.com###FT_Cookies
 askmen.com###policyNotice
@@ -89,6 +90,8 @@ bestbyte.hu##div[id="vscookieAlertCont"]
 betfair.com##.footer-cookies-policy
 betsson.com###msgwrapper > .msgalign
 bibliotek.dk##.popup-content
+biomus.lu.se###sliding-popup
+biomus.lu.se###sliding-popup > .info.popup-content > .lu-cookie-text > p
 blog.hu##div[id="_iph_cp_popup"]
 blogger.com###blogger_cookie_notice
 blogs.mediapart.fr##.cookie-warn-msg
@@ -119,6 +122,7 @@ cc.au.dk###au_cookiesalert
 change.org##.flash-message.flash-message-announcement
 channel4.com##.all4nav-cookie-policy-notification
 chomikuj.pl##.cookiesInfo
+classicmotor.se###AdBlockerInfo
 claireperry.org.uk###blanket
 claireperry.org.uk###message
 clarkewillmott.com###cookiestext
@@ -138,6 +142,8 @@ cpc.farnell.com###mktg_Cookie_Wrap
 crocs.de##.intercept-content
 crocs.de##.intercept-spacer
 dailymotion.com##.sd_cookiespolicy
+dansmuseet.se##.pea_cook_bottomright.pea_cook_wrapper
+dansmuseet.se##.pea_cook_bottomright.pea_cook_wrapper > p
 data.gov.uk###sliding-popup
 datormagazin.se###AdBlockerInfo
 davidlloyd.co.uk###home-cookie2
@@ -149,6 +155,7 @@ developpez.com###gabarit_cnilcookie
 devianne.com###avertissement_cookies
 diabetes.org.uk###policyPopup
 digital.di.se##.footer > .footer__cookie-info
+digitaltmuseum.se##.region--cookie-bar
 dmi.dk##.content
 dnevnik.hr###cookieMon
 dobreprogramy.pl###cookiesPanel
@@ -231,6 +238,7 @@ groupalia.com##.wrapperCookies
 groupe-logos.com##div[style*='z-index: 1000;']
 guardian.co.uk##.identity-noticebar-content
 halens.se###site-message
+hallwylskamuseet.se###sliding-popup
 haninge.se##.container > .visible.ng-scope.hiddenOnPrint.cookieContainer
 hannovermesse.de##.row.user-notes-notification.M011
 heart.co.uk###cookie_bar
@@ -269,6 +277,7 @@ iopscience.iop.org##.cookies-banner-wrap
 itele.fr###cnil_alert_inner
 itv.com###itv-cookie-notification
 jak.se###cookies-notification
+jamtli.com###s_s_cookieInfoText
 jetbrains.com###cookies-terminal
 jman.tv###ActionBar
 johnlewis.com###jlp-cookie-container
@@ -291,6 +300,7 @@ kwejk.pl###cookies-politics
 lab-project.net##.activebar-container
 lagazettedescommunes.com###bandeauCookies
 laget.se##.padding--slim.box.cookiePush
+landskrona.se###about-cookies
 lansforsakringar.se###header > .header-top-content > .topmessages > .topmessage-cookie.topmessage-holder
 large.nl###cookie_law
 larousse.fr##.panel-cookies
@@ -339,12 +349,14 @@ macuser.de##.eucookie_wrapper
 malmo.se###m-consent
 magine.com###content-wrapper > .ng-scope > div:nth-of-type(3) > .cookie-notification.ng-isolate-scope
 marginalen.se###accept-cookies > .Notification-content
+marinmuseum.se###cookie-wrapper
 masterofmalt.com###cookiePopup
 materiel.net###cookie
 mclaren.com###block-cookie-info
 mclarenstore.com##.widget-notifyBar
 mdd.eu##.panel_cookie
 mdx.ac.uk###cookie
+medeltidsmuseet.stockholm.se##.legal-cookie
 mediapart.fr###cnil-sentence
 mediaset.it###cookieAdv
 meinestadt.de##.ms-cookie-ok
@@ -363,11 +375,13 @@ motor-talk.de###b-cc
 mpora.com##.c-cookie-policy
 mq.se###cookieInfoBar
 mundodeportivo.com###cookies-policy-mssg
+musikverket.se##.cookieInformation
 n-mobile.net###infobox3
 narod.hr###fancybox-overlay
 narod.hr###fancybox-wrap
 nationwide.co.uk###cn
 nba.com###nba_tos
+ncc.se##.viewport > .page > .cookie-agreement
 nectar.com###cc-notification
 nelly.com###toast-container
 netapp.com###cboxOverlay
@@ -398,6 +412,7 @@ openclassrooms.com##.disclaimer.disclaimer--info.js-cookie-disclaimer
 orange.co.uk###cookieBannerD
 originalpenguin.co.uk###epd
 origo.hu##div[class="accept-cookie-open"]
+ornskoldsvik.se###cookie-law-info-bar
 ouest-france.fr###disclaimerCookies
 out-law.com###cookie
 parcelmotel.com###cookiemonster
@@ -467,6 +482,7 @@ sas.se##.cookieinfoholder
 savi-france.fr###notifybar
 sbab.se###cookie
 scandichotels.se##.cookie-section.l-section
+scenkonstmuseet.se##.cookieInformation
 schwarzkopf.co.uk##div.cookiedisclaimer
 schwarzkopf.de##div.cookiedisclaimer
 scottishfriendly.co.uk###cookieNotification
@@ -479,8 +495,10 @@ shop.pattheduck.com###FISLCC
 shpock.com###cookie-modal
 siba.se###cookieInformationBoxWrapper > .Web_CookiesBackround
 simyo.es##.cookieAsker
+skansen.se##.cookie-area
 skatteverket.se###svid12_361dc8c15312eff6fd131f8 > .alertWrp
 skistar.com###fn-accept-cookies-confirmation
+skoklostersslott.se###sliding-popup
 sky.com###skycom-cookie-wrapper
 skynet.be###messageCookie
 skyscanner.net###cookie
@@ -496,6 +514,7 @@ spotify.com###js-message-bar-cookie-notice
 spotify.com###js-message-notice[data-name="cookieNotice"]
 spotify.com##.uk-cookies
 spp.se###cookieNote
+stadsmuseet.stockholm.se##.legal-cookie
 stadt-koeln.de###cookie_content
 stargreen.com##div[style^="color: rgb(238, 238, 238); background-color: rgb(102, 102, 51);"]
 statensmedierad.se###svid10_72fa465114e7710fdc864e0
@@ -505,6 +524,7 @@ stofa.dk###cookie_collapse
 stofa.dk##.cookie_footer
 store.playstation.com###cookieWarningMessage
 stormcreative.co.uk###storm-cookie
+sundsvall.se###cookieVerificationBar
 superdeporte.es##div[style*='bg_cookies.jpg']
 suzuki.co.uk###privacypopup
 svenskakyrkan.se##.is-active.c-cookies
@@ -515,6 +535,7 @@ t-mobile.nl###exposeMask
 tandfonline.com##.b-body
 tandfonline.com##.b-header
 tbicardiffairport.com###cookielightbox
+tekniskamuseet.se###cookie-law-info-bar
 telekom.hu###app-cookie-policy
 telecomitalia.it###gld_cookie_flag
 telenet.be##.cookie-regulation
@@ -536,6 +557,7 @@ toluna.com###cookiesWarningBanner
 tomshw.it###cookies-privacy
 totalmoney.pl###right_widget
 trophies-ps3.de###ingameCookie
+trafikverket.se###ctl00_Content_EmptyPage_CoockieInformation_CookieContainer
 trygghansa.se###header > .cookieInformation
 tullverket.se###svid10_26b0417114a365251a916c
 tvn.pl###msgLayer
@@ -553,6 +575,7 @@ unity3d.com##.cookie-dialog
 usersnap.com##.cookies-message
 usine-digitale.fr###jQAlertAcceptCookie
 uzletresz.hu##div[class="accept-cookie-open"]
+vasamuseet.se###cookie-wrapper
 vasttrafik.se###WeUseCookiesDesktop
 veuve-clicquot.com##.agegate-cookie
 vg.hu##div[class="allow-cookie-stripe"]
