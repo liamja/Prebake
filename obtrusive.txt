@@ -244,6 +244,7 @@ hemmetsjournal.se##.page > .alert-cookies.page-alert.alert-info.alert
 here.com##.notification_box.ng-isolate-scope.cookie
 hintaseuranta.fi###cookies-info-banner
 hirado.hu###cookie
+hkr.se###c-info-box
 hm.com##section[class="cookie-notification"]
 hofors.se###cookie-msg
 horoscope.fr###useCookiesCont
@@ -404,6 +405,7 @@ openclassrooms.com##.disclaimer.disclaimer--info.js-cookie-disclaimer
 orange.co.uk###cookieBannerD
 originalpenguin.co.uk###epd
 origo.hu##div[class="accept-cookie-open"]
+oru.se##header > form > .cookies
 osby.se###enablecookies
 oskarshamn.se##.cookie-info
 osthammar.se###pre
