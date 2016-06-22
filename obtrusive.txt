@@ -92,6 +92,7 @@ bestbyte.hu##div[id="vscookieAlertCont"]
 betfair.com##.footer-cookies-policy
 betsson.com###msgwrapper > .msgalign
 bibliotek.dk##.popup-content
+bing.com###b_notificationContainer > .psacontent > .b_hPanel
 blog.hu##div[id="_iph_cp_popup"]
 blogger.com###blogger_cookie_notice
 blogs.mediapart.fr##.cookie-warn-msg
@@ -322,8 +323,10 @@ lesnumeriques.com###notif_197
 letelegramme.fr###cookieChoiceInfo
 letudiant.fr###notice-cookie-block
 levante-emv.com##div[style*='bg_cookies.jpg']
+lerum.se###lerumCookieContainer
 lg.com##.wrapper > .policyChk
 liberation.fr##.cookie-notify
+lidingo.se###svid10_41c3ba9e14f28c6556dad9
 life.hu##div[class="accept-cookie-open"]
 lindex.com###notifications > .notification
 linkedin.com###notice-cookie-policy
@@ -361,10 +364,16 @@ monster.co.uk###intMsgCookies
 motor-talk.de###b-cc
 mpora.com##.c-cookie-policy
 mq.se###cookieInfoBar
+mullsjo.se###landing_page_infobox_middle > div > p
+||mullsjo.se/Templates/Mullsjo/Images/infobox_bottom2.png$image
+||mullsjo.se/Templates/Mullsjo/Images/infobox_top2.png$image
+||mullsjo.se/Templates/Mullsjo/Images/infobox_middle2.png$image
 mundodeportivo.com###cookies-policy-mssg
 n-mobile.net###infobox3
+nacka.se###content-primary > .o-width-limiter > .o-grid > .o-grid__column:nth-of-type(1) > .c-buffer-box--only-top.c-buffer-box:nth-of-type(1)
 narod.hr###fancybox-overlay
 narod.hr###fancybox-wrap
+nassjo.se##.cookie-info-wrapper
 nationwide.co.uk###cn
 nba.com###nba_tos
 ncc.se##.viewport > .page > .cookie-agreement
@@ -385,17 +394,24 @@ noz.de###cookie-optout
 nrc.nl##.cookiemonster.kleverig
 nu.nl###cookiebar_wrapper
 nyheter24.se###accept-cookies-div
+nykoping.se###cookie-legal-notice
 nyteknik.se###canvas > div:nth-of-type(1) > .js-cookie-notification.cookie-notification-container
 o2.pl##.cookie-info__transition
+ockelbo.se###aspnetForm > .cookie-wrap
 odeon.co.uk###icoCookiesBanner
+olofstrom.se##.cookie-container-wrapper > .cookie-container
 olvg.nl###cc
 onlive.co.uk##.top_message
 openclassrooms.com##.disclaimer.disclaimer--info.js-cookie-disclaimer
 orange.co.uk###cookieBannerD
 originalpenguin.co.uk###epd
 origo.hu##div[class="accept-cookie-open"]
+osby.se###enablecookies
+oskarshamn.se##.cookie-info
+osthammar.se###pre
 ouest-france.fr###disclaimerCookies
 out-law.com###cookie
+overtornea.se###cookieDiv
 parcelmotel.com###cookiemonster
 parisinfo.com###cookieChoiceBanner
 pathe.nl###cookieOverlay
@@ -511,6 +527,7 @@ t-mobile.nl###TMobile_nl_WebPortals_UI_PageComponents_CookieSettingsOverlay_Cook
 t-mobile.nl###exposeMask
 tandfonline.com##.b-body
 tandfonline.com##.b-header
+tanum.se##.eupopup-color-default.eupopup-container-bottom.eupopup-container
 tbicardiffairport.com###cookielightbox
 telekom.hu###app-cookie-policy
 telecomitalia.it###gld_cookie_flag
@@ -529,6 +546,7 @@ thevitalounge.net###scnb-cookie-bar
 three.co.uk###rwd-cookie-message
 ticketmaster.co.uk###_evh-ric
 timefy.com###nq_cnilbanner
+tingsryd.se###cookie-confirmation
 tiscali.it##.bannerInformativaEU
 toluna.com###cookiesWarningBanner
 tomshw.it###cookies-privacy
@@ -553,6 +571,8 @@ unity3d.com##.cookie-dialog
 usersnap.com##.cookies-message
 usine-digitale.fr###jQAlertAcceptCookie
 uzletresz.hu##div[class="accept-cookie-open"]
+vaggeryd.se###svid12_591c3cb9150af8f35761d3df > .fadeInUp.animated.js-cookies.v-cookie-message
+vasteras.se###svid10_1dc82af414bc5e5cb714216
 vasttrafik.se###WeUseCookiesDesktop
 veuve-clicquot.com##.agegate-cookie
 vg.hu##div[class="allow-cookie-stripe"]
