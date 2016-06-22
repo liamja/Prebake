@@ -284,7 +284,6 @@ karriere.fresenius.de##.cookie_message_inner
 keil.com##.modouter
 ketnet.be###cookie-bar-wrapper
 kingston.ac.uk###site-wide-cookie-message
-kiruna.se###cookieDiv
 knaufdanoline.fr###pronamic_cookie_holder
 kommunal.se##.Site > .is-open.cookie-processed.Cookie
 konsumentverket.se###ctl00_ContentPlaceHolderAll_TopRegion_ctl00_CookieInfo1_DivCoockieInfo
@@ -394,7 +393,6 @@ noz.de###cookie-optout
 nrc.nl##.cookiemonster.kleverig
 nu.nl###cookiebar_wrapper
 nyheter24.se###accept-cookies-div
-nykoping.se###cookie-legal-notice
 nyteknik.se###canvas > div:nth-of-type(1) > .js-cookie-notification.cookie-notification-container
 o2.pl##.cookie-info__transition
 ockelbo.se###aspnetForm > .cookie-wrap
@@ -411,7 +409,6 @@ oskarshamn.se##.cookie-info
 osthammar.se###pre
 ouest-france.fr###disclaimerCookies
 out-law.com###cookie
-overtornea.se###cookieDiv
 parcelmotel.com###cookiemonster
 parisinfo.com###cookieChoiceBanner
 pathe.nl###cookieOverlay
@@ -512,7 +509,6 @@ stadt-koeln.de###cookie_content
 stargreen.com##div[style^="color: rgb(238, 238, 238); background-color: rgb(102, 102, 51);"]
 statensmedierad.se###svid10_72fa465114e7710fdc864e0
 stim.se###sliding-popup > .messages
-stockholm.se###cookie-legal-notice
 stofa.dk###cookie_collapse
 stofa.dk##.cookie_footer
 store.playstation.com###cookieWarningMessage
@@ -746,6 +742,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###cookie-law-compliance
 ###cookie-law-consent-section
 ###cookie-law-info-bar
+###cookie-legal-notice
 ###cookie-message
 ###cookie-message-container
 ###cookie-notice
@@ -790,6 +787,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###cookieControl
 ###cookiecontrol_notice
 ###cookieDisclaimer
+###cookieDiv
 ###cookieInfo
 ###cookieinfo
 ###CookieInfo
