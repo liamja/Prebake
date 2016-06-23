@@ -79,7 +79,6 @@ audion.com###cc-cookie
 auto-ici.fr###close_cnil
 automotorsport.se##.alert
 autotask.com##.jsEnabled.alertbar-bottom.alertbar
-av.se##.cookie-info
 avanza.se##.avanzabank_cookie_message.cookieMessage
 aviva.co.uk##.cookiePopUp
 bahnhof.se##.top-line-block
@@ -422,7 +421,6 @@ originalpenguin.co.uk###epd
 origo.hu##div[class="accept-cookie-open"]
 oru.se##header > form > .cookies
 osby.se###enablecookies
-oskarshamn.se##.cookie-info
 osthammar.se###pre
 ouest-france.fr###disclaimerCookies
 out-law.com###cookie
@@ -904,6 +902,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ##.cookie-block
 ##.cookie-consent
 ##.cookie-disclaimer
+##.cookie-info
 ##.cookie-message
 ##.cookie-box
 ##.cookielaw
