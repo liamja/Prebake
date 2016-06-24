@@ -42,6 +42,7 @@ actu-environnement.com###informations-cookies
 adlibris.com###cookie-information-banner
 ad-hoc-news.de###cookie
 advokatsamfundet.se##.c-cookie-bar
+aea.se##.cookie-info
 agria.se###header > .topbar > .topmessage-holder > .cookiemessage.topmessage
 agynamix.de###cookie
 airvpn.org##div[style*='width:800px']
@@ -54,6 +55,7 @@ alinea.fr##.cookies-notice-msg
 allocine.fr##.info-cookie
 allevo.nu###cookie-question
 allrecipes.co.uk###cookiePopupContainer
+almi.se###cOK
 altfordamerne.dk##.content
 alvesta.se###site_msg_cookie
 amd.com/Style%20Library/js/cookie-prompt.js$script
@@ -116,6 +118,7 @@ carrefour.fr##.cookie-bottom
 captchme.com##.fade.sticky.alert-cnil.msgAlert
 castrol.com##.nv-cookie-notification
 cc.au.dk###au_cookiesalert
+cervera.se##.cookies__info--visible.cookies__info > .overlay
 change.org##.flash-message.flash-message-announcement
 channel4.com##.all4nav-cookie-policy-notification
 chomikuj.pl##.cookiesInfo
@@ -169,6 +172,7 @@ elasticsearch.org###cookie
 eldiario.es###headerCookiesAdvice
 eldos.com##.cookie_warning
 elgiganten.dk##.transbox
+elkedjan.se##.top-bar > .top-bar.fluid > .ng-scope.clearfix > .block.avalanche-message.sticky
 elkjop.no##.cookie-info-layer
 elle.fr###c_agrem
 emmaboda.se###svid12_508bcea9153eb2a15c13749 > .lp-cookie-consent
@@ -192,6 +196,7 @@ fagersta.se###svid10_475c7afc14de44b580bcbd52
 familjeliv.se##.wrapper_1 > .wrapper_2 > .cookie-dialog.block > div
 fass.se###id3
 fasthosts.co.uk###cookie
+fastighetsbyran.se##.fillColor.cookieWrapper
 fatbeehive.com##div[style^="background-color: #000;"]
 fazer.se##.ng-scope.notification-bar.cookie-notification
 fedex.com###privacy-notice
@@ -201,6 +206,7 @@ fi.se###contentarea > div:nth-of-type(1) > .clearfix.cookiealert.box > .clearfix
 filmaffinity.com###info-cookie
 filminstitutet.se##.info-banner.js-info-banner
 filmtipset.se###acceptCookiesDiv
+finansforbundet.se##.off-canvas-wrap > .inner-wrap > .main-content > .container > .full-width.pull-left.hidden-print.cookie-warning-container.alert-info.alert
 fliegen-usa.de###cc-cookie-law
 folkhalsomyndigheten.se###header > .cf.header-inner > .cookie-info
 folkuniversitetet.se##.alert
@@ -232,6 +238,7 @@ gov.uk###global-cookie-message
 gov.uk##.js-cookies-banner
 gp.se###gpsecCookieInformationContainer
 gqmagazine.fr###cookies-message-main
+grannar.se##.cookiebox
 graspop.be##.s--show.cookies
 grosbill.com###cnil_bar
 groupalia.com##.wrapperCookies
@@ -260,6 +267,7 @@ horoscope.fr###useCookiesCont
 hotelgranvia.com###lc_cookies-main
 hp.com###cookie_privacy_holder
 hs.fi##.cb-container
+hyresgastforeningen.se##.js-cookie-bar.row-table.cookies
 ica.se###cookie-bar
 ico.org.uk###banner
 ideone.com###cookie-ue
@@ -304,9 +312,11 @@ kungsor.se###cookiepolicy
 kwejk.pl###cookies-politics
 lab-project.net##.activebar-container
 lagazettedescommunes.com###bandeauCookies
+lagenhetsbyte.se##.inner-wrap > .main-section > .site-wrap > .main-container > .approveCookiesBar
 laget.se##.padding--slim.box.cookiePush
 landskrona.se###about-cookies
 lansforsakringar.se###header > .header-top-content > .topmessages > .topmessage-cookie.topmessage-holder
+lararforbundet.se##.is-visible.js-cookie-notice.CookieNotice
 large.nl###cookie_law
 larousse.fr##.panel-cookies
 lastminute.com##.cookieBox
@@ -347,11 +357,13 @@ lnu.se##.app-header > .cookie-policy-form
 londonstockexchange.com###bannerCookies
 lonelyplanet.com##.row--cookie-compliance
 lr.se##.cookie-notify-bar > .normal
+lr.se##.cookie-notify-bar
 lufbra.net##.cwcookielaw
 ma-reduc.com###about-cookies
 macbidouille.com###okookie-box
 macforum.se##.cookies-alert.container-fluid
 macuser.de##.eucookie_wrapper
+maklarringen.se###cookie_information
 malmo.se###m-consent
 magine.com###content-wrapper > .ng-scope > div:nth-of-type(3) > .cookie-notification.ng-isolate-scope
 marginalen.se###accept-cookies > .Notification-content
@@ -455,6 +467,7 @@ premierleague.com###cookies-verify
 priceminister.com###legalNotificationEltId
 priorygroup.com###promptbar
 prixtel.com###dotbandeaucookie
+proffice.se##.proffice_cookieinfo.js-controller.cookie-info
 proximus.be##section[data-tms-id="TMS_COOKIE_MESSAGE"]
 qmarket.se###eu-cookie-bar-notification
 quoka.de###msgCookie
@@ -581,13 +594,17 @@ uk.yahoo.com###applet_p_50000174
 uktv.co.uk##span.cookie-notice
 unblog.fr###unblcn
 ungdomskort.dk###eksCookiePrompt
+unionen.se##.is-open.nocontent.js-CookieCompliance.CookieCompliance
 unity3d.com##.cookie-dialog
 usersnap.com##.cookies-message
 usine-digitale.fr###jQAlertAcceptCookie
 uzletresz.hu##div[class="accept-cookie-open"]
 vaggeryd.se###svid12_591c3cb9150af8f35761d3df > .fadeInUp.animated.js-cookies.v-cookie-message
+vardforbundet.se###mod-cookie-information-1
 vasteras.se###svid10_1dc82af414bc5e5cb714216
 vasttrafik.se###WeUseCookiesDesktop
+verksamt.se##.cookie-info.cookie
+www.verksamt.se##.cookie-info.cookie > div
 veuve-clicquot.com##.agegate-cookie
 vg.hu##div[class="allow-cookie-stripe"]
 vice.com###cookies_msg
@@ -889,6 +906,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###widget-vrtcookiebalk
 ###ww-cookie-information
 ##.accept-cookies
+##.alert-dismissible.cookie_alert.alert
 ##.alertCookie
 ##.cc_banner-wrapper
 ##.cc_container
