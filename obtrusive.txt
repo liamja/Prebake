@@ -42,7 +42,6 @@ actu-environnement.com###informations-cookies
 adlibris.com###cookie-information-banner
 ad-hoc-news.de###cookie
 advokatsamfundet.se##.c-cookie-bar
-aea.se##.cookie-info
 agria.se###header > .topbar > .topmessage-holder > .cookiemessage.topmessage
 agynamix.de###cookie
 airvpn.org##div[style*='width:800px']
@@ -238,7 +237,6 @@ gov.uk###global-cookie-message
 gov.uk##.js-cookies-banner
 gp.se###gpsecCookieInformationContainer
 gqmagazine.fr###cookies-message-main
-grannar.se##.cookiebox
 graspop.be##.s--show.cookies
 grosbill.com###cnil_bar
 groupalia.com##.wrapperCookies
@@ -604,7 +602,7 @@ vardforbundet.se###mod-cookie-information-1
 vasteras.se###svid10_1dc82af414bc5e5cb714216
 vasttrafik.se###WeUseCookiesDesktop
 verksamt.se##.cookie-info.cookie
-www.verksamt.se##.cookie-info.cookie > div
+verksamt.se##.cookie-info.cookie > div
 veuve-clicquot.com##.agegate-cookie
 vg.hu##div[class="allow-cookie-stripe"]
 vice.com###cookies_msg
@@ -620,7 +618,6 @@ wikia.com##.banner-notification.notify
 wikomobile.com##.pop_cookies
 wimp.dk##.cookie-warn
 wizzo.es##.avisoCookie
-www.airbusgroup.com##.cookiebox
 www.athenagames.co.uk###cookieNotice
 www.chefkoch.de###ck-cookie-statement
 www.chronodrive.com###privacyBar
@@ -914,6 +911,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ##.contenidoAvisoPoliticaCookies
 ##.cookie-accept-overlay
 ##.cookieAdvice
+##.cookiebox
 ##.cookie-banner
 ##.cookie-bar
 ##.cookie_bar
