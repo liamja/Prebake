@@ -234,6 +234,7 @@ ingdirect.es###ico_banner
 ink361.com###cookieAcceptMessage
 interia.pl###inpl_cp_cnt
 iopscience.iop.org##.cookies-banner-wrap
+irishtimes.com###cookies-policy
 itele.fr###cnil_alert_inner
 itv.com###itv-cookie-notification
 jetbrains.com###cookies-terminal
@@ -288,6 +289,7 @@ life.hu##div[class="accept-cookie-open"]
 linkedin.com###notice-cookie-policy
 livescores.com##.row.well.info-msg
 llas.ac.uk###sliding-popup
+logmein.com###cookienote
 londonstockexchange.com###bannerCookies
 lonelyplanet.com##.row--cookie-compliance
 lufbra.net##.cwcookielaw
