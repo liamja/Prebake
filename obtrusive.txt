@@ -60,6 +60,7 @@ arm.com###cookiemodule
 arte.tv###arte-cookie-banner
 asda.com###FT_Cookies
 askmen.com###policyNotice
+astonmartin.com###cookieheader
 astrazeneca.com###cookie-disclaimer
 atman.pl###gbpl_oba
 atman.pl##.polityka-cookie
@@ -83,6 +84,8 @@ bibliotek.dk##.popup-content
 blog.hu##div[id="_iph_cp_popup"]
 blogger.com###blogger_cookie_notice
 blogs.mediapart.fr##.cookie-warn-msg
+bmw.co.uk##.cookieDisclaimerContainerWrapper
+bmw.co.uk##.cookieDisclaimerContainerWrapper > .cookieDisclaimerContainer.cookieDisclaimerContainerOptOut > .cookieDisclaimerContainerText
 boingtv.fr###sliding-popup
 bol.com###top_header_cookie_message
 bona.com##.cookie
@@ -256,6 +259,7 @@ korben.info##.cookie-notice-container
 kwejk.pl###cookies-politics
 lab-project.net##.activebar-container
 lagazettedescommunes.com###bandeauCookies
+lamborghini.it###cookienotice-container
 large.nl###cookie_law
 larousse.fr##.panel-cookies
 lastminute.com##.cookieBox
@@ -297,6 +301,8 @@ ma-reduc.com###about-cookies
 macbidouille.com###okookie-box
 macg.co###sliding-popup
 macuser.de##.eucookie_wrapper
+maserati.com###cookieAlert
+maserati.it##.fresh.bottom.maserati-cookie
 masterofmalt.com###cookiePopup
 materiel.net###cookie
 mclaren.com###block-cookie-info
@@ -317,6 +323,7 @@ moneysavingexpert.com###alertBar
 monitor.si##.cookie-note-content
 monster.co.uk###intMsgCookies
 motor-talk.de###b-cc
+motorsport.com###cookie_accept
 mpora.com##.c-cookie-policy
 mundodeportivo.com###cookies-policy-mssg
 n-mobile.net###infobox3
@@ -408,6 +415,7 @@ rtve.es###rtveCookiePolicy
 rtvslo.si###size-window-cookie
 rumid.dk##div[style^="bottom: 0px; height: 1px; left: 0px;"]
 ruter.no##div[data-cookie-message]
+saab.com###cookie-disclaimer > .section-container > button
 samsung.com##.cookie_notice
 santander.co.uk###cookiebannerAH
 savi-france.fr###notifybar
@@ -490,6 +498,7 @@ vice.com###cookies_msg
 videnskab.dk###block-videnskabdk_custom_blocks-cookie_compliance
 videojug.com##.cp-alert-message
 vileda.com###cookienotice-container
+volvo.com##.container.main-content > div:nth-of-type(1) > .noindex > .gatewayNotification.headerNotification > .headerNotification-1
 volvotrucks.com###acceptCookie
 wattsindustries.com###header1_overlay2
 web.skype.com##.notification.info
