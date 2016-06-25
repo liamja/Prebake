@@ -40,10 +40,8 @@
 abbeyroad.com###popupCookies
 actu-environnement.com###informations-cookies
 adlibris.com###cookie-information-banner
-ad-hoc-news.de###cookie
 advokatsamfundet.se##.c-cookie-bar
 agria.se###header > .topbar > .topmessage-holder > .cookiemessage.topmessage
-agynamix.de###cookie
 airvpn.org##div[style*='width:800px']
 akademibokhandeln.se##.cookie-info-wrapper > .cookie-info
 aklagare.se##.cookie-dialogue
@@ -56,7 +54,6 @@ allevo.nu###cookie-question
 allrecipes.co.uk###cookiePopupContainer
 almi.se###cOK
 altfordamerne.dk##.content
-alvesta.se###site_msg_cookie
 amd.com/Style%20Library/js/cookie-prompt.js$script
 anglianwater.co.uk###ctl00_pnlCookie
 answers.microsoft.com###PrivacyBanner
@@ -173,7 +170,6 @@ economist.com###ec-cookie-messages-container
 edigital.hu##div[id="hr_cookie_policy_message"]
 edp24.co.uk###cookielaw2
 ekupi.hr###ctl00_cookieDiv
-elasticsearch.org###cookie
 eldiario.es###headerCookiesAdvice
 eldos.com##.cookie_warning
 elgiganten.dk##.transbox
@@ -200,7 +196,6 @@ facebook.com##.pam.fbPageBanner._3d9x.uiBoxGray.bottomborder
 fagersta.se###svid10_475c7afc14de44b580bcbd52
 familjeliv.se##.wrapper_1 > .wrapper_2 > .cookie-dialog.block > div
 fass.se###id3
-fasthosts.co.uk###cookie
 fastighetsbyran.se##.fillColor.cookieWrapper
 fatbeehive.com##div[style^="background-color: #000;"]
 fazer.se##.ng-scope.notification-bar.cookie-notification
@@ -234,7 +229,6 @@ gamereactor.dk###cookielawwarning
 gamespy.com###policy
 gg.pl##body > div:nth-of-type(2) > div
 gigaom.com##.privacy-policy
-giftinformation.se###site_msg_cookie
 ginza.se###cookie-popup
 gizmodo.co.uk##.future-cookie-bar
 gmx.com##.mod-cookiepolicy
@@ -267,7 +261,6 @@ here.com##.notification_box.ng-isolate-scope.cookie
 hertz.se###light-box-1 > .lb-background
 hertz.se###light-box-1 > .lb-foreground > .lb-foreground-cont > .lb-content-box
 hintaseuranta.fi###cookies-info-banner
-hirado.hu###cookie
 hkr.se###c-info-box
 hm.com##section[class="cookie-notification"]
 hofors.se###cookie-msg
@@ -295,7 +288,6 @@ interia.pl###inpl_cp_cnt
 iopscience.iop.org##.cookies-banner-wrap
 itele.fr###cnil_alert_inner
 itv.com###itv-cookie-notification
-jaguar.se###cookieCompliancyModal
 jak.se###cookies-notification
 jamtli.com###s_s_cookieInfoText
 jetbrains.com###cookies-terminal
@@ -312,7 +304,6 @@ karriere.fresenius.de##.cookie_message_inner
 keil.com##.modouter
 ketnet.be###cookie-bar-wrapper
 kingston.ac.uk###site-wide-cookie-message
-klaramaten.se###cookie
 knaufdanoline.fr###pronamic_cookie_holder
 kommunal.se##.Site > .is-open.cookie-processed.Cookie
 konkurrensverket.se##.no-print.alert-info.alert
@@ -324,13 +315,11 @@ lab-project.net##.activebar-container
 lagazettedescommunes.com###bandeauCookies
 lagenhetsbyte.se##.inner-wrap > .main-section > .site-wrap > .main-container > .approveCookiesBar
 laget.se##.padding--slim.box.cookiePush
-landrover.se###cookieCompliancyModal
 landskrona.se###about-cookies
 lansforsakringar.se###header > .header-top-content > .topmessages > .topmessage-cookie.topmessage-holder
 lararforbundet.se##.is-visible.js-cookie-notice.CookieNotice
 large.nl###cookie_law
 larousse.fr##.panel-cookies
-lastminute.com##.cookieBox
 lavanguardia.com###divCookiesBox
 lavie.fr###usrcookies
 lavozdegalicia.es##.alert.alert-info
@@ -381,12 +370,9 @@ malmo.se###m-consent
 magine.com###content-wrapper > .ng-scope > div:nth-of-type(3) > .cookie-notification.ng-isolate-scope
 marginalen.se###accept-cookies > .Notification-content
 masterofmalt.com###cookiePopup
-materiel.net###cookie
-mazda.se##.cookiebox
 mclaren.com###block-cookie-info
 mclarenstore.com##.widget-notifyBar
 mdd.eu##.panel_cookie
-mdx.ac.uk###cookie
 mediapart.fr###cnil-sentence
 mediaset.it###cookieAdv
 meinestadt.de##.ms-cookie-ok
@@ -451,7 +437,6 @@ oru.se##header > form > .cookies
 osby.se###enablecookies
 osthammar.se###pre
 ouest-france.fr###disclaimerCookies
-out-law.com###cookie
 parcelmotel.com###cookiemonster
 parisinfo.com###cookieChoiceBanner
 pathe.nl###cookieOverlay
@@ -478,7 +463,6 @@ postnl.nl###coverlay
 postnl.nl###cwrapper
 ppluk.com###wsjpecrga
 pprune.org###ib-global-cookie-notice
-pracuj.pl###cookie
 premierleague.com###cookies-verify
 priceminister.com###legalNotificationEltId
 priorygroup.com###promptbar
@@ -518,7 +502,6 @@ santander.co.uk###cookiebannerAH
 santamariaworld.com##.wrapper > .cookies-box
 sas.se##.cookieinfoholder
 savi-france.fr###notifybar
-sbab.se###cookie
 scandichotels.se##.cookie-section.l-section
 schwarzkopf.co.uk##div.cookiedisclaimer
 schwarzkopf.de##div.cookiedisclaimer
@@ -541,7 +524,6 @@ skistar.com###fn-accept-cookies-confirmation
 skoda.se###contentBox > .sa-ff-skoda.disableLexiconHighlighting.cookieCheckMainPanel
 sky.com###skycom-cookie-wrapper
 skynet.be###messageCookie
-skyscanner.net###cookie
 slate.fr##.footer_cnil
 smhi.se###notification1_92875
 soeren-hentzschel.at###storage-notice
@@ -777,6 +759,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###cccwr
 ###confirm_cookie_use
 ###conteneurCookies
+###cookie
 ###coockiechoice
 ###cookie-acceptation-popup
 ###cookie-alert
@@ -832,6 +815,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###cookiebar
 ###cookieBox
 ###cookieChoiceInfo
+###cookieCompliancyModal
 ###cookieConsent
 ###cookieconsent
 ###cookieConsentBar
@@ -914,6 +898,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ###privacyPolicyLayerN
 ###p_ciInner
 ###p_ciBtn
+###site_msg_cookie
 ###site-we-use-cookies
 ###sliding-popup
 ###svtCookieInformationContainer
@@ -933,6 +918,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ##.cookie-accept-overlay
 ##.cookieAdvice
 ##.cookiebox
+##.cookieBox
 ##.cookie-banner
 ##.cookie-bar
 ##.cookie_bar
