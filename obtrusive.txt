@@ -61,6 +61,8 @@ amd.com/Style%20Library/js/cookie-prompt.js$script
 anglianwater.co.uk###ctl00_pnlCookie
 answers.microsoft.com###PrivacyBanner
 antikvarium.hu##div[class="eupopup-container eupopup-container-bottom eupopup-color-default"]
+apoteket.se###apoteket-body > .cookie-info
+apotekhjartat.se###acceptCookieForm
 appszoom.com##.js-toast-cookies
 area-codes.org.uk###wsjconsent
 argenta.be##.ag-cookie-policy-wrapper
@@ -95,11 +97,13 @@ bestbyte.hu##div[id="vscookieAlertCont"]
 betfair.com##.footer-cookies-policy
 betsson.com###msgwrapper > .msgalign
 bibliotek.dk##.popup-content
+bilia.se###form0
 bilprovningen.se###svid10_210a2f5a14d2cf2981b1087a
 bing.com###b_notificationContainer > .psacontent > .b_hPanel
 blog.hu##div[id="_iph_cp_popup"]
 blogger.com###blogger_cookie_notice
 blogs.mediapart.fr##.cookie-warn-msg
+bmw.se##.ds2-page--wrapper.ds2-mobilepreview > div:nth-of-type(1)
 bol.com###top_header_cookie_message
 bolagsverket.se##body > div:nth-of-type(1)
 bona.com##.cookie
@@ -121,6 +125,8 @@ cervera.se##.cookies__info--visible.cookies__info > .overlay
 change.org##.flash-message.flash-message-announcement
 channel4.com##.all4nav-cookie-policy-notification
 chomikuj.pl##.cookiesInfo
+circlek.se###cookiebox
+citroen.se##.container > .sliceNew.cookieBarReviewDesktop
 classicmotor.se###AdBlockerInfo
 claireperry.org.uk###blanket
 claireperry.org.uk###message
@@ -209,6 +215,7 @@ finansforbundet.se##.off-canvas-wrap > .inner-wrap > .main-content > .container 
 fliegen-usa.de###cc-cookie-law
 folkhalsomyndigheten.se###header > .cf.header-inner > .cookie-info
 folkuniversitetet.se##.alert
+ford.se###cookieAlertBoxID
 forex.se###cookie-policy-wrapper
 forsvarsmakten.se###Form1 > .c-grid > .header-sticky-priority > .s-cookies
 fotka.com###cookies_info
@@ -227,6 +234,7 @@ gamereactor.dk###cookielawwarning
 gamespy.com###policy
 gg.pl##body > div:nth-of-type(2) > div
 gigaom.com##.privacy-policy
+giftinformation.se###site_msg_cookie
 ginza.se###cookie-popup
 gizmodo.co.uk##.future-cookie-bar
 gmx.com##.mod-cookiepolicy
@@ -256,6 +264,8 @@ heltnormalt.dk##.banner
 heltnormalt.dk##.banner-container
 hemmetsjournal.se##.page > .alert-cookies.page-alert.alert-info.alert
 here.com##.notification_box.ng-isolate-scope.cookie
+hertz.se###light-box-1 > .lb-background
+hertz.se###light-box-1 > .lb-foreground > .lb-foreground-cont > .lb-content-box
 hintaseuranta.fi###cookies-info-banner
 hirado.hu###cookie
 hkr.se###c-info-box
@@ -285,6 +295,7 @@ interia.pl###inpl_cp_cnt
 iopscience.iop.org##.cookies-banner-wrap
 itele.fr###cnil_alert_inner
 itv.com###itv-cookie-notification
+jaguar.se###cookieCompliancyModal
 jak.se###cookies-notification
 jamtli.com###s_s_cookieInfoText
 jetbrains.com###cookies-terminal
@@ -301,6 +312,7 @@ karriere.fresenius.de##.cookie_message_inner
 keil.com##.modouter
 ketnet.be###cookie-bar-wrapper
 kingston.ac.uk###site-wide-cookie-message
+klaramaten.se###cookie
 knaufdanoline.fr###pronamic_cookie_holder
 kommunal.se##.Site > .is-open.cookie-processed.Cookie
 konkurrensverket.se##.no-print.alert-info.alert
@@ -312,6 +324,7 @@ lab-project.net##.activebar-container
 lagazettedescommunes.com###bandeauCookies
 lagenhetsbyte.se##.inner-wrap > .main-section > .site-wrap > .main-container > .approveCookiesBar
 laget.se##.padding--slim.box.cookiePush
+landrover.se###cookieCompliancyModal
 landskrona.se###about-cookies
 lansforsakringar.se###header > .header-top-content > .topmessages > .topmessage-cookie.topmessage-holder
 lararforbundet.se##.is-visible.js-cookie-notice.CookieNotice
@@ -343,11 +356,13 @@ letelegramme.fr###cookieChoiceInfo
 letudiant.fr###notice-cookie-block
 levante-emv.com##div[style*='bg_cookies.jpg']
 lerum.se###lerumCookieContainer
+lexus.se##.page > .disclaimer > .disclaimer__content
 lfv.se##add > .cookies.container-fluid
 lg.com##.wrapper > .policyChk
 liberation.fr##.cookie-notify
 lidingo.se###svid10_41c3ba9e14f28c6556dad9
 life.hu##div[class="accept-cookie-open"]
+linasmatkasse.se##.cookie-info > .cookie-info-inner
 lindex.com###notifications > .notification
 linkedin.com###notice-cookie-policy
 livescores.com##.row.well.info-msg
@@ -367,6 +382,7 @@ magine.com###content-wrapper > .ng-scope > div:nth-of-type(3) > .cookie-notifica
 marginalen.se###accept-cookies > .Notification-content
 masterofmalt.com###cookiePopup
 materiel.net###cookie
+mazda.se##.cookiebox
 mclaren.com###block-cookie-info
 mclarenstore.com##.widget-notifyBar
 mdd.eu##.panel_cookie
@@ -375,6 +391,7 @@ mediapart.fr###cnil-sentence
 mediaset.it###cookieAdv
 meinestadt.de##.ms-cookie-ok
 mercialys.fr##.info-top
+mestmotor.se##.page > .alert-cookies.page-alert.alert-info.alert
 microsoft.com##.euCookie.mscom-alertitem
 microsoft.com###lca-cookie-notification
 middle-earth.xenite.org##.pea_cook_wrapper
@@ -425,6 +442,7 @@ odeon.co.uk###icoCookiesBanner
 olofstrom.se##.cookie-container-wrapper > .cookie-container
 olvg.nl###cc
 onlive.co.uk##.top_message
+opel.se###container > .ut_cookie_privacy_c1 > .jsReady.noUserConsent.modUt_cookie_privacy_1.mod > dd
 openclassrooms.com##.disclaimer.disclaimer--info.js-cookie-disclaimer
 orange.co.uk###cookieBannerD
 originalpenguin.co.uk###epd
@@ -513,11 +531,14 @@ shop.asedo.se##form > .infobanner
 shop.pattheduck.com###FISLCC
 shpock.com###cookie-modal
 siba.se###cookieInformationBoxWrapper > .Web_CookiesBackround
+sll.se###page-wrapper > .first-time.m-cookie-banner
+sll.se###page-wrapper > .m-cookie-banner
 simyo.es##.cookieAsker
 sjofartsverket.se###aspnetForm > .cookie > .container
 skansen.se##.cookie-area
 skatteverket.se###svid12_361dc8c15312eff6fd131f8 > .alertWrp
 skistar.com###fn-accept-cookies-confirmation
+skoda.se###contentBox > .sa-ff-skoda.disableLexiconHighlighting.cookieCheckMainPanel
 sky.com###skycom-cookie-wrapper
 skynet.be###messageCookie
 skyscanner.net###cookie
