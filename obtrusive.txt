@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Prebake - Filter Obtrusive Cookie Notices
-! Last modified: 10 Jun 2016 12:03 UTC
+! Last modified: 04 Jul 2016 09:37 UTC
 ! Expires: 7 days
 ! Homepage: http://prebake.eu
 ! License: https://raw.github.com/liamja/Prebake/master/README.md
@@ -262,7 +262,7 @@ karriere.fresenius.de##.cookie_message_inner
 keil.com##.modouter
 ketnet.be###cookie-bar-wrapper
 kingston.ac.uk###site-wide-cookie-message
-kiszamolo.hu##div[id="cookie-warning"]
+kiszamolo.hu##div[id="cookie-notice"]
 knaufdanoline.fr###pronamic_cookie_holder
 korben.info##.cookie-notice-container
 kwejk.pl###cookies-politics
@@ -332,6 +332,7 @@ motor-talk.de###b-cc
 mpora.com##.c-cookie-policy
 mundodeportivo.com###cookies-policy-mssg
 n-mobile.net###infobox3
+napi.hu##div[id="_iph_cp_popup"]
 narod.hr###fancybox-overlay
 narod.hr###fancybox-wrap
 nationwide.co.uk###cn
@@ -903,6 +904,7 @@ livecolor.co.uk##.cookiedisclaimer
 merlin.pl##.cookies_policy
 orange.pl###cookiesArticle
 otomoto.pl##.om-cookie-agreement
+otterbox.eu##div[id="cookienotify"]
 packtpub.com###cookie-outer-outer
 policy.cookiereports.com
 rbicookiepolicy-14.js$script
