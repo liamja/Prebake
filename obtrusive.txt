@@ -183,6 +183,7 @@ fundingcircle.com##.is-visible.notification_wrap
 furniturevillage.co.uk###SiteMasterPage_updCookieDisclaimer
 futura-sciences.com###fs-cookiewarning
 fz.se###AdBlockerInfo.cookie-container
+gallup.com###gel-cookie-banner
 gambleaware.co.uk###ccWrappery
 gamblingcommission.gov.uk##.cookiedOuter
 gamemania.be###globalmessage
