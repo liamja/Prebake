@@ -222,6 +222,7 @@ ideone.com###cookie-ue
 igen.fr###sliding-popup
 ign.com###policyNotice
 ikea.com###cookieMsgBlock
+ilfattoquotidiano.it##.cookieConsent.show
 iltalehti.fi##.alma-cookie-disclaimer
 ina.fr##.cookies-bar
 indavideo.hu##div[id="_iph_cp_popup"]
