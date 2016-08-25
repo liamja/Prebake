@@ -346,6 +346,7 @@ olvg.nl###cc
 onlive.co.uk##.top_message
 openclassrooms.com##.disclaimer.disclaimer--info.js-cookie-disclaimer
 orange.co.uk###cookieBannerD
+origin.com###truste-banner
 originalpenguin.co.uk###epd
 origo.hu##div[class="accept-cookie-open"]
 ouest-france.fr###disclaimerCookies
