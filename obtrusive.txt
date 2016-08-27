@@ -189,6 +189,7 @@ gamemania.be###globalmessage
 gamepressure.com###CP_box
 gamereactor.dk###cookielawwarning
 gamespy.com###policy
+gamesrepublic.com###have-a-cookie
 gg.pl##body > div:nth-of-type(2) > div
 gigaom.com##.privacy-policy
 gizmodo.co.uk##.future-cookie-bar
