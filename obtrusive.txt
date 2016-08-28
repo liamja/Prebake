@@ -349,6 +349,7 @@ nyheter24.se###acceptCookiesDiv
 o2.pl##.cookie-info__transition
 odeon.co.uk###icoCookiesBanner
 olvg.nl###cc
+omgubuntu.co.uk##.is-active.CookieWarning
 onlive.co.uk##.top_message
 openclassrooms.com##.disclaimer.disclaimer--info.js-cookie-disclaimer
 orange.co.uk###cookieBannerD
