@@ -70,6 +70,7 @@ autotask.com##.jsEnabled.alertbar-bottom.alertbar
 atv.hu##div[id="cookie-warning"]
 avanza.se##.avanzabank_cookie_message.cookieMessage
 aviva.co.uk##.cookiePopUp
+bandainamcoent.eu###panel-cookie
 banknordik.dk###cookieWarningDiv
 baon.hu##div[class="allow-cookie-stripe"]
 barclays.co.uk##P.otm
