@@ -526,6 +526,7 @@ yachtpaint.com##.cookiesPro
 yahoo.com###yucs-eprivacy
 yell.com###cookie-overlay
 yell.com##.cookie-notification
+zdf.de##.js-rb-attached.m-open.x-cookies.b-system-dialog
 zumba.com##.privacy-policy
 ||assets.futurecdn.net/js/fp_cookie.js$script
 ||assets.futurecdn.net/js/fp_cookie.min.js$script
