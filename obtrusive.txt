@@ -946,3 +946,4 @@ zumi.pl###cookieView
 ||du8783wkf05yr.cloudfront.net/rbi_uk.js$script
 ||harrys.co.uk/js/toucanCookie.js
 ||login.gg.pl/cookies-policy/*/cookie-terms*
+n26.com###cookie-note
