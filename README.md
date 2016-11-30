@@ -18,6 +18,27 @@ for completeness. Simple two- or three-word links to privacy pages
 aren't blocked (such as links in a page footer), but a lengthy
 paragraph mid-page will be.
 
+Are you a developer? Do you own a website in EU?
+------------------------------------------------
+
+Then try helping those of us who hate the cookie law and all the
+annoying popups/banner about cookies
+
+Follow this simple guideline for making a cookie disclamer.
+
+Set the most wrapper element id to *cookieDisclaimer* and your
+annoying cookie disclamer will be hidden by our filter list. Don't
+use anything else (we want to keep the list short)
+
+To detect if the element is hidden or that the user have agree to
+accept all cookies you could do
+
+```js
+if (getComputedStyle(cookieDisclaimer).display === 'none') {
+  document.cookie = 'acceptedCookies=true'
+}
+```
+
 Contribute
 ----------
 
