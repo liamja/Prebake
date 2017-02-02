@@ -285,6 +285,7 @@ letelegramme.fr###cookieChoiceInfo
 letudiant.fr###notice-cookie-block
 levante-emv.com##div[style*='bg_cookies.jpg']
 lg.com##.wrapper > .policyChk
+lg.com##.agree-cookie-wrap
 liberation.fr##.cookie-notify
 life.hu##div[class="accept-cookie-open"]
 linkedin.com###notice-cookie-policy
