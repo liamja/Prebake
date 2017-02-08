@@ -818,6 +818,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ##.eucookie_disclaimer
 ##.EUCookiePolicyContainer
 ##.eucookies
+##.eupopup-container
 ##.gn-cookie-alert
 ##.id-CookieConsent
 ##.js-cookie-consent
