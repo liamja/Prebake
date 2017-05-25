@@ -135,6 +135,7 @@ degulesider.dk##.cookies-info
 developpez.com###gabarit_cnilcookie
 devianne.com###avertissement_cookies
 diabetes.org.uk###policyPopup
+dirt4game.com###codemasters_cookie_acceptance
 dmi.dk##.content
 dnevnik.hr###cookieMon
 dobreprogramy.pl###cookiesPanel
