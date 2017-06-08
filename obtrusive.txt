@@ -122,6 +122,7 @@ concertolive.co.uk##.divCookieWarning
 couchsurfing.com##.is-hidden
 coreight.com###sliding-popup
 cpc.farnell.com###mktg_Cookie_Wrap
+cplusplus.com##body > div:nth-of-type(1)
 crocs.de##.intercept-content
 crocs.de##.intercept-spacer
 dailymotion.com##.sd_cookiespolicy
