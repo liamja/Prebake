@@ -456,6 +456,7 @@ tesco.com###tesco_cookie_widget
 theatlantic.com##.cookie-disclaimer
 theguardian.com##.site-message.site-message--cookies
 theiet.org###ietCookiePanel
+theinquirer.net###rdm-cookie-consent
 themeflood.com###gatewayBarFillstacks_in_5416_page4
 thesun.co.uk###sun-cookieMessage
 thesundaytimes.co.uk###tto-cookieMessage
