@@ -862,7 +862,7 @@ cineworld.co.uk##.notification.cookie
 demotywatory.pl##DIV[style^="position: fixed; left:0; right:0; bottom:0"]
 diy.com###noScriptCookies
 dolce-gusto.co.uk###nimgrowler
-ee.co.uk###ee-cookies-message
+ee.co.uk###eed-cookie-banner
 eu-cookie-directive/script.js
 eu_cookie_compliance.js*$script
 giffgaff.com###cookies-modal
