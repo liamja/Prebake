@@ -808,6 +808,9 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ##.cookieNotification
 ##.CookieNotification
 ##.cookie-notice
+##.cookies
+##.cookies-bar
+##.cookies-info
 ##.cookies-banner
 ##.cookies-overlay
 ##.epublishing-priority.epublishing-eu-cookies
