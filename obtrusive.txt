@@ -46,6 +46,7 @@ airvpn.org##div[style*='width:800px']
 alinea.fr##.cookies-notice-msg
 allocine.fr##.info-cookie
 allrecipes.co.uk###cookiePopupContainer
+alternativeto.com###bottomNotifier
 altfordamerne.dk##.content
 amd.com/Style%20Library/js/cookie-prompt.js$script
 anglianwater.co.uk###ctl00_pnlCookie
@@ -81,6 +82,7 @@ bedetheque.com##.cookie_message
 bestbyte.hu##div[id="vscookieAlertCont"]
 betfair.com##.footer-cookies-policy
 bibliotek.dk##.popup-content
+black-desert.com##.userNotice
 blog.hu##div[id="_iph_cp_popup"]
 blogger.com###blogger_cookie_notice
 blogs.mediapart.fr##.cookie-warn-msg
@@ -126,6 +128,7 @@ cpc.farnell.com###mktg_Cookie_Wrap
 cplusplus.com##div[style="background:#eed;padding:10px;margin:0;text-align:center;border-bottom:1px solid #446"]
 crocs.de##.intercept-content
 crocs.de##.intercept-spacer
+cubeupload.com###cookieMonster
 dailymotion.com##.sd_cookiespolicy
 data.gov.uk###sliding-popup
 datormagazin.se###AdBlockerInfo
@@ -179,6 +182,7 @@ filmaffinity.com###info-cookie
 fliegen-usa.de###cc-cookie-law
 focusrite.com###sliding-popup
 folkuniversitetet.se##.alert
+forvo.com###cookie_assistant
 fotka.com###cookies_info
 france5.fr###cookie-cnil-box
 freeview.co.uk###cookie-panel
@@ -323,6 +327,7 @@ monster.co.uk###intMsgCookies
 motor-talk.de###b-cc
 mpora.com##.c-cookie-policy
 mundodeportivo.com###cookies-policy-mssg
+musixmatch.com##.mxm-cookie-alert
 n-mobile.net###infobox3
 n26.com###cookie-note
 narod.hr###fancybox-overlay
@@ -372,11 +377,13 @@ penguingamers.eu##.RACKWrapper
 penzcentrum.hu##div[id="_iph_cp_popup"]
 perforce.com##span.optanon-link-text-left.optanon-white
 perforce.com##ul.optanon-menu.optanon-menu-allow
+picarto.tv##.cookieMSG
 pirateparty.org.uk###confirmCookiePolicy
 piret.be##.divCookiePopUpContainer
 pizza-online.fi###cookie_policy_container
 play.google.com##.app-translation-bar
 polisen.se##.cookie
+polygon.com###privacy-policy-notice
 polytuil.fr###cookiesContainer
 portfolio.hu##div[id="_iph_cp_popup"]
 postimees.ee###pm-cookie-consent
@@ -404,6 +411,7 @@ rfi.fr##.cookies_bar
 richersounds.com###headerCookieLaw
 rightmove.co.uk###cookiemodalbar
 road.cc###sliding-popup
+roccat.org##.PrivacyPolicyNotice
 rockpapershotgun.com###ecd_opt_in_banner
 rollingstone.com###euNotice
 rotring.com###cookienotify
@@ -467,6 +475,7 @@ theguardian.com##.site-message.site-message--cookies
 theiet.org###ietCookiePanel
 theinquirer.net###rdm-cookie-consent
 themeflood.com###gatewayBarFillstacks_in_5416_page4
+thenextweb.com##.cookieConsent
 thesun.co.uk###sun-cookieMessage
 thesundaytimes.co.uk###tto-cookieMessage
 thevitalounge.net###scnb-cookie-bar
@@ -477,7 +486,9 @@ tiscali.it##.bannerInformativaEU
 toluna.com###cookiesWarningBanner
 tomshw.it###cookies-privacy
 totalmoney.pl###right_widget
+translated.net###privacy-policy
 trophies-ps3.de###ingameCookie
+tube8.com###adBlockAlertWrap
 tvn.pl###msgLayer
 tvn24.pl###msgLayer
 tvn24bis.pl###msgLayer
@@ -503,6 +514,7 @@ volvotrucks.com###acceptCookie
 wattsindustries.com###header1_overlay2
 web.skype.com##.notification.info
 weebs.dk###cookie_wrapper
+whatfontis.com###sticky-popup
 which.co.uk###eprivacy-holder
 wikia.com##.banner-notification.notify
 wikomobile.com##.pop_cookies
