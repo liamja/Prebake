@@ -1,9 +1,22 @@
 Prebake
 =======
 
-[![Join the chat at https://gitter.im/liamja/Prebake](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/liamja/Prebake?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 A set of Adblock filters to block obtrusive EU cookie law notices.
+
+
+ARCHIVED
+--------
+
+This list is no longer maintained.
+
+Please use Fanboy's Cookie Monster filter list.
+This list is included in the Annoyance list - turn on the Annoyance
+list to continue block cookie notices.
+
+https://www.fanboy.co.nz/fanboy-cookiemonster.txt
+
+- [Subscribe to Fanboy's Cookie Monster](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fsecure.fanboy.co.nz%2Ffanboy-cookiemonster.txt&title=Anti-Cookie%20List)
+- [Subscribe to I Don't Care About Cookies](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fwww.i-dont-care-about-cookies.eu%2Fabp%2F&title=I%20don%27t%20care%20about%20cookies)
 
 Details
 -------
