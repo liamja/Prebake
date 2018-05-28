@@ -136,6 +136,7 @@ davidlloyd.co.uk###home-cookie2
 dawsonera.com##.cc-cookies-container
 decathlon.co.hu##div[id="cookie"]
 degulesider.dk##.cookies-info
+delfi.ee###cookie_ribbon
 developpez.com###gabarit_cnilcookie
 devianne.com###avertissement_cookies
 diabetes.org.uk###policyPopup
