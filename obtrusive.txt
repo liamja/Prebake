@@ -267,6 +267,7 @@ grosbill.com###cnil_bar
 groupalia.com##.wrapperCookies
 groupe-logos.com##div[style*='z-index: 1000;']
 guardian.co.uk##.identity-noticebar-content
+guysandstthomas.nhs.uk##cookiePlaceholder
 habo.se###svid10_25e65dba14d7b753e8fda009
 halens.se###site-message
 halmstad.se###svid12_47c5cae51518152da6eb69 > .lp-cookie-consent
@@ -330,6 +331,7 @@ k-citymarket.fi##.Pbox-sm
 k-market.fi##.Pbox-sm
 kalleanka.se##.alert
 karriere.fresenius.de##.cookie_message_inner
+kch.nhs.uk##.Cookie_Banner
 keil.com##.modouter
 ketnet.be###cookie-bar-wrapper
 kingston.ac.uk###site-wide-cookie-message
@@ -442,6 +444,7 @@ nelly.com###toast-container
 netapp.com###cboxOverlay
 netapp.com###colorbox
 newscientist.com###rbiCookiePolicy_pushDownBoxWrapper
+newsnow.co.uk###cookie_consent
 nexusmods.com###jquery-cookie-law-script
 nfbio.dk###the-cookie
 nicematin.com##.alert-cookies
@@ -525,6 +528,7 @@ rockpapershotgun.com###ecd_opt_in_banner
 rollingstone.com###euNotice
 rotring.com###cookienotify
 royalnavy.mod.uk###cookies-notice
+royalmarsden.nhs.uk###block-bean-cookie-message
 rs-online.com##.cookieMessageDiv
 rte.ie###cookie-policy-strap
 rtl.hu##.cookie-container
