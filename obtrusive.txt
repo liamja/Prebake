@@ -425,7 +425,6 @@ skyscanner.net###cookie
 slate.fr##.footer_cnil
 soeren-hentzschel.at###storage-notice
 softpedia.com##.jobnotice_cnt
-solus-project.com###cookie-law-info-bar
 sonera.fi##.attention-notice
 soundcloud.com##.announcement
 sport.es###msg-cookie
