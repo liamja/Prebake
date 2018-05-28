@@ -866,6 +866,7 @@ cdn.iubenda.com/cookie_solution/iubenda_cs.js
 ##.cookies-info
 ##.cookies-banner
 ##.cookies__banner
+##.cookies-content
 ##.cookies-overlay
 ##.eprivacy-cookie
 ##.epublishing-priority.epublishing-eu-cookies
@@ -940,6 +941,7 @@ life.hu##div[id="_iph_cp_popup"]
 lifeboatmarketing.co.uk###id_cookieconsent
 livecolor.co.uk##.cookiedisclaimer
 merlin.pl##.cookies_policy
+office.com###BannerContainer
 orange.pl###cookiesArticle
 otomoto.pl##.om-cookie-agreement
 otterbox.eu##div[id="cookienotify"]
@@ -965,9 +967,11 @@ www.bing.com###thp_notf_div
 www.blacknight.com###bkCookieBanner
 www.blockbuster.co.uk##.toast-type-newCookie
 www.caterersearch.com###rbiCookiePolicy_mainInformation
+www.cebit.de##.row.user-notes-notification.M011 > .rowInner
 www.codehousegroup.com/js/libs/cookie-check.js$script
 www.crucial.com##.cookieInfo
 www.drinkaware.co.uk##.cookie-check
+www.dropbox.com###top-notification-bar-container
 www.edexcel.com###cookiemsgbox
 www.fidelity.co.uk###cookieMgn
 www.filmweb.pl##.topBarCont
